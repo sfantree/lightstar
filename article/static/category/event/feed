@@ -1,0 +1,140 @@
+<!--    <li --><!-- id="li-comment---><!--">-->
+<!--        <article id="comment---><!--" class="comment-b">-->
+<!--            <header class="comment-meta comment-author vcard">-->
+<!--                --><!--            </header>-->
+<!--            <!-- .comment-meta -->-->
+<!--            --><!--                <p class="comment-awaiting-moderation">--><!--</p>-->
+<!--            --><!--            <section class="comment-content comment">-->
+<!--                --><!--                --><!--                <div class="comment-reply">-->
+<!--                    --><!--                </div>-->
+<!--                <!-- .reply -->-->
+<!--            </section>-->
+<!--            <!-- .comment-content -->-->
+<!--        </article>-->
+<!--        <!-- #comment-## -->-->
+<!--    </li>-->
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>事件簿 &#8211; Anotherhome</title>
+	<atom:link href="https://www.anotherhome.net/category/event/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.anotherhome.net</link>
+	<description>ペロペロ</description>
+	<lastBuildDate>Fri, 14 Oct 2016 10:06:56 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>给喜欢明信片的你 — 一年一度的送明信片活动（已完结）</title>
+		<link>https://www.anotherhome.net/2449</link>
+		<comments>https://www.anotherhome.net/2449#comments</comments>
+		<pubDate>Wed, 16 Mar 2016 16:57:42 +0000</pubDate>
+		<dc:creator><![CDATA[DIYgod]]></dc:creator>
+				<category><![CDATA[事件簿]]></category>
+
+		<guid isPermaLink="false">https://www.anotherhome.net/?p=2449</guid>
+		<description><![CDATA[Q: 你是谁？ A: 网红DIYgod，是真人，不是骗子。 &#160; Q: 我为什么要你的明信片？妈妈说不 [&#8230;]]]></description>
+		<wfw:commentRss>https://www.anotherhome.net/2449/feed</wfw:commentRss>
+		<slash:comments>72</slash:comments>
+		</item>
+		<item>
+		<title>崭新的友♂链页面！</title>
+		<link>https://www.anotherhome.net/2361</link>
+		<comments>https://www.anotherhome.net/2361#comments</comments>
+		<pubDate>Fri, 08 Jan 2016 08:58:34 +0000</pubDate>
+		<dc:creator><![CDATA[DIYgod]]></dc:creator>
+				<category><![CDATA[事件簿]]></category>
+
+		<guid isPermaLink="false">https://www.anotherhome.net/?p=2361</guid>
+		<description><![CDATA[之前只是把友链放到右侧栏的小工具，太简陋了，所以写了一个友链页面： https://www.anotherho [&#8230;]]]></description>
+		<wfw:commentRss>https://www.anotherhome.net/2361/feed</wfw:commentRss>
+		<slash:comments>58</slash:comments>
+		</item>
+		<item>
+		<title>小调查：如果我备案了你还会爱我吗？</title>
+		<link>https://www.anotherhome.net/2274</link>
+		<comments>https://www.anotherhome.net/2274#comments</comments>
+		<pubDate>Fri, 25 Dec 2015 07:41:24 +0000</pubDate>
+		<dc:creator><![CDATA[DIYgod]]></dc:creator>
+				<category><![CDATA[事件簿]]></category>
+
+		<guid isPermaLink="false">https://www.anotherhome.net/?p=2274</guid>
+		<description><![CDATA[麻烦大家做一个小调查，一定要实话实说哦~ 如果我备案了你还会爱我吗？ 不爱 0 爱 好感动！谢谢大家的厚爱！]]></description>
+		<wfw:commentRss>https://www.anotherhome.net/2274/feed</wfw:commentRss>
+		<slash:comments>67</slash:comments>
+		</item>
+		<item>
+		<title>通往Anotherhome里世界的微信公众号开通啦</title>
+		<link>https://www.anotherhome.net/2043</link>
+		<comments>https://www.anotherhome.net/2043#comments</comments>
+		<pubDate>Sat, 11 Jul 2015 15:48:59 +0000</pubDate>
+		<dc:creator><![CDATA[DIYgod]]></dc:creator>
+				<category><![CDATA[事件簿]]></category>
+
+		<guid isPermaLink="false">http://www.anotherhome.net/?p=2043</guid>
+		<description><![CDATA[⬆️通往里世界的车票⬆️ 这时你会发现你的手已经不受控制，你拿起了手机，打开了微信，扫码进入了Anotherh [&#8230;]]]></description>
+		<wfw:commentRss>https://www.anotherhome.net/2043/feed</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		</item>
+		<item>
+		<title>博客又搬新家啦</title>
+		<link>https://www.anotherhome.net/1826</link>
+		<comments>https://www.anotherhome.net/1826#comments</comments>
+		<pubDate>Thu, 19 Mar 2015 13:01:58 +0000</pubDate>
+		<dc:creator><![CDATA[DIYgod]]></dc:creator>
+				<category><![CDATA[事件簿]]></category>
+
+		<guid isPermaLink="false">http://www.anotherhome.net/?p=1826</guid>
+		<description><![CDATA[眼看 Google Adsense 已经100多美元马上就能提现了，加上想买个vps跑Python爬虫，就新入 [&#8230;]]]></description>
+		<wfw:commentRss>https://www.anotherhome.net/1826/feed</wfw:commentRss>
+		<slash:comments>84</slash:comments>
+		</item>
+		<item>
+		<title>博客搬家到恒创主机</title>
+		<link>https://www.anotherhome.net/1495</link>
+		<comments>https://www.anotherhome.net/1495#comments</comments>
+		<pubDate>Mon, 01 Sep 2014 06:34:48 +0000</pubDate>
+		<dc:creator><![CDATA[DIYgod]]></dc:creator>
+				<category><![CDATA[事件簿]]></category>
+
+		<guid isPermaLink="false">http://www.anotherhome.net/?p=1495</guid>
+		<description><![CDATA[Hoster的贝壳快用完了，然后正好赶上恒创科技9月主机促销活动（推广链接，在意勿点），果断买了半年的 香港P [&#8230;]]]></description>
+		<wfw:commentRss>https://www.anotherhome.net/1495/feed</wfw:commentRss>
+		<slash:comments>65</slash:comments>
+		</item>
+		<item>
+		<title>贴吧云签到更换</title>
+		<link>https://www.anotherhome.net/1425</link>
+		<comments>https://www.anotherhome.net/1425#comments</comments>
+		<pubDate>Tue, 26 Aug 2014 16:33:56 +0000</pubDate>
+		<dc:creator><![CDATA[DIYgod]]></dc:creator>
+				<category><![CDATA[事件簿]]></category>
+
+		<guid isPermaLink="false">http://www.anotherhome.net/?p=1425</guid>
+		<description><![CDATA[由于KK的贴吧签到助手停止维护（默哀~），所以重新搭建了 无名智者 开发的贴吧云签到。 旧的云签到（https [&#8230;]]]></description>
+		<wfw:commentRss>https://www.anotherhome.net/1425/feed</wfw:commentRss>
+		<slash:comments>48</slash:comments>
+		</item>
+		<item>
+		<title>博客启用Google Adsense</title>
+		<link>https://www.anotherhome.net/1346</link>
+		<comments>https://www.anotherhome.net/1346#comments</comments>
+		<pubDate>Thu, 07 Aug 2014 06:09:40 +0000</pubDate>
+		<dc:creator><![CDATA[DIYgod]]></dc:creator>
+				<category><![CDATA[事件簿]]></category>
+
+		<guid isPermaLink="false">http://www.anotherhome.net/?p=1346</guid>
+		<description><![CDATA[感谢 FindSpace 的帮助。 申请第二次就申请下来了，如此简单~ 百度阿里为首的坑爹国内广告联盟居然还要 [&#8230;]]]></description>
+		<wfw:commentRss>https://www.anotherhome.net/1346/feed</wfw:commentRss>
+		<slash:comments>25</slash:comments>
+		</item>
+	</channel>
+</rss>

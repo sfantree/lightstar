@@ -1,0 +1,576 @@
+<!--    <li --><!-- id="li-comment---><!--">-->
+<!--        <article id="comment---><!--" class="comment-b">-->
+<!--            <header class="comment-meta comment-author vcard">-->
+<!--                --><!--            </header>-->
+<!--            <!-- .comment-meta -->-->
+<!--            --><!--                <p class="comment-awaiting-moderation">--><!--</p>-->
+<!--            --><!--            <section class="comment-content comment">-->
+<!--                --><!--                --><!--                <div class="comment-reply">-->
+<!--                    --><!--                </div>-->
+<!--                <!-- .reply -->-->
+<!--            </section>-->
+<!--            <!-- .comment-content -->-->
+<!--        </article>-->
+<!--        <!-- #comment-## -->-->
+<!--    </li>-->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="theme-color" content="#595C5E">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes"">
+    <title>赞赏 | Anotherhome</title>
+    <link rel="canonical" href="https://www.anotherhome.net/">
+    <link rel="pingback" href="https://www.anotherhome.net/xmlrpc.php"/>
+    <link rel="apple-touch-icon" href="https://diygod.b0.upaiyun.com/head4.jpg">
+    <link rel="shortcut icon" href="https://www.anotherhome.net/wp-content/themes/Amativeness/favicon.ico">
+    <link rel="search" type="application/opensearchdescription+xml" href="https://www.anotherhome.net/wp-content/themes/Amativeness/search.xml" title="Anotherhome">
+    <link rel="stylesheet" href="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/nprogress/nprogress.min.css">
+    <link rel="stylesheet" href="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/social-share.js/dist/css/share.min.css">
+    <link rel="stylesheet" href="https://staticfile.qnssl.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script src='https://diygod.b0.upaiyun.com/jquery.min.js'></script>
+<!--    <script type="text/javascript" src="--><!--/ajax-comment/app.js"></script>-->
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/nprogress/nprogress.min.js"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-48084758-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    
+<!-- All in One SEO Pack 2.3.10.2 by Michael Torbert of Semper Fi Web Design[232,261] -->
+<meta name="description"  content="@赞赏说明： 若无特殊说明，赞赏之款项用来请我吃饭（*/∇＼*） 如果给你带来过欢乐，或者本站对你有所帮助，欢迎赞赏支持。:) 有任何疑问请在下面留言。 &nbsp; @赞赏方式： &nbsp; 微信扫一扫" />
+
+<link rel="canonical" href="https://www.anotherhome.net/donate" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; Feed" href="https://www.anotherhome.net/feed" />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; 评论Feed" href="https://www.anotherhome.net/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; 赞赏评论Feed" href="https://www.anotherhome.net/donate/feed" />
+<link rel='stylesheet' id='crayon-css'  href='https://www.anotherhome.net/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='amativeness-style-css'  href='https://www.anotherhome.net/wp-content/themes/Amativeness/style.css?ver=05d3b79e72bbe9d939510b8a230704d6' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='amativeness-ie-css'  href='https://www.anotherhome.net/wp-content/themes/Amativeness/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://www.anotherhome.net/wp-content/plugins/Hermit-X-master/assets/js/2.5.4/APlayer.min.js?ver=2.5.4'></script>
+<link rel='https://api.w.org/' href='https://www.anotherhome.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.anotherhome.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.anotherhome.net/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='https://www.anotherhome.net/?p=173' />
+<link rel="alternate" type="application/json+oembed" href="https://www.anotherhome.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.anotherhome.net%2Fdonate" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.anotherhome.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.anotherhome.net%2Fdonate&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.anotherhome.net/?wordfence_logHuman=1&hid=7D03129337D29E00E56D585C26117B11');
+</script></head>
+<body class="page page-id-173 page-template-default single-author">
+    <script>
+        NProgress.configure({
+            showSpinner: false,
+            easing: 'ease-out',
+            speed: 1000
+        });
+        NProgress.set(0.7);
+    </script>
+    <canvas id="evanyou"></canvas>
+    <div id="back-to-top" class="red" data-scroll="body">
+    </div>
+    <div class="navbar">
+                <div class="container">
+            <nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+                <div class="menu-%e8%8f%9c%e5%8d%951-container"><ul id="menu-%e8%8f%9c%e5%8d%951" class="nav-menu"><li id="menu-item-2270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2270"><a href="https://www.anotherhome.net/"><i class="fa fa-home"></i>首页</a></li>
+<li id="menu-item-2271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2271"><a target="_blank"><i class="fa fa-paperclip"></i>分类</a>
+<ul class="sub-menu">
+	<li id="menu-item-2267" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2267"><a target="_blank" href="https://www.anotherhome.net/category/create">创作集</a></li>
+	<li id="menu-item-2266" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2266"><a target="_blank" href="https://www.anotherhome.net/category/share">分享境</a></li>
+	<li id="menu-item-2268" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2268"><a target="_blank" href="https://www.anotherhome.net/category/say">闲言语</a></li>
+	<li id="menu-item-2269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2269"><a target="_blank" href="https://www.anotherhome.net/category/event">事件簿</a></li>
+</ul>
+</li>
+<li id="menu-item-2512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2512"><a><i class="fa fa-flask"></i>实验室</a>
+<ul class="sub-menu">
+	<li id="menu-item-2606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2606"><a target="_blank" href="http://diygod.me/">DIYgod</a></li>
+	<li id="menu-item-2515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2515"><a target="_blank" href="http://aplayer.js.org/">APlayer</a></li>
+	<li id="menu-item-2769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2769"><a href="http://dplayer.js.org/">DPlayer</a></li>
+	<li id="menu-item-2607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2607"><a target="_blank" href="http://diygod.github.io/OwO/demo/">OωO</a></li>
+	<li id="menu-item-2516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a target="_blank" href="https://www.anotherhome.net/file/Ticktack/index.html?background=fff&#038;color=f00&#038;birthday=19950609">Ticktack</a></li>
+	<li id="menu-item-2517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2517"><a target="_blank" href="https://www.anotherhome.net/file/jCarrousel/">jCarrousel</a></li>
+	<li id="menu-item-2514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2514"><a target="_blank" href="https://www.anotherhome.net/api/zhihu/">知乎日报RSS</a></li>
+</ul>
+</li>
+<li id="menu-item-2263" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-173 current_page_item menu-item-2263"><a target="_blank" href="https://www.anotherhome.net/donate"><i class="fa fa-usd"></i>捐赠</a></li>
+<li id="menu-item-2362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2362"><a target="_blank" href="https://www.anotherhome.net/link"><i class="fa fa-mars"></i>链接</a></li>
+<li id="menu-item-2264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2264"><a target="_blank" href="https://www.anotherhome.net/message"><i class="fa fa-pencil"></i>留言板</a></li>
+<li id="menu-item-2262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2262"><a target="_blank" href="https://www.anotherhome.net/about"><i class="fa fa-rocket"></i>关于</a></li>
+</ul></div>            </nav>
+                                        <div class="edit-wz">
+                                    </div>
+                        <div class="nav-right">
+                <form class="search-form" method="post" action="https://www.anotherhome.net">
+                    <input type="text" name="s" class="search-input" placeholder="站内搜索">
+                    <button type="submit" class="search-submit sousuo">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <header class="header-description">
+        <div id="site-header">
+            <h1><a href="https://www.anotherhome.net/"
+                   title="Anotherhome"
+                   rel="home">Anotherhome</a></h1>
+            <p class="typed"><a href="https://www.anotherhome.net/" title="Anotherhome" rel="home"></a></p>
+        </div>
+    </header>
+    <div id="information" class="info block">
+        <a href="https://www.anotherhome.net/"><img src="https://www.anotherhome.net/wp-content/uploads/2016/09/head.jpg" class="avatar"
+                                                             data-pinit="registered"
+                                                             width="356"
+                                                             height="356"
+                                                             alt=""/></a>
+
+        <h2 class="description"><a href="https://www.anotherhome.net/"
+                                   title="Anotherhome" rel="home"><span
+                    style="color: #3369e8;">Write</span> <span style="color: #d50f25;">the</span> <span
+                    style="color: #eeb211;">Code.</span> <span style="color: #3369e8;">Change</span> <span
+                    style="color: #009925;">the</span> <span style="color: #d50f25;">World.</span></a></h2>
+    </div>
+    <div class="xm">
+        <img src="https://diygod.b0.upaiyun.com/xm.png">
+    </div>
+    <div class="container" id="content">
+        <div class="article-list">
+<div class="main" id="thumbs">
+        <article id="post-173" class="block post">
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/donate" rel="bookmark">赞赏</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年2月15日 • <i class="fa fa-eye"></i>11,366 次围观 • <i class="fa fa-comment-o"></i>活捉 49 条            </p>
+                            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p><img class="alignnone" src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/donate.jpg" alt="" width="250" height="238" /></p>
+<p><span style="font-size: 18pt;"><strong>@赞赏说明：</strong></span></p>
+<p>若无特殊说明，赞赏之款项用来请我吃饭（*/∇＼*）</p>
+<p>如果给你带来过欢乐，或者本站对你有所帮助，欢迎赞赏支持。:)</p>
+<p>有任何疑问请在下面留言。</p>
+<hr />
+<p>&nbsp;</p>
+<p><span style="font-size: 18pt;"><strong>@赞赏方式：</strong></span></p>
+<p>&nbsp;</p>
+<div class="donate-body donate-show">
+<div class="donate-wx donate-item">
+        <img src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/2016-08-25_wxd.png"></p>
+<div class="donate-tip">微信扫一扫,向我赞赏</div>
+</p></div>
+<div class="donate-zfb donate-item">
+        <img src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/2016-08-25_zfbd.png"></p>
+<div class="donate-tip">支付宝扫一扫,向我赞赏</div>
+</p></div>
+</div>
+<p>&nbsp;</p>
+<p><strong>PayPal</strong>：<a href="https://www.paypal.me/DIYgod" target="_blank">https://www.paypal.me/DIYgod</a></p>
+<p><strong>比特币</strong>：13CwQLHzPYm2tewNMSJBeArbbRM5NSmCD1</p>
+<p>&nbsp;</p>
+<p><span style="font-size: 18pt;"><strong>@赞赏记录：</strong></span></p>
+<table class="donate-table" border="1" rules="all">
+<tr>
+<th>时间</th>
+<th>赞赏人</th>
+<th>金额</th>
+</tr>
+</table>
+<p><script>
+    window.donateData = [
+        ['2014.06.03', 'hcwhan', '11'],
+        ['2014.10.06', '海迪安', '10'],
+        ['2014.12.30', 'TasSmith', '10'],
+        ['2015.01.27', '卢**', '10'],
+        ['2015.01.27', '朱**', '20'],
+        ['2015.02.21', 'Andy', '50'],
+        ['2015.04.04', '高*', '5'],
+        ['2015.04.04', '李**', '10'],
+        ['2015.04.16', '潘**', '15.48'],
+        ['2015.04.16', '星光', '10'],
+        ['2015.04.25', '周*', '10'],
+        ['2015.04.29', '梁*', '10'],
+        ['2015.05.15', '吴**', '10'],
+        ['2015.05.22', '栾*', '30'],
+        ['2015.05.22', '吴*', '33'],
+        ['2015.06.06', '李**', '10'],
+        ['2015.06.07', '赵**', '2.33'],
+        ['2015.06.27', '陈*', '10'],
+        ['2016.01.06', 'HelloWorld', '10'],
+        ['2016.02.18', 'freejishu', '20.1'],
+        ['2016.03.04', '琦', '10'],
+        ['2016.03.07', 'zz', '10'],
+        ['2016.03.14', 'WataJirush1', '23.33'],
+        ['2016.04.05', '东', '10'],
+        ['2016.07.04', '杰西', '10'],
+        ['2016.06.16', '卜*杰', '20'],
+        ['2016.05.24', '小瀋', '2.33'],
+        ['2016.04.16', '一只三三趴', '2.5'],
+        ['2016.08.24', '一骁', '50'],
+        ['2016.08.16', '好好先生Y', '2.33'],
+        ['2016.08.14', '肖*', '3'],
+        ['2016.07.21', '朱*婷', '5'],
+        ['2016.04.16', '张*增', '22'],
+        ['2016.04.11', 'aofall', '1.27'],
+        ['2016.08.30', 'NitMoon', '10.24'],
+        ['2016.09.28', '木偶先生', '11'],
+        ['2015.11.14', 'Sonic853', '8.53'],
+        ['2016.10.12', '未知（微信）', '6.66'],
+        ['2016.10.13', '小灯笼', '6.66']
+    ];
+</script></p>
+        </div><!-- .article-content -->
+    </article><!-- #post -->    <div class="block comment-block">
+    				<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">发表评论 <small><a rel="nofollow" id="cancel-comment-reply-link" href="/donate/comment-page-2#respond" style="display:none;">取消回复</a></small></h3>				<form action="https://www.anotherhome.net/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+					<p class="comment-notes"><span id="email-notes">电子邮件地址不会被公开。</span> 必填项已用<span class="required">*</span>标注</p><div class="content-field"> <textarea class="text-block" id="comment-content" name="comment" cols="45" rows="8" aria-required="true" placeholder="|´・ω・)ノ还不快点说点什么呀poi~"></textarea><div class="OwO"></div></div><div class="comment-info"><input class="text-block" id="author" name="author" type="text" value="" size="30" placeholder="昵称 *" />
+<input class="text-block" id="email" name="email" type="email" value="" size="30" placeholder="邮箱 *" />
+<input class="text-block" id="url" name="url" type="url" value="" size="30" placeholder="网址" /></div>
+        <input type="hidden" id="leonax-magic" name="leonax-magic" value="0">
+        <script>
+            $(function() {
+                $("#comment-content").on("keyup", function() {
+                    $("#leonax-magic").val("412751");
+                });
+                $('body').on('click touch', function () {
+                    $("#leonax-magic").val("412751");
+                });
+            })
+        </script>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="咻～" /> <input type='hidden' name='comment_post_ID' value='173' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>				</form>
+					</div><!-- #respond -->
+		
+            <div id="comments">
+                                        <a href="https://www.anotherhome.net/donate#comments" class="活捉 % 条" >活捉 49 条</a>                <ol class="commentlist">
+                                    <li class="comment even thread-even depth-1" id="li-comment-33012">
+                <article id="comment-33012" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/ad77056eef3b92f94a9599c2f0607788?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/ad77056eef3b92f94a9599c2f0607788?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='https://www.lanterboy.com/' rel='external nofollow' class='url'>小灯笼</a> </div><div class="comments-class">天然呆</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 53.0.2785.116' rel='nofollow'>Google Chrome 53.0.2785.116</a>   <a href='http://www.microsoft.com/windows/' title='Windows 10 x64 Edition' rel='nofollow'>Windows 10 x64 Edition</a></div></div><a href="https://www.anotherhome.net/donate/comment-page-2#comment-33012"><time datetime="2016-10-13T21:52:16+00:00">2016年10月13日 下午9:52</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>已赞赏6.66<br />
+<img src="//faceface.b0.upaiyun.com/jz4.gif"/></p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/donate?replytocom=33012#respond' onclick='return addComment.moveForm( "comment-33012", "33012", "respond", "173" )' aria-label='回复给小灯笼'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                <ol class="children">
+                <li class="comment byuser comment-author-diygod bypostauthor odd alt depth-2" id="li-comment-33017">
+                <article id="comment-33017" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">DIYgod <span class="comment-master">一只萌萌哒博主</span></div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 53.0.2785.143' rel='nofollow'>Google Chrome 53.0.2785.143</a>   <a href='http://www.apple.com/macosx/' title='Mac OS X  10.12.0' rel='nofollow'>Mac OS X  10.12.0</a></div></div><a href="https://www.anotherhome.net/donate/comment-page-2#comment-33017"><time datetime="2016-10-14T18:05:53+00:00">2016年10月14日 下午6:05</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>么么哒，今晚跟你睡(☆ω☆)</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/donate?replytocom=33017#respond' onclick='return addComment.moveForm( "comment-33017", "33017", "respond", "173" )' aria-label='回复给DIYgod'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+                <li class="comment even thread-odd thread-alt depth-1" id="li-comment-32982">
+                <article id="comment-32982" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/af325e71d97c743ce9022586ea18baa2?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/af325e71d97c743ce9022586ea18baa2?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='http://853.bronya.net' rel='external nofollow' class='url'>Sonic853</a> </div><div class="comments-class">天然呆</div><div class="comments-ua">  <a href='http://www.mozilla.org/' title='Firefox 41.0' rel='nofollow'>Firefox 41.0</a>   <a href='http://www.microsoft.com/windows/' title='Windows 10 x64 Edition' rel='nofollow'>Windows 10 x64 Edition</a></div></div><a href="https://www.anotherhome.net/donate/comment-page-2#comment-32982"><time datetime="2016-10-11T02:14:47+00:00">2016年10月11日 上午2:14</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>2015-11-14我赞赏的8.53元没记录上😂😂😂</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/donate?replytocom=32982#respond' onclick='return addComment.moveForm( "comment-32982", "32982", "respond", "173" )' aria-label='回复给Sonic853'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                <ol class="children">
+                <li class="comment byuser comment-author-diygod bypostauthor odd alt depth-2" id="li-comment-32984">
+                <article id="comment-32984" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">DIYgod <span class="comment-master">一只萌萌哒博主</span></div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 53.0.2785.143' rel='nofollow'>Google Chrome 53.0.2785.143</a>   <a href='http://www.apple.com/macosx/' title='Mac OS X  10.12.0' rel='nofollow'>Mac OS X  10.12.0</a></div></div><a href="https://www.anotherhome.net/donate/comment-page-2#comment-32984"><time datetime="2016-10-11T11:46:28+00:00">2016年10月11日 上午11:46</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>2015年中间遗漏了不少&#8230; 已加，么么哒ヾ(≧∇≦*)ゝ</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/donate?replytocom=32984#respond' onclick='return addComment.moveForm( "comment-32984", "32984", "respond", "173" )' aria-label='回复给DIYgod'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+                <li class="comment even thread-even depth-1" id="li-comment-32560">
+                <article id="comment-32560" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/eaeb9056b2863f4f5a1ac8bb1b5a5a62?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/eaeb9056b2863f4f5a1ac8bb1b5a5a62?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='http://4999.in' rel='external nofollow' class='url'>MyPuppet</a> </div><div class="comments-class">抖M</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 53.0.2785.116' rel='nofollow'>Google Chrome 53.0.2785.116</a>   <a href='http://www.apple.com/macosx/' title='Mac OS X  10.11.6' rel='nofollow'>Mac OS X  10.11.6</a></div></div><a href="https://www.anotherhome.net/donate/comment-page-2#comment-32560"><time datetime="2016-09-28T10:10:01+00:00">2016年9月28日 上午10:10</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>来看你啦，之前你给寄的书昨天才翻来看，这书已经跟着我跑了小半个中国了。</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/donate?replytocom=32560#respond' onclick='return addComment.moveForm( "comment-32560", "32560", "respond", "173" )' aria-label='回复给MyPuppet'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                <ol class="children">
+                <li class="comment byuser comment-author-diygod bypostauthor odd alt depth-2" id="li-comment-32579">
+                <article id="comment-32579" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">DIYgod <span class="comment-master">一只萌萌哒博主</span></div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 53.0.2785.116' rel='nofollow'>Google Chrome 53.0.2785.116</a>   <a href='http://www.apple.com/macosx/' title='Mac OS X  10.12.0' rel='nofollow'>Mac OS X  10.12.0</a></div></div><a href="https://www.anotherhome.net/donate/comment-page-2#comment-32579"><time datetime="2016-09-28T11:10:33+00:00">2016年9月28日 上午11:10</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>好久不见2333∠( ᐛ 」∠)＿</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/donate?replytocom=32579#respond' onclick='return addComment.moveForm( "comment-32579", "32579", "respond", "173" )' aria-label='回复给DIYgod'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+                <li class="comment even thread-odd thread-alt depth-1" id="li-comment-15146">
+                <article id="comment-15146" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/c96ed136287f499b469872caa474edfe?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/c96ed136287f499b469872caa474edfe?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='http://www.ghostsf.com' rel='external nofollow' class='url'>ghostsf</a> </div><div class="comments-class">天然呆</div><div class="comments-ua">  <a href='http://www.ubrowser.com/' title='uBrowser 5.6.14087.908' rel='nofollow'>uBrowser 5.6.14087.908</a>   <a href='http://www.microsoft.com/windows/' title='Windows 7 x64 Edition' rel='nofollow'>Windows 7 x64 Edition</a></div></div><a href="https://www.anotherhome.net/donate/comment-page-2#comment-15146"><time datetime="2016-08-17T15:25:23+00:00">2016年8月17日 下午3:25</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>|´・ω・)ノ</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/donate?replytocom=15146#respond' onclick='return addComment.moveForm( "comment-15146", "15146", "respond", "173" )' aria-label='回复给ghostsf'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+                <li class="comment odd alt thread-even depth-1" id="li-comment-10678">
+                <article id="comment-10678" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/a539b5eae963858878cc35d41b731af4?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/a539b5eae963858878cc35d41b731af4?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='http://www.chainwon.com/' rel='external nofollow' class='url'>轻梦</a> </div><div class="comments-class">傲娇</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 50.0.2661.102' rel='nofollow'>Google Chrome 50.0.2661.102</a>   <a href='http://www.microsoft.com/windows/' title='Windows 7 x64 Edition' rel='nofollow'>Windows 7 x64 Edition</a></div></div><a href="https://www.anotherhome.net/donate/comment-page-2#comment-10678"><time datetime="2016-05-14T15:54:56+00:00">2016年5月14日 下午3:54</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>老乡啊</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/donate?replytocom=10678#respond' onclick='return addComment.moveForm( "comment-10678", "10678", "respond", "173" )' aria-label='回复给轻梦'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+                <li class="comment even thread-odd thread-alt depth-1" id="li-comment-10244">
+                <article id="comment-10244" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/1757722b03cffa93f6fa752f0f453412?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/1757722b03cffa93f6fa752f0f453412?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='http://freedom.moe' rel='external nofollow' class='url'>angel</a> </div><div class="comments-class">腹黑</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 49.0.2623.110' rel='nofollow'>Google Chrome 49.0.2623.110</a>   <a href='http://www.microsoft.com/windows/' title='Windows 10 x64 Edition' rel='nofollow'>Windows 10 x64 Edition</a></div></div><a href="https://www.anotherhome.net/donate/comment-page-2#comment-10244"><time datetime="2016-04-17T09:39:05+00:00">2016年4月17日 上午9:39</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>来看你了，我是你以前的音符</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/donate?replytocom=10244#respond' onclick='return addComment.moveForm( "comment-10244", "10244", "respond", "173" )' aria-label='回复给angel'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+                </ol><!-- .commentlist -->
+                                                                <ol class="page-navigator">
+                    <div id="comments-nav">
+                        <a class="prev page-numbers" href="https://www.anotherhome.net/donate/comment-page-1#comments">上一页</a>
+<a class='page-numbers' href='https://www.anotherhome.net/donate/comment-page-1#comments'>1</a>
+<span class='page-numbers current'>2</span>                    </div>
+                </ol>
+                    </div><!-- #comments .comments-area -->
+    </div></div><!-- main -->
+    <div id="secondary" class="side" role="complementary">
+        <section id="text-11" class="block widget widget_text">			<div class="textwidget"><div class="ca-container">
+    <div class="ca-head">
+        <div class="ca-head-container">
+            <img src="https://diygod.b0.upaiyun.com/snjz.jpg">
+            <h1><span>网红</span>DIYgod</h1>
+        </div>
+    </div>
+    <div class="ca-body">
+        <p>你能抓到我么？</p>
+        <div class="catch-me">
+            <a data-balloon="Rss" data-balloon-pos="up" target="_blank" href="https://www.anotherhome.net/feed"><i class="fa fa-rss"></i></a>
+            <a data-balloon="微博" data-balloon-pos="up" target="_blank" href="http://weibo.com/anotherhome"><i class="fa fa-weibo"></i></a>
+            <a data-balloon="GitHub" data-balloon-pos="up" target="_blank" href="https://github.com/DIYgod"><i class="fa fa-github"></i></a>
+            <a data-balloon="Instagram" data-balloon-pos="up" target="_blank" href="https://www.instagram.com/diygod" style="display:none;"><i class="fa fa-instagram"></i></a>
+            <a data-balloon="微信公众号" data-balloon-pos="up" target="_blank" href="https://diygod.b0.upaiyun.com/gzh.jpg"><i class="fa fa-wechat"></i></a>
+            <a data-balloon="QQ群" data-balloon-pos="up" target="_blank" href="https://dn-diygod.qbox.me/qq-g.jpg"><i class="fa fa-qq"></i></a>
+            <a data-balloon="知乎" data-balloon-pos="up" target="_blank" href="https://www.zhihu.com/people/diygod"><i  class="fa" style="font-weight: 500;">知</i></a>
+            <a data-balloon="坐标" data-balloon-pos="up" target="_blank" href="https://goo.gl/maps/6DuU9eED3C92"><i class="fa fa-map-marker" style="display:none;"></i></a>
+        </div>
+    </div>
+</div></div>
+		</section><section id="text-3" class="block widget widget_text">			<div class="textwidget"><div id="player1" class="aplayer">	 	 
+ <div style="padding: 10px; font-size: 10px; text-align: center;">(＞﹏＜) APlayer 加载中,好累的说...</div>	 	 
+</div></div>
+		</section><section id="text-4" class="block widget widget_text">			<div class="textwidget"><div class='like-vote'>
+	<p class='like-title'>Do you like me?</p>
+	<div class='like-count'>
+		<i class="fa fa-heart"></i><span></span>
+	</div>
+</div></div>
+		</section><section id="text-18" class="block widget widget_text">			<div class="textwidget"><a target="_blank" href="http://www.yq24.net/aff.php?aff=98" style="font-size: 13px; line-height: 20px;"><img src="https://diygod.b0.upaiyun.com/yq24.jpg"></a></div>
+		</section><section id="text-15" class="block widget widget_text"><p class="ui red ribbon label">这些人都排着队来跟我说话</p>			<div class="textwidget">    <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33050">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/e5fa85ffe0ba8d4f491af41a00d454de?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/e5fa85ffe0ba8d4f491af41a00d454de?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">ykk 在「留言板」中说:</p>
+                <p class="recent-text">桂纶镁呀</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2770#comment-33037">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「WordPress 反垃圾评论大作战」中说:</p>
+                <p class="recent-text">就改了下菜单栏...厉害这都能看出来(´இ皿இ｀)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33036">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">不写Python很多年...</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2790#comment-33035">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/124d03a731ac13b3ab5ffa6762bd12c7?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/124d03a731ac13b3ab5ffa6762bd12c7?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">liwanglin12 在「DPlayer 和 bilibili 更配哦」中说:</p>
+                <p class="recent-text">DaoCloud based on Docker</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33034">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">Added~~ 头像好看，谁呀(☆ω☆)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33033">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">可以等有内容了再来申请哟(ฅ´ω`ฅ)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2790#comment-33032">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「DPlayer 和 bilibili 更配哦」中说:</p>
+                <p class="recent-text">点右下角设置按钮可以关闭，我这里没问题呀(´இ皿இ｀)</p>
+            </div>
+        </a>
+    </li>
+    </div>
+		</section><section id="views-3" class="block widget widget_views"><p class="ui red ribbon label">大家都排队来看这些</p><ul>
+<li><a href="https://www.anotherhome.net/1727"  title="EasyGoAgent — 开箱即用的GoAgent">EasyGoAgent — 开箱即用的GoAgent</a> - 169,392 次围观</li><li><a href="https://www.anotherhome.net/1376"  title="huhamhire-hosts — Hosts文件自动配置工具">huhamhire-hosts — Hosts文件自动配置工具</a> - 151,098 次围观</li><li><a href="https://www.anotherhome.net/message"  title="留言板">留言板</a> - 139,820 次围观</li><li><a href="https://www.anotherhome.net/1362"  title="GoGo Tester—复活你的GoAgent">GoGo Tester—复活你的GoAgent</a> - 117,471 次围观</li><li><a href="https://www.anotherhome.net/1573"  title="GoAgent必备 Google IP">GoAgent必备 Google IP</a> - 104,538 次围观</li><li><a href="https://www.anotherhome.net/about"  title="关于">关于</a> - 42,129 次围观</li><li><a href="https://www.anotherhome.net/link"  title="链接">链接</a> - 22,381 次围观</li></ul>
+</section><section id="text-8" class="block widget widget_text">			<div class="textwidget"><div class="close-side">关闭侧边栏</div></div>
+		</section>    </div><!-- #secondary -->
+</div><!-- #main .wrapper -->
+</div>
+    <footer id="colophon" role="contentinfo">
+        <div class="footer-image"></div>
+        <div class="container">
+            <p>博客已萌萌哒运行<span id=span_dt_dt></span><span class="my-face">(●'◡'●)ﾉ♥</span></p>
+            <p>
+                托管于<a href="http://www.aliyun.com/" target="_blank"> 阿里云</a>.
+                <a href="https://www.upyun.com/" target="_blank">又拍云</a> 提供静态文件云存储服务.
+                <a href="http://www.google.com/analytics/" target="_blank">Google Analytics </a>提供网站统计服务.
+                <a href="http://www.cloudxns.net/" target="_blank">CloudXNS </a>提供 DNS 解析服务.
+            </p>
+            <p>&copy; 2016 <a href="https://www.anotherhome.net/">Anotherhome</a>.
+                由 <a href="http://wordpress.org" target="_blank">Wordpress</a> 强力驱动.
+                Theme By <a href="https://github.com/DIYgod/Amativeness" target="_blank">Amativeness</a>.
+                <a href="https://www.anotherhome.net/sitemap.xml" target="_blank">站点地图</a>.
+                鲁ICP备16000184号.
+            </p>
+            <p>Made with <i class="fa fa-heart throb" style="color: #d43f57;"></i> by DIYgod. </p>
+        </div>
+    </footer>
+    </div>
+    <script>function cloneObject(src){if(src==null||typeof src!="object"){return src}if(src instanceof Date){var clone=new Date(src.getDate());return clone}if(src instanceof Array){var clone=[];for(var i=0,len=src.length;i<len;i++){clone[i]=src[i]}return clone}if(src instanceof Object){var clone={};for(var key in src){if(src.hasOwnProperty(key)){clone[key]=cloneObject(src[key])}}return clone}}function hermitInit(){var aps=document.getElementsByClassName("aplayer");ap=[];var xhr=[];var option=[];remain_time=10;for(var i=0;i<aps.length;i++){if(aps[i].dataset.songs){option[i]=cloneObject(aps[i].dataset);option[i].element=aps[i];xhr[i]=new XMLHttpRequest();xhr[i].onreadystatechange=function(){var index=xhr.indexOf(this);var op=option[index];if(this.readyState===4){if(this.status>=200&&this.status<300||this.status===304){var response=JSON.parse(this.responseText);op.music=response.msg.songs;if(op.music[0].lrc){op.showlrc=3}else{op.showlrc=0}if(op.music.length===1){op.music=op.music[0]}if(op.autoplay){op.autoplay=(op.autoplay==="true"||op.autoplay==="1")}if(op.loop){op.loop=(op.loop==="true"||op.loop==="1")}if(op.mutex){op.mutex=(op.mutex==="true"||op.mutex==="1")}if(op.narrow){op.narrow=(op.narrow==="true"||op.narrow==="1")}ap[i]=new APlayer(op)}else{console.log("Request was unsuccessful: "+this.status)}}};var scope=option[i].songs.split("#:");apiurl="https://www.anotherhome.net/wp-admin/admin-ajax.php?action=hermit&scope="+option[i].songs.split("#:")[0]+"&id="+option[i].songs.split("#:")[1];xhr[i].open("get",apiurl,true);xhr[i].send(null)}}}function reloadHermit(){for(var i=0;i<ap.length;i++){try{ap[i].pause()}catch(e){}}hermitInit()}hermitInit();</script><script type='text/javascript' src='https://www.anotherhome.net/wp-includes/js/comment-reply.min.js?ver=05d3b79e72bbe9d939510b8a230704d6'></script>
+<script type='text/javascript' src='https://www.anotherhome.net/wp-includes/js/wp-embed.min.js?ver=05d3b79e72bbe9d939510b8a230704d6'></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/typed.js/dist/typed.min.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/jquery-lazyload/jquery.lazyload.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/notie/browser/notie.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/social-share.js/dist/js/jquery.share.min.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/main.js"></script>
+    <script>
+        NProgress.set(1.0);
+    </script>
+    </body>
+</html>

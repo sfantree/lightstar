@@ -1,0 +1,455 @@
+<!--    <li --><!-- id="li-comment---><!--">-->
+<!--        <article id="comment---><!--" class="comment-b">-->
+<!--            <header class="comment-meta comment-author vcard">-->
+<!--                --><!--            </header>-->
+<!--            <!-- .comment-meta -->-->
+<!--            --><!--                <p class="comment-awaiting-moderation">--><!--</p>-->
+<!--            --><!--            <section class="comment-content comment">-->
+<!--                --><!--                --><!--                <div class="comment-reply">-->
+<!--                    --><!--                </div>-->
+<!--                <!-- .reply -->-->
+<!--            </section>-->
+<!--            <!-- .comment-content -->-->
+<!--        </article>-->
+<!--        <!-- #comment-## -->-->
+<!--    </li>-->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="theme-color" content="#595C5E">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes"">
+    <title>链接 | Anotherhome</title>
+    <link rel="canonical" href="https://www.anotherhome.net/">
+    <link rel="pingback" href="https://www.anotherhome.net/xmlrpc.php"/>
+    <link rel="apple-touch-icon" href="https://diygod.b0.upaiyun.com/head4.jpg">
+    <link rel="shortcut icon" href="https://www.anotherhome.net/wp-content/themes/Amativeness/favicon.ico">
+    <link rel="search" type="application/opensearchdescription+xml" href="https://www.anotherhome.net/wp-content/themes/Amativeness/search.xml" title="Anotherhome">
+    <link rel="stylesheet" href="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/nprogress/nprogress.min.css">
+    <link rel="stylesheet" href="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/social-share.js/dist/css/share.min.css">
+    <link rel="stylesheet" href="https://staticfile.qnssl.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script src='https://diygod.b0.upaiyun.com/jquery.min.js'></script>
+<!--    <script type="text/javascript" src="--><!--/ajax-comment/app.js"></script>-->
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/nprogress/nprogress.min.js"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-48084758-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    
+<!-- All in One SEO Pack 2.3.10.2 by Michael Torbert of Semper Fi Web Design[232,261] -->
+<link rel="canonical" href="https://www.anotherhome.net/link" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; Feed" href="https://www.anotherhome.net/feed" />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; 评论Feed" href="https://www.anotherhome.net/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; 链接评论Feed" href="https://www.anotherhome.net/link/feed" />
+<link rel='stylesheet' id='crayon-css'  href='https://www.anotherhome.net/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='amativeness-style-css'  href='https://www.anotherhome.net/wp-content/themes/Amativeness/style.css?ver=05d3b79e72bbe9d939510b8a230704d6' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='amativeness-ie-css'  href='https://www.anotherhome.net/wp-content/themes/Amativeness/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://www.anotherhome.net/wp-content/plugins/Hermit-X-master/assets/js/2.5.4/APlayer.min.js?ver=2.5.4'></script>
+<link rel='https://api.w.org/' href='https://www.anotherhome.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.anotherhome.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.anotherhome.net/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='https://www.anotherhome.net/?p=2354' />
+<link rel="alternate" type="application/json+oembed" href="https://www.anotherhome.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.anotherhome.net%2Flink" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.anotherhome.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.anotherhome.net%2Flink&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.anotherhome.net/?wordfence_logHuman=1&hid=2B2489AE5BB60AA154770DFCF7CE249F');
+</script></head>
+<body class="page page-id-2354 page-template page-template-page page-template-link page-template-pagelink-php single-author">
+    <script>
+        NProgress.configure({
+            showSpinner: false,
+            easing: 'ease-out',
+            speed: 1000
+        });
+        NProgress.set(0.7);
+    </script>
+    <canvas id="evanyou"></canvas>
+    <div id="back-to-top" class="red" data-scroll="body">
+    </div>
+    <div class="navbar">
+                <div class="container">
+            <nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+                <div class="menu-%e8%8f%9c%e5%8d%951-container"><ul id="menu-%e8%8f%9c%e5%8d%951" class="nav-menu"><li id="menu-item-2270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2270"><a href="https://www.anotherhome.net/"><i class="fa fa-home"></i>首页</a></li>
+<li id="menu-item-2271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2271"><a target="_blank"><i class="fa fa-paperclip"></i>分类</a>
+<ul class="sub-menu">
+	<li id="menu-item-2267" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2267"><a target="_blank" href="https://www.anotherhome.net/category/create">创作集</a></li>
+	<li id="menu-item-2266" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2266"><a target="_blank" href="https://www.anotherhome.net/category/share">分享境</a></li>
+	<li id="menu-item-2268" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2268"><a target="_blank" href="https://www.anotherhome.net/category/say">闲言语</a></li>
+	<li id="menu-item-2269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2269"><a target="_blank" href="https://www.anotherhome.net/category/event">事件簿</a></li>
+</ul>
+</li>
+<li id="menu-item-2512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2512"><a><i class="fa fa-flask"></i>实验室</a>
+<ul class="sub-menu">
+	<li id="menu-item-2606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2606"><a target="_blank" href="http://diygod.me/">DIYgod</a></li>
+	<li id="menu-item-2515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2515"><a target="_blank" href="http://aplayer.js.org/">APlayer</a></li>
+	<li id="menu-item-2769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2769"><a href="http://dplayer.js.org/">DPlayer</a></li>
+	<li id="menu-item-2607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2607"><a target="_blank" href="http://diygod.github.io/OwO/demo/">OωO</a></li>
+	<li id="menu-item-2516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a target="_blank" href="https://www.anotherhome.net/file/Ticktack/index.html?background=fff&#038;color=f00&#038;birthday=19950609">Ticktack</a></li>
+	<li id="menu-item-2517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2517"><a target="_blank" href="https://www.anotherhome.net/file/jCarrousel/">jCarrousel</a></li>
+	<li id="menu-item-2514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2514"><a target="_blank" href="https://www.anotherhome.net/api/zhihu/">知乎日报RSS</a></li>
+</ul>
+</li>
+<li id="menu-item-2263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2263"><a target="_blank" href="https://www.anotherhome.net/donate"><i class="fa fa-usd"></i>捐赠</a></li>
+<li id="menu-item-2362" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2354 current_page_item menu-item-2362"><a target="_blank" href="https://www.anotherhome.net/link"><i class="fa fa-mars"></i>链接</a></li>
+<li id="menu-item-2264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2264"><a target="_blank" href="https://www.anotherhome.net/message"><i class="fa fa-pencil"></i>留言板</a></li>
+<li id="menu-item-2262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2262"><a target="_blank" href="https://www.anotherhome.net/about"><i class="fa fa-rocket"></i>关于</a></li>
+</ul></div>            </nav>
+                                        <div class="edit-wz">
+                                    </div>
+                        <div class="nav-right">
+                <form class="search-form" method="post" action="https://www.anotherhome.net">
+                    <input type="text" name="s" class="search-input" placeholder="站内搜索">
+                    <button type="submit" class="search-submit sousuo">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <header class="header-description">
+        <div id="site-header">
+            <h1><a href="https://www.anotherhome.net/"
+                   title="Anotherhome"
+                   rel="home">Anotherhome</a></h1>
+            <p class="typed"><a href="https://www.anotherhome.net/" title="Anotherhome" rel="home"></a></p>
+        </div>
+    </header>
+    <div id="information" class="info block">
+        <a href="https://www.anotherhome.net/"><img src="https://www.anotherhome.net/wp-content/uploads/2016/09/head.jpg" class="avatar"
+                                                             data-pinit="registered"
+                                                             width="356"
+                                                             height="356"
+                                                             alt=""/></a>
+
+        <h2 class="description"><a href="https://www.anotherhome.net/"
+                                   title="Anotherhome" rel="home"><span
+                    style="color: #3369e8;">Write</span> <span style="color: #d50f25;">the</span> <span
+                    style="color: #eeb211;">Code.</span> <span style="color: #3369e8;">Change</span> <span
+                    style="color: #009925;">the</span> <span style="color: #d50f25;">World.</span></a></h2>
+    </div>
+    <div class="xm">
+        <img src="https://diygod.b0.upaiyun.com/xm.png">
+    </div>
+    <div class="container" id="content">
+        <div class="article-list">
+<div class="main">
+            <article id="post-2354" class="block post linkpage">
+            <h3>DIYgod 相关</h3>
+            <ul>
+                <li><a href="http://shang.qq.com/wpa/qunwpa?idkey=dc532bec9bcad9c7a1d862332ea1dbb8d3b81f8e22e7c8fe4fbc3b70daa6772e" target="_blank"><img src="https://diygod.b0.upaiyun.com/head.jpg"><h4>AnotherClub</h4><p>QQ群</p></a></li><li><a href="https://github.com/DIYgod" target="_blank"><img src="https://diygod.b0.upaiyun.com/head.jpg"><h4>GitHub @DIYgod</h4><p>GitHub</p></a></li><li><a href="https://www.instagram.com/diygod/" target="_blank"><img src="https://diygod.b0.upaiyun.com/head.jpg"><h4>Instagram @DIYgod</h4><p>Instagram</p></a></li><li><a href="https://www.v2ex.com/member/DIYgod" target="_blank"><img src="https://diygod.b0.upaiyun.com/head.jpg"><h4>V2EX @DIYgod</h4><p>V2EX</p></a></li><li><a href="http://diygod.me/" target="_blank"><img src="https://diygod.b0.upaiyun.com/head.jpg"><h4>个人主页</h4><p>diygod.me</p></a></li><li><a href="http://weibo.com/anotherhome" target="_blank"><img src="https://diygod.b0.upaiyun.com/head.jpg"><h4>微博 @DIYgod</h4><p>新浪微博</p></a></li><li><a href="https://www.zhihu.com/people/diygod" target="_blank"><img src="https://diygod.b0.upaiyun.com/head.jpg"><h4>知乎 @DIYgod</h4><p>知乎</p></a></li>            </ul>
+            <h3>后宫</h3>
+            <ul>
+                <li><a href="https://blog.0xbbc.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/2016-08-04_0xBBC.png"><h4>0xBBC</h4><p>a.k.a 神楽坂碧玺，某可爱的蓝孩纸程序猿</p></a></li><li><a href="https://blog.aofall.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/A_of_All.jpeg"><h4>A_of_All</h4><p>待我归来.</p></a></li><li><a href="https://aoaoao.me/" target="_blank"><img src="https://linklink.b0.upaiyun.com/Aaron.png"><h4>Aaron</h4><p>树洞</p></a></li><li><a href="http://www.dmjsz.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Acginf.jpg"><h4>Acginf</h4><p>用动漫诠释人生，用技术改变未来</p></a></li><li><a href="http://ursb.me/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Airing.png"><h4>Airing</h4><p>我是一只小小小小熊。</p></a></li><li><a href="http://www.sweeterthandespair.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Amber.jpeg"><h4>Amber</h4><p>人生如此 拿酒来</p></a></li><li><a href="https://qaq.cat/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Balthild.jpg"><h4>Balthild</h4><p>轻歌</p></a></li><li><a href="https://www.blackglory.me/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/BlackGlory.jpeg"><h4>BlackGlory</h4><p>写代码的游戏玩家</p></a></li><li><a href="http://caisiduo.xyz/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/CAISIDUO.jpg"><h4>CAISIDUO</h4><p>某陷入代码黑洞的青年❤</p></a></li><li><a href="http://blog.cdog.me/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/CDog.jpeg"><h4>CDog</h4><p>大学狗 技术宅</p></a></li><li><a href="http://blog.cee.moe/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Cee.jpeg"><h4>Cee</h4><p>九五小鮮肉，大四出國狗</p></a></li><li><a href="https://blog.czelo.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/CEO.png"><h4>CEO</h4><p>生命不息 折腾不止</p></a></li><li><a href="http://www.sweetear.cn/" target="_blank"><img src="https://linklink.b0.upaiyun.com/ch4r0n.jpg"><h4>ch4r0n</h4><p>吼吼，iOS安全研究猿~٩(ˊᗜˋ*)و女毒万岁</p></a></li><li><a href="http://classicoldsong.me/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/ClassicOldSong.jpg"><h4>ClassicOldSong</h4><p>可耐滴男孩纸</p></a></li><li><a href="http://corps.set-fire.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Corps.jpeg"><h4>Corps</h4><p>Hey, g<del>a</del>uys.</p></a></li><li><a href="http://cyanidea.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Cyan.jpg"><h4>Cyan</h4><p>不忘初心，方得始终。</p></a></li><li><a href="http://eerie.ml/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/eerie.jpg"><h4>eerie</h4><p>你好，我是eerie</p></a></li><li><a href="http://www.d2fan.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Fan.jpeg"><h4>Fan</h4><p>愚生请你指教</p></a></li><li><a href="https://www.fawdlstty.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/2016-07-25_Fawdlstty.jpg"><h4>Fawdlstty</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="https://www.fghrsh.net/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/FGHRSH.jpg"><h4>FGHRSH</h4><p>FGHRSH 的博客</p></a></li><li><a href="http://www.findspace.name/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/FindSpace.jpeg"><h4>FindSpace</h4><p>A Coders Blog</p></a></li><li><a href="https://www.wingsdream.cn/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Fly.jpg"><h4>Fly</h4><p>喜欢各种瞎折腾</p></a></li><li><a href="http://www.freejishu.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/freejishu.jpg"><h4>freejishu</h4><p>A New World</p></a></li><li><a href="http://pylblog.com/" target="_blank"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>GAMESH</h4><p>次世代游戏开发资讯门户</p></a></li><li><a href="http://aboutgago.date/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/2016-07-25_GGGGago_.jpeg"><h4>GGGGago_</h4><p>相见不如怀念</p></a></li><li><a href="http://www.ghostsf.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/ghostsf.jpg"><h4>ghostsf</h4><p>Do what i love and just do it !</p></a></li><li><a href="http://www.giuem.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/giuem.jpg"><h4>Giuem</h4><p>BiuBiuBiu~</p></a></li><li><a href="https://blog.mayuko.cn/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/hades..png"><h4>hades.</h4><p>(。・`ω´・) by hades.</p></a></li><li><a href="http://www.devchen.com" target="_blank"><img src="https://	linklink.b0.upaiyun.com/HKEY_C17.png"><h4>HKEY_C17</h4><p>码渣/前医学生/不吃香菜</p></a></li><li><a href="http://www.hrwhisper.me/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/hrwhisper.jpeg"><h4>hrwhisper</h4><p>现在还很年轻的大四旺</p></a></li><li><a href="http://gaohaoyang.github.io/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/gaohaoyang.jpg"><h4>HyG</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="http://blog.ykqmain.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/ianna.jpg"><h4>iAnna</h4><p>You will be LOVED…I’m always ALONE in the world;</p></a></li><li><a href="http://www.idisreg.cn/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/idisreg.jpg"><h4>idisreg</h4><p>观察发现感悟记录</p></a></li><li><a href="http://imysk.cn/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/iMysk.jpg"><h4>iMysk</h4><p>世界这莫大我想去看看</p></a></li><li><a href="http://www.jackeriss.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Jackeriss.png"><h4>Jackeriss</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="https://kotori.cat/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/JclMiku.png"><h4>JclMiku</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="http://jimmy66.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Jimmy66.jpeg"><h4>Jimmy66</h4><p>一个不断成长，学习着的BMEer</p></a></li><li><a href="https://imjad.cn/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/imjad.jpeg"><h4>journey.ad</h4><p>浊以静之徐清</p></a></li><li><a href="http://qqdie.com" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Jrotty.jpg"><h4>Jrotty</h4><p>用最屌的方式愉快的装逼生存。世界很大，时间也还有很长。</p></a></li><li><a href="https://blog.kaaass.net/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/KAAAsS.jpg"><h4>KAAAsS</h4><p>KAAAsS’s Blog</p></a></li><li><a href="http://sell.moe/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Kagami.jpeg"><h4>Kagami</h4><p>Code is immaterial wealth</p></a></li><li><a href="http://zhizhe8.net/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Kenvix.jpeg"><h4>Kenvix</h4><p>无名智者</p></a></li><li><a href="https://zankyo.cc/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/2016-07-20_kot4ri.jpeg"><h4>kot4ri</h4><p>残响，记录一个肥宅每天研究的东西。</p></a></li><li><a href="http://lcina.me/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/LCINA.jpg"><h4>LCINA</h4><p>我只是个蠢蠢的程序猿！|- _ -|</p></a></li><li><a href="https://www.lian233.cc/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Lian.png"><h4>Lian</h4><p>记一只在努力挣扎的蒟蒻</p></a></li><li><a href="http://linmi.cc/" target="_blank"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>linmi</h4><p>梦在这里</p></a></li><li><a href="http://littleqiu.net/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Little_Qiu.jpg"><h4>Little_Qiu</h4><p>具有直男与基佬双重身份。</p></a></li><li><a href="https://blog.lwl12.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/lwl.jpeg"><h4>liwanglin12</h4><p>我老婆</p></a></li><li><a href="http://blog.kiteorg.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/MCBBC.png"><h4>MCBBC</h4><p>一个打酱油的C窝</p></a></li><li><a href="https://i-meto.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/meto.jpg"><h4>METO</h4><p>萨摩公园</p></a></li><li><a href="https://apporz.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Micooz.png"><h4>Micooz</h4><p>FullStack Engineer</p></a></li><li><a href="http://www.mokeyjay.com" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Mokeyjay.jpg"><h4>Mokeyjay</h4><p>Just a PHP Noob</p></a></li><li><a href="http://monkeyfigaro.cn/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/MonkeyFigaro.jpg"><h4>MonkeyFigaro</h4><p>脸盲｜路痴｜智障｜拖延症｜LGBT｜非单身</p></a></li><li><a href="http://myhloli.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/myhloli.jpeg"><h4>myhloli</h4><p>爱生活，爱萝莉</p></a></li><li><a href="http://www.imomi.me/" target="_blank"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>Omi</h4><p>哦你这个沐雨的骑士</p></a></li><li><a href="http://prozerg.xyz/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Prozerg.png"><h4>Prozerg</h4><p>分享，记录，交流</p></a></li><li><a href="https://geilcode.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/raphaelsoul.jpg"><h4>raphaelsoul</h4><p>不开车的司机不是好pythoner</p></a></li><li><a href="https://blog.razrlele.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/razrLeLe.png"><h4>razrLeLe</h4><p>哈喽哈咯</p></a></li><li><a href="http://www.rhw-team.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/RocketHcgs.jpeg"><h4>RocketHcgs</h4><p>用代码，改变世界。</p></a></li><li><a href="http://sanko.me/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Sanko.png"><h4>Sanko</h4><p>王侯将相宁有种乎？</p></a></li><li><a href="http://www.chengfeilong.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Scott.jpg"><h4>Scott</h4><p>一个立志成为优雅前端的小白</p></a></li><li><a href="http://moehentai.space/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/skipper.jpg"><h4>Skipper</h4><p>本鹅最喜欢萌妹纸了！</p></a></li><li><a href="https://solarhell.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/solarhell.jpg"><h4>solarhell</h4><p>一只写 python 的伪文青</p></a></li><li><a href="http://853.bronya.net/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Sonic853.jpg"><h4>Sonic853</h4><p>用code写出对二次元的热爱</p></a></li><li><a href="http://sukai.me/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/sukaime.jpeg"><h4>Sukai</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="http://www.surperone.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/surperone.jpeg"><h4>surperone</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="https://www.gubo.org/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Tianyi.jpg"><h4>Tianyi</h4><p>SEO – 软件 – 互联网 – 博客</p></a></li><li><a href="https://touko.moe/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Touko.jpeg"><h4>Touko</h4><p>0 0</p></a></li><li><a href="https://www.ubuntuhot.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/UbuntuHOT.png"><h4>UbuntuHOT</h4><p>Learning to use Ubuntu Linux</p></a></li><li><a href="http://u-hey.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Uhey.jpg"><h4>Uhey</h4><p>会设计的前端开发工程师</p></a></li><li><a href="http://kass.top/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Vboar.jpg"><h4>Vboar</h4><p>乐于前端，向往艺术</p></a></li><li><a href="https://viosey.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Viosey.png"><h4>Viosey</h4><p>一只野生的自由Geek</p></a></li><li><a href="http://www.virayer.cn/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Virayer.jpg"><h4>Virayer</h4><p>二次元开发者码农的无聊世界</p></a></li><li><a href="https://niconiconi.org/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Volio.jpeg"><h4>Volio</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="http://blog.waydrow.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/Waydrow.png"><h4>Waydrow</h4><p>不知名的程序猿 + Web 前端技术宅</p></a></li><li><a href="http://wayjam.me/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/WayJam.jpg"><h4>WayJam</h4><p>虽然我不够萌</p></a></li><li><a href="http://www.top01.org/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/WeDo.png"><h4>WeDo</h4><p>见证一个初中生的蜕变</p></a></li><li><a href="http://blog.iwangyu.cn" target="_blank"><img src="https://	linklink.b0.upaiyun.com/wixy13.jpg"><h4>wixy</h4><p>既然选择了远方 便只顾风雨兼程</p></a></li><li><a href="https://www.bxl.pm/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/X%E7%A5%A5%E7%A3%8A.jpeg"><h4>X祥磊</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="http://yalv.me/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/yalv.jpg"><h4>yalv</h4><p>苹果脑残粉，专业地质学</p></a></li><li><a href="http://ykksmile.top/" target="_blank"><img src="https://linklink.b0.upaiyun.com/ykk.jpg"><h4>ykk</h4><p>性别男，爱好狗ヾ(≧∇≦*)ゝ</p></a></li><li><a href="http://www.chen9.info/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/zchen9.jpeg"><h4>zchen9</h4><p>离用户最近的艺术家</p></a></li><li><a href="http://blog.izgq.net/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/ZGQ.jpeg"><h4>ZGQ</h4><p>高三党一枚</p></a></li><li><a href="http://www.zkl2333.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/zkl2333.jpeg"><h4>zkl2333</h4><p>zkl2333的博客</p></a></li><li><a href="http://sqiu.me/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/2016-08-24_%E4%B8%89%E7%A7%8B.jpg"><h4>三秋</h4><p>暮冬时烤雪，迟夏写长信</p></a></li><li><a href="http://dongdong.name/" target="_blank"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>东东</h4><p>喜欢致清致简</p></a></li><li><a href="http://luojia.me/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E4%BD%B3%E4%BD%B3.jpg"><h4>佳佳菌</h4><p>跨次元日常卖萌</p></a></li><li><a href="http://flxxyz.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%86%AF%E6%9D%80%E7%A5%9E.jpeg"><h4>冯杀神</h4><p>我是要成为程序猿的海賊王</p></a></li><li><a href="http://blog.wedc.cc/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%87%89%E6%8B%8C%E7%82%92%E8%9B%8B%E7%82%92%E9%A5%AD.jpeg"><h4>凉拌炒蛋炒饭</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="https://www.dreamwings.cn/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%8D%83%E5%8D%83.jpg"><h4>千千</h4><p>烟花、绽放之后只剩黑暗</p></a></li><li><a href="http://mouto.org/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%8D%9C%E5%8D%9C%E5%8F%A3.jpeg"><h4>卜卜口</h4><p>擅长前端，喜欢拍照、画画、轮滑</p></a></li><li><a href="http://anneke.cn/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%8D%B7%E7%8C%AB.jpg"><h4>卷猫</h4><p>我在这里等风也等你</p></a></li><li><a href="http://azfashao.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%8F%91%E7%83%A7%E7%88%B1.jpeg"><h4>发烧爱</h4><p>我生活中是一个很简单的人</p></a></li><li><a href="https://kirainmoe.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%90%9F%E6%A2%A6.jpeg"><h4>吟梦</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="https://www.zhou92.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%93%86%E5%95%A6Z%E6%A2%A6.jpg"><h4>哆啦Z梦</h4><p>哆啦Z梦 | 伴我同行</p></a></li><li><a href="http://www.gewuwen.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%93%A5%E6%97%A0%E9%97%BB.png"><h4>哥无闻</h4><p>技术一般，文笔稀烂的怪蜀黍。</p></a></li><li><a href="http://digua.moe/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%9C%B0%E7%93%9C.png"><h4>地瓜</h4><p>总有一天，咱也要和菊苣一起玩耍！</p></a></li><li><a href="https://yecl.net/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%A4%9C%E7%BB%AB%E5%8D%83%E8%A3%95.jpeg"><h4>夜绫千裕</h4><p>醒后无所见，耳旁昨日声</p></a></li><li><a href="http://moew.xyz/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%A4%9C%E9%9B%A8%E5%88%9D%E9%9C%81.jpeg"><h4>夜雨初霁</h4><p>Nothing is absolute.</p></a></li><li><a href="http://muguang.me/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%A4%A7%E8%A2%8B%E9%BC%A0.jpg"><h4>大袋鼠</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="http://simmer-jun.github.io/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%A6%82%E6%9E%9C%E7%88%B1%E4%B8%8A%E5%89%8D%E7%AB%AF.jpeg"><h4>如果爱上前端</h4><p>立志成为前端工程师的小白</p></a></li><li><a href="http://www.diefishfish.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%B0%8F%E6%AD%BB%E9%AD%9A.png"><h4>小死魚</h4><p>一个爱捣鼓电脑的小屁孩</p></a></li><li><a href="http://loveloli.ml/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%B0%8F%E7%9A%AE.jpeg"><h4>小皮</h4><p>一个伪技术宅</p></a></li><li><a href="http://cuiqingcai.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%B4%94%E5%BA%86%E6%89%8D.jpeg"><h4>崔庆才</h4><p>静静寻觅生活的美好</p></a></li><li><a href="http://blog.acgpoi.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%B8%85%E5%B8%85%E3%81%AE%E6%97%A5%E5%B8%B8.jpg"><h4>帅帅の日常</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="http://zdx.link/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/ZeZhang.jpeg"><h4>张大侠</h4><p>Right time, Right thing</p></a></li><li><a href="http://www.wangqianfang.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E5%BE%80%E5%89%8D%E6%96%B9.jpg"><h4>往前方</h4><p>追逐梦想，万一实现了呢！</p></a></li><li><a href="http://momeakl.github.io/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E6%88%91%E6%89%80%E4%BB%A5%E4%B8%BA%E7%9A%84%E4%B8%96%E7%95%8C.jpeg"><h4>我所以为的世界</h4><p>我家有只美少女=￣ε￣=</p></a></li><li><a href="https://www.bysb.net/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E6%89%8B%E6%9F%84%E5%90%9B.png"><h4>手柄君</h4><p>新手入门，请多多指教！！！</p></a></li><li><a href="https://mxd.moe/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E6%99%9A%E9%A3%8E%E6%98%A0%E6%B5%AE%E4%BA%91.jpeg"><h4>晚风映浮云</h4><p>死宅|渣渣前端|好奇心和猫一样|有强迫症|钟爱火狐|chrome黑|情伤几乎为0|⑨控|萝莉控|已脱团</p></a></li><li><a href="http://www.chenxublog.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E6%99%A8%E6%97%AD.jpg"><h4>晨旭</h4><p>一个已经完全放弃治疗的孩子</p></a></li><li><a href="https://imguoguo.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E6%9E%9C%E6%9E%9C.png"><h4>果果</h4><p>Bad Luck Often Brings Good Luck.</p></a></li><li><a href="http://www.m1ku.cc/" target="_blank"><img src="https://linklink.b0.upaiyun.com/%E6%9F%90%E5%AE%85.jpeg"><h4>某宅</h4><p>将宅文化进行到底</p></a></li><li><a href="https://www.sfantree.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/2016-08-04_%E6%B0%B4%E7%95%AA%E6%9E%97.jpg"><h4>水番林</h4><p>那些人和事在岁月中已难辨真假 ...</p></a></li><li><a href="https://huihui.moe/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/2016-07-20_%E7%81%B0%E7%81%B0.jpg"><h4>灰灰</h4><p>灰灰，就是灰灰啦</p></a></li><li><a href="http://www.0page.org/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/2016-07-20_%E7%8C%8E%E9%A3%8E.jpg"><h4>猎风</h4><p>再基础不过的技术扉页</p></a></li><li><a href="http://yunlong0225.url.ph/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E7%97%9E%E5%AD%90%E5%88%98.png"><h4>痞子刘</h4><p>#伪技术宅 #LOLI控 #中二一只</p></a></li><li><a href="https://yux.io/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E7%A6%B9%E5%85%8B%E6%96%AF.png"><h4>禹克斯</h4><p>禹克斯的脑洞 - 何事惊慌</p></a></li><li><a href="http://www.qqzmly.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E7%A8%8B%E5%BF%97%E8%BE%89.jpg"><h4>程志辉</h4><p>热爱互联网的90后热血骚年</p></a></li><li><a href="https://www.2ii.me/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E7%BB%B4%E5%BA%A6%E7%A9%BA%E9%97%B4.jpg"><h4>维度空间</h4><p>WeDo</p></a></li><li><a href="http://zhangwenli.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E7%BE%A1%E8%BE%99.jpeg"><h4>羡辙</h4><p>羡辙，字子免，号灵石笠翁</p></a></li><li><a href="http://www.fddcn.cn/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E8%8F%9C%E9%B8%9F.jpg"><h4>菜鸟</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="http://kou.moe/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E8%90%8C%E5%8F%A3%E7%BB%84.png"><h4>萌口组</h4><p>多人创作文艺泛ACG站</p></a></li><li><a href="http://www.wangqianfang.cn/" target="_blank"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>诸葛藏藏</h4><p>王前方|IT藏藏</p></a></li><li><a href="http://blog.zanyuyu.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E8%B5%9E%E9%B1%BC%E9%B1%BC.jpg"><h4>赞鱼鱼</h4><p>是真的gay</p></a></li><li><a href="http://www.chainwon.com/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E8%BD%BB%E6%83%8B%E5%AF%BC%E8%88%AA.png"><h4>轻惋导航</h4><p>轻惋不仅仅是一个名词，他代表着深刻的含义 就像轻轻的叹惋着曾经所获得的成功…</p></a></li><li><a href="http://blog.yqc.im/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E9%97%BB%E5%BF%83%E9%98%81.jpg"><h4>闻心阁</h4><p>一蓑烟雨看苍生，半壶浊酒笑红尘</p></a></li><li><a href="https://freedom.moe/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E9%9F%B3%E7%AC%A6.jpeg"><h4>音符</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="https://morz.org/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E9%BA%A6%E4%BA%9A.jpg"><h4>麦亚</h4><p>总爱瞎折腾的某麦</p></a></li><li><a href="http://very9s.net/" target="_blank"><img src="https://	linklink.b0.upaiyun.com/%E9%BA%BB%E7%93%9C.jpg"><h4>麻瓜</h4><p>谁是麻瓜？谁说麻瓜不会魔法？！</p></a></li>            </ul>
+            <h3>貌似死掉了的小伙伴(复活后请及时与我联系)</h3>
+            <ul>
+                <li><a href="http://www.idongu.com" target="_blank" rel="nofollow"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>2B 铅笔</h4><p>心之向往 · 身亦能至</p></a></li><li><a href="http://biantan.org/" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/BianTan.png"><h4>BianTan</h4><p>努力学习 想成为植物系的菊苣</p></a></li><li><a href="http://emilelu.com/" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/Emilelu.jpeg"><h4>Emilelu</h4><p>一个人的回忆</p></a></li><li><a href="http://www.farquer.cn/" target="_blank" rel="nofollow"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>farquer</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="http://iaoo.ml/" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/Iaoo.jpg"><h4>Iaoo</h4><p>我不想和你说话。</p></a></li><li><a href="http://johnzhang.cn/" target="_blank" rel="nofollow"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>John Zhang</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="https://blog.kingsr.net/" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/2016-08-19_Kingsr.jpeg"><h4>Kingsr</h4><p>A wonderful world, a complete story.</p></a></li><li><a href="http://loli.wiki/" target="_blank" rel="nofollow"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>Loli Wiki</h4><p>可惜这里不是维基</p></a></li><li><a href="http://www.imichaelli.com/" target="_blank" rel="nofollow"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>Michael&#039;s Space</h4><p>life is about exploring</p></a></li><li><a href="https://blog.5wzh.com/" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/Papersnake.png"><h4>Papersnake</h4><p>^_____________^</p></a></li><li><a href="http://dorcandy.pw/" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/ScarletDor.jpeg"><h4>ScarletDor</h4><p>一起登上糖果山</p></a></li><li><a href="http://www.inurl.org" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/Social.jpeg"><h4>Social</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="http://itonys.cn/" target="_blank" rel="nofollow"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>Tony`s Blog</h4><p>充满原创精神的小小站长</p></a></li><li><a href="http://blog.ize.pw/" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/YiuLian.png"><h4>YiuLian</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="http://demonc.com/" target="_blank" rel="nofollow"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>前端 Demon</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="http://tsin.us/" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/%E5%8D%83%E6%AD%B2.jpeg"><h4>千歲</h4><p>無口、貧乳、傲嬌、細節強迫症</p></a></li><li><a href="https://www.ailiw.cn/" target="_blank" rel="nofollow"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>听风、钥匙笔尖</h4><p>待我看尽世间繁华，许你四海为家</p></a></li><li><a href="http://www.tuhaoge.net/" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/%E5%9C%9F%E8%B1%AA%E5%93%A5.jpg"><h4>土豪哥</h4><p>走牛逼的路，让傻逼无路可走</p></a></li><li><a href="http://yukilove.me/" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/%E5%A4%8F%E5%A8%9C%E9%85%B1%E6%8B%8C%E9%A5%AD.png"><h4>夏娜酱拌饭</h4><p>将鲜活的夏娜酱切成薄片，铺在蒸熟的米饭上，最后再浇上滚烫热辣的酱汁，一道美味的夏娜酱拌饭就做好了。</p></a></li><li><a href="http://www.jsgblog.com/" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/%E5%B0%8F%E4%B9%90.jpeg"><h4>小乐</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="http://www.cduuu.com/" target="_blank" rel="nofollow"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>微风海岸</h4><p>原创IT科技博客</p></a></li><li><a href="http://www.lishengcn.cn/" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/%E6%9D%8E%E8%83%9C.jpeg"><h4>李胜</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="http://blog.konyo.me/" target="_blank" rel="nofollow"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>柿丸の部屋</h4><p>ようこそ～ここはみんなのウェブですー！</p></a></li><li><a href="http://skin.8e8z.com/" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/2016-07-21_%E6%A2%93%E8%A1%A1.png"><h4>梓衡</h4><p>梓衡的博客</p></a></li><li><a href="http://bingdao.sinaapp.com/" target="_blank" rel="nofollow"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>氷刀</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="http://www.liujiantao.me/" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/%E6%B6%9B%E6%B6%9B.jpeg"><h4>涛涛</h4><p>这家伙很懒，什么也没有留下</p></a></li><li><a href="http://www.daquan8.com" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/%E8%8F%A0%E8%90%9D%E6%A0%BC%E6%A0%BC.jpg"><h4>菠萝格格</h4><p>我相信部落格不落</p></a></li><li><a href="http://uzuki.pw/" target="_blank" rel="nofollow"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>蓝莓云端</h4><p>…-优秀互联网开发及创业分享平台-…</p></a></li><li><a href="http://tiebalu.com/" target="_blank" rel="nofollow"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>贴吧录</h4><p>余生伴余路</p></a></li><li><a href="http://xuefeng.space/" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/%E9%9B%AA%E5%B3%B0.jpeg"><h4>雪峰</h4><p>生活在二次元, 爱好ACG</p></a></li><li><a href="http://www.bananau.com/" target="_blank" rel="nofollow"><img src="https://	linklink.b0.upaiyun.com/%E9%A6%99%E8%95%89.jpg"><h4>香蕉</h4><p>技术宅男</p></a></li><li><a href="http://www.mrcaoyong.com/" target="_blank" rel="nofollow"><img src="https://linklink.b0.upaiyun.com/linkdefault.jpg"><h4>鱼里别放刺</h4><p>踮起脚尖，我们就会离幸福更近吗？</p></a></li>            </ul>
+        </article><!-- #post -->
+        <div class="block comment-block">
+    				<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">发表评论 <small><a rel="nofollow" id="cancel-comment-reply-link" href="/link/comment-page-5#respond" style="display:none;">取消回复</a></small></h3>				<form action="https://www.anotherhome.net/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+					<p class="comment-notes"><span id="email-notes">电子邮件地址不会被公开。</span> 必填项已用<span class="required">*</span>标注</p><div class="content-field"> <textarea class="text-block" id="comment-content" name="comment" cols="45" rows="8" aria-required="true" placeholder="|´・ω・)ノ还不快点说点什么呀poi~"></textarea><div class="OwO"></div></div><div class="comment-info"><input class="text-block" id="author" name="author" type="text" value="" size="30" placeholder="昵称 *" />
+<input class="text-block" id="email" name="email" type="email" value="" size="30" placeholder="邮箱 *" />
+<input class="text-block" id="url" name="url" type="url" value="" size="30" placeholder="网址" /></div>
+        <input type="hidden" id="leonax-magic" name="leonax-magic" value="0">
+        <script>
+            $(function() {
+                $("#comment-content").on("keyup", function() {
+                    $("#leonax-magic").val("2781959");
+                });
+                $('body').on('click touch', function () {
+                    $("#leonax-magic").val("2781959");
+                });
+            })
+        </script>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="咻～" /> <input type='hidden' name='comment_post_ID' value='2354' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>				</form>
+					</div><!-- #respond -->
+		
+            <div id="comments">
+                                        <a href="https://www.anotherhome.net/link#comments" class="活捉 % 条" >活捉 192 条</a>                <ol class="commentlist">
+                                    <li class="comment byuser comment-author-diygod bypostauthor even thread-even depth-1" id="li-comment-32937">
+                <article id="comment-32937" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">DIYgod <span class="comment-master">一只萌萌哒博主</span></div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 53.0.2785.143' rel='nofollow'>Google Chrome 53.0.2785.143</a>   <a href='http://www.apple.com/macosx/' title='Mac OS X  10.12.0' rel='nofollow'>Mac OS X  10.12.0</a></div></div><a href="https://www.anotherhome.net/link/comment-page-5#comment-32937"><time datetime="2016-10-07T19:18:28+00:00">2016年10月7日 下午7:18</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p><strong>2016年10月7日后宫普查结果：</strong></p>
+<p><strong>## 挂掉，复活后请及时与我联系</strong></p>
+<p>&#8211; BianTan<br />
+&#8211; Iaoo<br />
+&#8211; Kingsr<br />
+&#8211; farquer<br />
+&#8211; Emilelu<br />
+&#8211; Papersnake<br />
+&#8211; ScarletDor<br />
+&#8211; Social<br />
+&#8211; YiuLian<br />
+&#8211; 千歲<br />
+&#8211; 听风、钥匙笔尖<br />
+&#8211; 土豪哥<br />
+&#8211; 夏娜酱拌饭<br />
+&#8211; 小乐<br />
+&#8211; 微风海岸<br />
+&#8211; 李胜<br />
+&#8211; 梓衡<br />
+&#8211; 涛涛<br />
+&#8211; 菠萝格格<br />
+&#8211; 雪峰<br />
+&#8211; 香蕉</p>
+<p><strong>## 单向撤我的友链，我也做相同的撤友链操作</strong></p>
+<p>&#8211; axetroy<br />
+&#8211; Crexyer<br />
+&#8211; Hooin Kyoma<br />
+&#8211; kiritoの窝<br />
+&#8211; kissshot<br />
+&#8211; Light1980<br />
+&#8211; Ludis<br />
+&#8211; Lyeec<br />
+&#8211; NoahZu<br />
+&#8211; oott123<br />
+&#8211; Panda Bear<br />
+&#8211; Srioe<br />
+&#8211; sxb_201<br />
+&#8211; Tcdw<br />
+&#8211; 兰陵<br />
+&#8211; 啸宇<br />
+&#8211; 灰姑娘<br />
+&#8211; 牛逼了么<br />
+&#8211; 王孑<br />
+&#8211; 田飞雨<br />
+&#8211; 羽崎水無月<br />
+&#8211; 蓝莓<br />
+&#8211; 鸣一道</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/link?replytocom=32937#respond' onclick='return addComment.moveForm( "comment-32937", "32937", "respond", "2354" )' aria-label='回复给DIYgod'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+                <li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-32917">
+                <article id="comment-32917" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/5a3417093ca13cd797ae76ce191afcb9?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/5a3417093ca13cd797ae76ce191afcb9?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='https://i-meto.com/' rel='external nofollow' class='url'>METO</a> </div><div class="comments-class">抖M</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 55.0.2873.0' rel='nofollow'>Google Chrome 55.0.2873.0</a>   <a href='http://www.linux.org/' title='GNU/Linux x64' rel='nofollow'>GNU/Linux x64</a></div></div><a href="https://www.anotherhome.net/link/comment-page-5#comment-32917"><time datetime="2016-10-06T11:04:19+00:00">2016年10月6日 上午11:04</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>赶紧跑来入宫～   萨摩公园 <a href="https://i-meto.com/" rel="nofollow">https://i-meto.com/</a></p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/link?replytocom=32917#respond' onclick='return addComment.moveForm( "comment-32917", "32917", "respond", "2354" )' aria-label='回复给METO'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                <ol class="children">
+                <li class="comment byuser comment-author-diygod bypostauthor even depth-2" id="li-comment-32918">
+                <article id="comment-32918" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">DIYgod <span class="comment-master">一只萌萌哒博主</span></div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 53.0.2785.116' rel='nofollow'>Google Chrome 53.0.2785.116</a>   <a href='http://www.apple.com/macosx/' title='Mac OS X  10.12.0' rel='nofollow'>Mac OS X  10.12.0</a></div></div><a href="https://www.anotherhome.net/link/comment-page-5#comment-32918"><time datetime="2016-10-06T12:07:53+00:00">2016年10月6日 下午12:07</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>Added~~晚上来我被窝说(/ω＼)</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/link?replytocom=32918#respond' onclick='return addComment.moveForm( "comment-32918", "32918", "respond", "2354" )' aria-label='回复给DIYgod'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+                </ol><!-- .commentlist -->
+                                                                <ol class="page-navigator">
+                    <div id="comments-nav">
+                        <a class="prev page-numbers" href="https://www.anotherhome.net/link/comment-page-4#comments">上一页</a>
+<a class='page-numbers' href='https://www.anotherhome.net/link/comment-page-1#comments'>1</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='https://www.anotherhome.net/link/comment-page-3#comments'>3</a>
+<a class='page-numbers' href='https://www.anotherhome.net/link/comment-page-4#comments'>4</a>
+<span class='page-numbers current'>5</span>                    </div>
+                </ol>
+                    </div><!-- #comments .comments-area -->
+    </div>    </div><!-- main -->
+    <div id="secondary" class="side" role="complementary">
+        <section id="text-11" class="block widget widget_text">			<div class="textwidget"><div class="ca-container">
+    <div class="ca-head">
+        <div class="ca-head-container">
+            <img src="https://diygod.b0.upaiyun.com/snjz.jpg">
+            <h1><span>网红</span>DIYgod</h1>
+        </div>
+    </div>
+    <div class="ca-body">
+        <p>你能抓到我么？</p>
+        <div class="catch-me">
+            <a data-balloon="Rss" data-balloon-pos="up" target="_blank" href="https://www.anotherhome.net/feed"><i class="fa fa-rss"></i></a>
+            <a data-balloon="微博" data-balloon-pos="up" target="_blank" href="http://weibo.com/anotherhome"><i class="fa fa-weibo"></i></a>
+            <a data-balloon="GitHub" data-balloon-pos="up" target="_blank" href="https://github.com/DIYgod"><i class="fa fa-github"></i></a>
+            <a data-balloon="Instagram" data-balloon-pos="up" target="_blank" href="https://www.instagram.com/diygod" style="display:none;"><i class="fa fa-instagram"></i></a>
+            <a data-balloon="微信公众号" data-balloon-pos="up" target="_blank" href="https://diygod.b0.upaiyun.com/gzh.jpg"><i class="fa fa-wechat"></i></a>
+            <a data-balloon="QQ群" data-balloon-pos="up" target="_blank" href="https://dn-diygod.qbox.me/qq-g.jpg"><i class="fa fa-qq"></i></a>
+            <a data-balloon="知乎" data-balloon-pos="up" target="_blank" href="https://www.zhihu.com/people/diygod"><i  class="fa" style="font-weight: 500;">知</i></a>
+            <a data-balloon="坐标" data-balloon-pos="up" target="_blank" href="https://goo.gl/maps/6DuU9eED3C92"><i class="fa fa-map-marker" style="display:none;"></i></a>
+        </div>
+    </div>
+</div></div>
+		</section><section id="text-3" class="block widget widget_text">			<div class="textwidget"><div id="player1" class="aplayer">	 	 
+ <div style="padding: 10px; font-size: 10px; text-align: center;">(＞﹏＜) APlayer 加载中,好累的说...</div>	 	 
+</div></div>
+		</section><section id="text-4" class="block widget widget_text">			<div class="textwidget"><div class='like-vote'>
+	<p class='like-title'>Do you like me?</p>
+	<div class='like-count'>
+		<i class="fa fa-heart"></i><span></span>
+	</div>
+</div></div>
+		</section><section id="text-18" class="block widget widget_text">			<div class="textwidget"><a target="_blank" href="http://www.yq24.net/aff.php?aff=98" style="font-size: 13px; line-height: 20px;"><img src="https://diygod.b0.upaiyun.com/yq24.jpg"></a></div>
+		</section><section id="text-15" class="block widget widget_text"><p class="ui red ribbon label">这些人都排着队来跟我说话</p>			<div class="textwidget">    <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33050">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/e5fa85ffe0ba8d4f491af41a00d454de?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/e5fa85ffe0ba8d4f491af41a00d454de?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">ykk 在「留言板」中说:</p>
+                <p class="recent-text">桂纶镁呀</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2770#comment-33037">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「WordPress 反垃圾评论大作战」中说:</p>
+                <p class="recent-text">就改了下菜单栏...厉害这都能看出来(´இ皿இ｀)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33036">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">不写Python很多年...</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2790#comment-33035">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/124d03a731ac13b3ab5ffa6762bd12c7?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/124d03a731ac13b3ab5ffa6762bd12c7?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">liwanglin12 在「DPlayer 和 bilibili 更配哦」中说:</p>
+                <p class="recent-text">DaoCloud based on Docker</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33034">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">Added~~ 头像好看，谁呀(☆ω☆)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33033">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">可以等有内容了再来申请哟(ฅ´ω`ฅ)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2790#comment-33032">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「DPlayer 和 bilibili 更配哦」中说:</p>
+                <p class="recent-text">点右下角设置按钮可以关闭，我这里没问题呀(´இ皿இ｀)</p>
+            </div>
+        </a>
+    </li>
+    </div>
+		</section><section id="views-3" class="block widget widget_views"><p class="ui red ribbon label">大家都排队来看这些</p><ul>
+<li><a href="https://www.anotherhome.net/1727"  title="EasyGoAgent — 开箱即用的GoAgent">EasyGoAgent — 开箱即用的GoAgent</a> - 169,392 次围观</li><li><a href="https://www.anotherhome.net/1376"  title="huhamhire-hosts — Hosts文件自动配置工具">huhamhire-hosts — Hosts文件自动配置工具</a> - 151,098 次围观</li><li><a href="https://www.anotherhome.net/message"  title="留言板">留言板</a> - 139,820 次围观</li><li><a href="https://www.anotherhome.net/1362"  title="GoGo Tester—复活你的GoAgent">GoGo Tester—复活你的GoAgent</a> - 117,471 次围观</li><li><a href="https://www.anotherhome.net/1573"  title="GoAgent必备 Google IP">GoAgent必备 Google IP</a> - 104,538 次围观</li><li><a href="https://www.anotherhome.net/about"  title="关于">关于</a> - 42,129 次围观</li><li><a href="https://www.anotherhome.net/link"  title="链接">链接</a> - 22,383 次围观</li></ul>
+</section><section id="text-8" class="block widget widget_text">			<div class="textwidget"><div class="close-side">关闭侧边栏</div></div>
+		</section>    </div><!-- #secondary -->
+</div><!-- #main .wrapper -->
+</div>
+    <footer id="colophon" role="contentinfo">
+        <div class="footer-image"></div>
+        <div class="container">
+            <p>博客已萌萌哒运行<span id=span_dt_dt></span><span class="my-face">(●'◡'●)ﾉ♥</span></p>
+            <p>
+                托管于<a href="http://www.aliyun.com/" target="_blank"> 阿里云</a>.
+                <a href="https://www.upyun.com/" target="_blank">又拍云</a> 提供静态文件云存储服务.
+                <a href="http://www.google.com/analytics/" target="_blank">Google Analytics </a>提供网站统计服务.
+                <a href="http://www.cloudxns.net/" target="_blank">CloudXNS </a>提供 DNS 解析服务.
+            </p>
+            <p>&copy; 2016 <a href="https://www.anotherhome.net/">Anotherhome</a>.
+                由 <a href="http://wordpress.org" target="_blank">Wordpress</a> 强力驱动.
+                Theme By <a href="https://github.com/DIYgod/Amativeness" target="_blank">Amativeness</a>.
+                <a href="https://www.anotherhome.net/sitemap.xml" target="_blank">站点地图</a>.
+                鲁ICP备16000184号.
+            </p>
+            <p>Made with <i class="fa fa-heart throb" style="color: #d43f57;"></i> by DIYgod. </p>
+        </div>
+    </footer>
+    </div>
+    <script>function cloneObject(src){if(src==null||typeof src!="object"){return src}if(src instanceof Date){var clone=new Date(src.getDate());return clone}if(src instanceof Array){var clone=[];for(var i=0,len=src.length;i<len;i++){clone[i]=src[i]}return clone}if(src instanceof Object){var clone={};for(var key in src){if(src.hasOwnProperty(key)){clone[key]=cloneObject(src[key])}}return clone}}function hermitInit(){var aps=document.getElementsByClassName("aplayer");ap=[];var xhr=[];var option=[];remain_time=10;for(var i=0;i<aps.length;i++){if(aps[i].dataset.songs){option[i]=cloneObject(aps[i].dataset);option[i].element=aps[i];xhr[i]=new XMLHttpRequest();xhr[i].onreadystatechange=function(){var index=xhr.indexOf(this);var op=option[index];if(this.readyState===4){if(this.status>=200&&this.status<300||this.status===304){var response=JSON.parse(this.responseText);op.music=response.msg.songs;if(op.music[0].lrc){op.showlrc=3}else{op.showlrc=0}if(op.music.length===1){op.music=op.music[0]}if(op.autoplay){op.autoplay=(op.autoplay==="true"||op.autoplay==="1")}if(op.loop){op.loop=(op.loop==="true"||op.loop==="1")}if(op.mutex){op.mutex=(op.mutex==="true"||op.mutex==="1")}if(op.narrow){op.narrow=(op.narrow==="true"||op.narrow==="1")}ap[i]=new APlayer(op)}else{console.log("Request was unsuccessful: "+this.status)}}};var scope=option[i].songs.split("#:");apiurl="https://www.anotherhome.net/wp-admin/admin-ajax.php?action=hermit&scope="+option[i].songs.split("#:")[0]+"&id="+option[i].songs.split("#:")[1];xhr[i].open("get",apiurl,true);xhr[i].send(null)}}}function reloadHermit(){for(var i=0;i<ap.length;i++){try{ap[i].pause()}catch(e){}}hermitInit()}hermitInit();</script><script type='text/javascript' src='https://www.anotherhome.net/wp-includes/js/comment-reply.min.js?ver=05d3b79e72bbe9d939510b8a230704d6'></script>
+<script type='text/javascript' src='https://www.anotherhome.net/wp-includes/js/wp-embed.min.js?ver=05d3b79e72bbe9d939510b8a230704d6'></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/typed.js/dist/typed.min.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/jquery-lazyload/jquery.lazyload.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/notie/browser/notie.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/social-share.js/dist/js/jquery.share.min.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/main.js"></script>
+    <script>
+        NProgress.set(1.0);
+    </script>
+    </body>
+</html>

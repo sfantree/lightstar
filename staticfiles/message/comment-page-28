@@ -1,0 +1,814 @@
+<!--    <li --><!-- id="li-comment---><!--">-->
+<!--        <article id="comment---><!--" class="comment-b">-->
+<!--            <header class="comment-meta comment-author vcard">-->
+<!--                --><!--            </header>-->
+<!--            <!-- .comment-meta -->-->
+<!--            --><!--                <p class="comment-awaiting-moderation">--><!--</p>-->
+<!--            --><!--            <section class="comment-content comment">-->
+<!--                --><!--                --><!--                <div class="comment-reply">-->
+<!--                    --><!--                </div>-->
+<!--                <!-- .reply -->-->
+<!--            </section>-->
+<!--            <!-- .comment-content -->-->
+<!--        </article>-->
+<!--        <!-- #comment-## -->-->
+<!--    </li>-->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="theme-color" content="#595C5E">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes"">
+    <title>留言板 | Anotherhome</title>
+    <link rel="canonical" href="https://www.anotherhome.net/">
+    <link rel="pingback" href="https://www.anotherhome.net/xmlrpc.php"/>
+    <link rel="apple-touch-icon" href="https://diygod.b0.upaiyun.com/head4.jpg">
+    <link rel="shortcut icon" href="https://www.anotherhome.net/wp-content/themes/Amativeness/favicon.ico">
+    <link rel="search" type="application/opensearchdescription+xml" href="https://www.anotherhome.net/wp-content/themes/Amativeness/search.xml" title="Anotherhome">
+    <link rel="stylesheet" href="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/nprogress/nprogress.min.css">
+    <link rel="stylesheet" href="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/social-share.js/dist/css/share.min.css">
+    <link rel="stylesheet" href="https://staticfile.qnssl.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script src='https://diygod.b0.upaiyun.com/jquery.min.js'></script>
+<!--    <script type="text/javascript" src="--><!--/ajax-comment/app.js"></script>-->
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/nprogress/nprogress.min.js"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-48084758-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    
+<!-- All in One SEO Pack 2.3.10.2 by Michael Torbert of Semper Fi Web Design[232,262] -->
+<meta name="description"  content="有什么话要对我说吗？这里是你畅所欲言的地方，可以咨询，可以交流，可以感叹，可以发飙，但不可以订外卖。" />
+
+<link rel="canonical" href="https://www.anotherhome.net/message" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; Feed" href="https://www.anotherhome.net/feed" />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; 评论Feed" href="https://www.anotherhome.net/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; 留言板评论Feed" href="https://www.anotherhome.net/message/feed" />
+<link rel='stylesheet' id='crayon-css'  href='https://www.anotherhome.net/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='amativeness-style-css'  href='https://www.anotherhome.net/wp-content/themes/Amativeness/style.css?ver=05d3b79e72bbe9d939510b8a230704d6' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='amativeness-ie-css'  href='https://www.anotherhome.net/wp-content/themes/Amativeness/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://www.anotherhome.net/wp-content/plugins/Hermit-X-master/assets/js/2.5.4/APlayer.min.js?ver=2.5.4'></script>
+<link rel='https://api.w.org/' href='https://www.anotherhome.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.anotherhome.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.anotherhome.net/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='https://www.anotherhome.net/?p=84' />
+<link rel="alternate" type="application/json+oembed" href="https://www.anotherhome.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.anotherhome.net%2Fmessage" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.anotherhome.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.anotherhome.net%2Fmessage&#038;format=xml" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.anotherhome.net/?wordfence_logHuman=1&hid=6802A28199145C36BE5C1B020D8365BC');
+</script></head>
+<body class="page page-id-84 page-template-default single-author">
+    <script>
+        NProgress.configure({
+            showSpinner: false,
+            easing: 'ease-out',
+            speed: 1000
+        });
+        NProgress.set(0.7);
+    </script>
+    <canvas id="evanyou"></canvas>
+    <div id="back-to-top" class="red" data-scroll="body">
+    </div>
+    <div class="navbar">
+                <div class="container">
+            <nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+                <div class="menu-%e8%8f%9c%e5%8d%951-container"><ul id="menu-%e8%8f%9c%e5%8d%951" class="nav-menu"><li id="menu-item-2270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2270"><a href="https://www.anotherhome.net/"><i class="fa fa-home"></i>首页</a></li>
+<li id="menu-item-2271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2271"><a target="_blank"><i class="fa fa-paperclip"></i>分类</a>
+<ul class="sub-menu">
+	<li id="menu-item-2267" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2267"><a target="_blank" href="https://www.anotherhome.net/category/create">创作集</a></li>
+	<li id="menu-item-2266" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2266"><a target="_blank" href="https://www.anotherhome.net/category/share">分享境</a></li>
+	<li id="menu-item-2268" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2268"><a target="_blank" href="https://www.anotherhome.net/category/say">闲言语</a></li>
+	<li id="menu-item-2269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2269"><a target="_blank" href="https://www.anotherhome.net/category/event">事件簿</a></li>
+</ul>
+</li>
+<li id="menu-item-2512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2512"><a><i class="fa fa-flask"></i>实验室</a>
+<ul class="sub-menu">
+	<li id="menu-item-2606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2606"><a target="_blank" href="http://diygod.me/">DIYgod</a></li>
+	<li id="menu-item-2515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2515"><a target="_blank" href="http://aplayer.js.org/">APlayer</a></li>
+	<li id="menu-item-2769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2769"><a href="http://dplayer.js.org/">DPlayer</a></li>
+	<li id="menu-item-2607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2607"><a target="_blank" href="http://diygod.github.io/OwO/demo/">OωO</a></li>
+	<li id="menu-item-2516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a target="_blank" href="https://www.anotherhome.net/file/Ticktack/index.html?background=fff&#038;color=f00&#038;birthday=19950609">Ticktack</a></li>
+	<li id="menu-item-2517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2517"><a target="_blank" href="https://www.anotherhome.net/file/jCarrousel/">jCarrousel</a></li>
+	<li id="menu-item-2514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2514"><a target="_blank" href="https://www.anotherhome.net/api/zhihu/">知乎日报RSS</a></li>
+</ul>
+</li>
+<li id="menu-item-2263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2263"><a target="_blank" href="https://www.anotherhome.net/donate"><i class="fa fa-usd"></i>捐赠</a></li>
+<li id="menu-item-2362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2362"><a target="_blank" href="https://www.anotherhome.net/link"><i class="fa fa-mars"></i>链接</a></li>
+<li id="menu-item-2264" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-84 current_page_item menu-item-2264"><a target="_blank" href="https://www.anotherhome.net/message"><i class="fa fa-pencil"></i>留言板</a></li>
+<li id="menu-item-2262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2262"><a target="_blank" href="https://www.anotherhome.net/about"><i class="fa fa-rocket"></i>关于</a></li>
+</ul></div>            </nav>
+                                        <div class="edit-wz">
+                                    </div>
+                        <div class="nav-right">
+                <form class="search-form" method="post" action="https://www.anotherhome.net">
+                    <input type="text" name="s" class="search-input" placeholder="站内搜索">
+                    <button type="submit" class="search-submit sousuo">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <header class="header-description">
+        <div id="site-header">
+            <h1><a href="https://www.anotherhome.net/"
+                   title="Anotherhome"
+                   rel="home">Anotherhome</a></h1>
+            <p class="typed"><a href="https://www.anotherhome.net/" title="Anotherhome" rel="home"></a></p>
+        </div>
+    </header>
+    <div id="information" class="info block">
+        <a href="https://www.anotherhome.net/"><img src="https://www.anotherhome.net/wp-content/uploads/2016/09/head.jpg" class="avatar"
+                                                             data-pinit="registered"
+                                                             width="356"
+                                                             height="356"
+                                                             alt=""/></a>
+
+        <h2 class="description"><a href="https://www.anotherhome.net/"
+                                   title="Anotherhome" rel="home"><span
+                    style="color: #3369e8;">Write</span> <span style="color: #d50f25;">the</span> <span
+                    style="color: #eeb211;">Code.</span> <span style="color: #3369e8;">Change</span> <span
+                    style="color: #009925;">the</span> <span style="color: #d50f25;">World.</span></a></h2>
+    </div>
+    <div class="xm">
+        <img src="https://diygod.b0.upaiyun.com/xm.png">
+    </div>
+    <div class="container" id="content">
+        <div class="article-list">
+<div class="main" id="thumbs">
+        <article id="post-84" class="block post">
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/message" rel="bookmark">留言板</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年2月10日 • <i class="fa fa-eye"></i>139,857 次围观 • <i class="fa fa-comment-o"></i>活捉 1,285 条            </p>
+                            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p><strong>有什么话要对我说吗？这里是你畅所欲言的地方，可以咨询，可以交流，可以感叹，可以发飙，但不可以订外卖。</strong></p>
+<p><img class="alignnone" src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/message0.jpg" alt="" width="300" height="300" /></p>
+        </div><!-- .article-content -->
+    </article><!-- #post -->    <div class="block comment-block">
+    				<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">发表评论 <small><a rel="nofollow" id="cancel-comment-reply-link" href="/message/comment-page-28#respond" style="display:none;">取消回复</a></small></h3>				<form action="https://www.anotherhome.net/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+					<p class="comment-notes"><span id="email-notes">电子邮件地址不会被公开。</span> 必填项已用<span class="required">*</span>标注</p><div class="content-field"> <textarea class="text-block" id="comment-content" name="comment" cols="45" rows="8" aria-required="true" placeholder="|´・ω・)ノ还不快点说点什么呀poi~"></textarea><div class="OwO"></div></div><div class="comment-info"><input class="text-block" id="author" name="author" type="text" value="" size="30" placeholder="昵称 *" />
+<input class="text-block" id="email" name="email" type="email" value="" size="30" placeholder="邮箱 *" />
+<input class="text-block" id="url" name="url" type="url" value="" size="30" placeholder="网址" /></div>
+        <input type="hidden" id="leonax-magic" name="leonax-magic" value="0">
+        <script>
+            $(function() {
+                $("#comment-content").on("keyup", function() {
+                    $("#leonax-magic").val("2181865");
+                });
+                $('body').on('click touch', function () {
+                    $("#leonax-magic").val("2181865");
+                });
+            })
+        </script>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="咻～" /> <input type='hidden' name='comment_post_ID' value='84' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>				</form>
+					</div><!-- #respond -->
+		
+            <div id="comments">
+                                        <a href="https://www.anotherhome.net/message#comments" class="活捉 % 条" >活捉 1,285 条</a>                <ol class="commentlist">
+                                    <li class="comment even thread-even depth-1" id="li-comment-26319">
+                <article id="comment-26319" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/6da1653455d4e09880b57c7e720bf716?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/6da1653455d4e09880b57c7e720bf716?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='http://noahzu.github.io/' rel='external nofollow' class='url'>noah</a> </div><div class="comments-class">天然呆</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 51.0.2704.106' rel='nofollow'>Google Chrome 51.0.2704.106</a>   <a href='http://www.microsoft.com/windows/' title='Windows 7 x64 Edition' rel='nofollow'>Windows 7 x64 Edition</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-26319"><time datetime="2016-09-12T09:24:32+00:00">2016年9月12日 上午9:24</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>LALALALALALOωO</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=26319#respond' onclick='return addComment.moveForm( "comment-26319", "26319", "respond", "84" )' aria-label='回复给noah'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+                <li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-25134">
+                <article id="comment-25134" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/0c15ce0f5377bf35b38cb8cbfe1aa2de?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/0c15ce0f5377bf35b38cb8cbfe1aa2de?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">NewGr8Player </div><div class="comments-class">抖M</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 47.0.2526.80' rel='nofollow'>Google Chrome 47.0.2526.80</a>   <a href='http://www.microsoft.com/windows/' title='Windows 10 x64 Edition' rel='nofollow'>Windows 10 x64 Edition</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-25134"><time datetime="2016-09-09T10:52:18+00:00">2016年9月9日 上午10:52</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>( ,,´･ω･)ﾉ&#8221;(´っω･｀｡)网站好漂亮~Mark一下，学习学习~咻~</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=25134#respond' onclick='return addComment.moveForm( "comment-25134", "25134", "respond", "84" )' aria-label='回复给NewGr8Player'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+                <li class="comment even thread-even depth-1" id="li-comment-24479">
+                <article id="comment-24479" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/be23341ad665d0d107f5c78fbb091ad3?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/be23341ad665d0d107f5c78fbb091ad3?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='http://shuizhu.ml' rel='external nofollow' class='url'>guest</a> </div><div class="comments-class">抖M</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 52.0.2743.116' rel='nofollow'>Google Chrome 52.0.2743.116</a>   <a href='http://www.microsoft.com/windows/' title='Windows 7 x64 Edition' rel='nofollow'>Windows 7 x64 Edition</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-24479"><time datetime="2016-09-07T22:01:14+00:00">2016年9月7日 下午10:01</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>话说跟某宅这种食言而肥、只会装逼、关闭评论、全员禁言的渣渣缩头乌龟换友链不觉得LOW吗？如果您认识某宅，请他出来面对现实，不要再缩在自己的群里装逼，谢谢。</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=24479#respond' onclick='return addComment.moveForm( "comment-24479", "24479", "respond", "84" )' aria-label='回复给guest'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                <ol class="children">
+                <li class="comment byuser comment-author-diygod bypostauthor odd alt depth-2" id="li-comment-24524">
+                <article id="comment-24524" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">DIYgod <span class="comment-master">一只萌萌哒博主</span></div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 53.0.2785.89' rel='nofollow'>Google Chrome 53.0.2785.89</a>   <a href='http://www.apple.com/macosx/' title='Mac OS X  10.11.6' rel='nofollow'>Mac OS X  10.11.6</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-24524"><time datetime="2016-09-08T00:47:28+00:00">2016年9月8日 上午12:47</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>我只觉得你很LOW；就不；不客气。</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=24524#respond' onclick='return addComment.moveForm( "comment-24524", "24524", "respond", "84" )' aria-label='回复给DIYgod'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+                <li class="comment even thread-odd thread-alt depth-1" id="li-comment-24132">
+                <article id="comment-24132" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/1e7c051e470074af299cbb7755d145ba?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/1e7c051e470074af299cbb7755d145ba?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">Sr </div><div class="comments-class">抖M</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 50.0.2661.102' rel='nofollow'>Google Chrome 50.0.2661.102</a>   <a href='http://www.microsoft.com/windows/' title='Windows 10 x64 Edition' rel='nofollow'>Windows 10 x64 Edition</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-24132"><time datetime="2016-09-06T19:30:01+00:00">2016年9月6日 下午7:30</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>我想问问您，实验室里面的颜文字为什么下载下来不能用，我很喜欢二次元想用颜文字类型的辅助框好给圈里的小伙伴用，能联系下我么，谢谢您</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=24132#respond' onclick='return addComment.moveForm( "comment-24132", "24132", "respond", "84" )' aria-label='回复给Sr'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+                <li class="comment odd alt thread-even depth-1" id="li-comment-24031">
+                <article id="comment-24031" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/0feb370ae7f18ca16e6707efe1d4d2b2?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/0feb370ae7f18ca16e6707efe1d4d2b2?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='http://www.huangxiaolong.net/' rel='external nofollow' class='url'>小龙</a> </div><div class="comments-class">天然呆</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 52.0.2743.116' rel='nofollow'>Google Chrome 52.0.2743.116</a>   <a href='http://www.apple.com/macosx/' title='Mac OS X  10.11.6' rel='nofollow'>Mac OS X  10.11.6</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-24031"><time datetime="2016-09-06T14:40:11+00:00">2016年9月6日 下午2:40</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>∠( ᐛ 」∠)＿来转转。</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=24031#respond' onclick='return addComment.moveForm( "comment-24031", "24031", "respond", "84" )' aria-label='回复给小龙'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+                <li class="comment even thread-odd thread-alt depth-1" id="li-comment-23748">
+                <article id="comment-23748" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/5988ddb905f83a4d5998c7bbb203f520?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/5988ddb905f83a4d5998c7bbb203f520?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='http://laozhang.org/' rel='external nofollow' class='url'>老张</a> </div><div class="comments-class">天然呆</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 45.0.2454.101' rel='nofollow'>Google Chrome 45.0.2454.101</a>   <a href='http://www.microsoft.com/windows/' title='Windows 7 x64 Edition' rel='nofollow'>Windows 7 x64 Edition</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-23748"><time datetime="2016-09-06T00:30:20+00:00">2016年9月6日 上午12:30</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>怎么打开留言，还新建窗口了</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=23748#respond' onclick='return addComment.moveForm( "comment-23748", "23748", "respond", "84" )' aria-label='回复给老张'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+                <li class="comment odd alt thread-even depth-1" id="li-comment-23687">
+                <article id="comment-23687" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/b92c254408a6570eaf467953f08a4a70?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/b92c254408a6570eaf467953f08a4a70?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='http://semiw.cn/' rel='external nofollow' class='url'>Semi taste</a> </div><div class="comments-class">抖M</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 52.0.2743.116' rel='nofollow'>Google Chrome 52.0.2743.116</a>   <a href='http://www.microsoft.com/windows/' title='Windows 7 x64 Edition' rel='nofollow'>Windows 7 x64 Edition</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-23687"><time datetime="2016-09-05T21:53:07+00:00">2016年9月5日 下午9:53</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>在这刻一个到此一游(๑•̀ㅁ•́ฅ)</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=23687#respond' onclick='return addComment.moveForm( "comment-23687", "23687", "respond", "84" )' aria-label='回复给Semi taste'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+                <li class="comment even thread-odd thread-alt depth-1" id="li-comment-23654">
+                <article id="comment-23654" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/5090f647b0e70a72228192dada25f475?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/5090f647b0e70a72228192dada25f475?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='https://zkl2333.com' rel='external nofollow' class='url'>zkl2333</a> </div><div class="comments-class">中二病</div><div class="comments-ua">  <a href='https://developer.chrome.com/multidevice/webview/overview' title='WebView 4.0' rel='nofollow'>WebView 4.0</a>   <a href='http://www.android.com/' title='Android 5.1' rel='nofollow'>Android 5.1</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-23654"><time datetime="2016-09-05T20:15:35+00:00">2016年9月5日 下午8:15</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>zkl2333到此一游</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=23654#respond' onclick='return addComment.moveForm( "comment-23654", "23654", "respond", "84" )' aria-label='回复给zkl2333'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+                <li class="comment odd alt thread-even depth-1" id="li-comment-23085">
+                <article id="comment-23085" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/4de92e5986d99d6933246a7f38c30bbc?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/4de92e5986d99d6933246a7f38c30bbc?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='http://www.niices.com' rel='external nofollow' class='url'>niices</a> </div><div class="comments-class">抖M</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 52.0.2743.116' rel='nofollow'>Google Chrome 52.0.2743.116</a>   <a href='http://www.apple.com/macosx/' title='Mac OS X  10.11.6' rel='nofollow'>Mac OS X  10.11.6</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-23085"><time datetime="2016-09-04T17:18:46+00:00">2016年9月4日 下午5:18</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>hah<br />
+这个博客太萌了  忍不住留个言￣﹃￣</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=23085#respond' onclick='return addComment.moveForm( "comment-23085", "23085", "respond", "84" )' aria-label='回复给niices'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+                <li class="comment even thread-odd thread-alt depth-1" id="li-comment-20924">
+                <article id="comment-20924" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/f73483ec7e8333d733e51b2bc0bf9a27?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/f73483ec7e8333d733e51b2bc0bf9a27?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='http://lxchuan12.github.io' rel='external nofollow' class='url'>轩辕Rowboat</a> </div><div class="comments-class">抖M</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 51.0.2704.106' rel='nofollow'>Google Chrome 51.0.2704.106</a>   <a href='http://www.microsoft.com/windows/' title='Windows 10 x64 Edition' rel='nofollow'>Windows 10 x64 Edition</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-20924"><time datetime="2016-08-30T21:41:43+00:00">2016年8月30日 下午9:41</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>围观数和评论数让我惊讶不已</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=20924#respond' onclick='return addComment.moveForm( "comment-20924", "20924", "respond", "84" )' aria-label='回复给轩辕Rowboat'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+                <li class="comment odd alt thread-even depth-1" id="li-comment-19619">
+                <article id="comment-19619" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/dfe1ba81058f43d700154757650b9dc1?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/dfe1ba81058f43d700154757650b9dc1?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='https://ysicing.net' rel='external nofollow' class='url'>萌萌哒的某狗</a> </div><div class="comments-class">抖M</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 52.0.2743.116' rel='nofollow'>Google Chrome 52.0.2743.116</a>   <a href='http://www.apple.com/macosx/' title='Mac OS X  10.11.6' rel='nofollow'>Mac OS X  10.11.6</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-19619"><time datetime="2016-08-27T23:20:39+00:00">2016年8月27日 下午11:20</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>OωO 特来膜拜</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=19619#respond' onclick='return addComment.moveForm( "comment-19619", "19619", "respond", "84" )' aria-label='回复给萌萌哒的某狗'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+                <li class="comment even thread-odd thread-alt depth-1" id="li-comment-17235">
+                <article id="comment-17235" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/1039a6b2b0f485438c445a2be7130d18?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/1039a6b2b0f485438c445a2be7130d18?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='https://ykooh.com' rel='external nofollow' class='url'>悦空</a> </div><div class="comments-class">抖M</div><div class="comments-ua">  <a href='http://www.mozilla.org/' title='Firefox 47.0' rel='nofollow'>Firefox 47.0</a>   <a href='http://www.microsoft.com/windows/' title='Windows 7' rel='nofollow'>Windows 7</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-17235"><time datetime="2016-08-22T11:49:44+00:00">2016年8月22日 上午11:49</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>这博客真是帅的一比 来参观了 ykooh.com</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=17235#respond' onclick='return addComment.moveForm( "comment-17235", "17235", "respond", "84" )' aria-label='回复给悦空'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+                <li class="comment odd alt thread-even depth-1" id="li-comment-16977">
+                <article id="comment-16977" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/aed5d1b1151f86fa77252a295d8f99ac?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/aed5d1b1151f86fa77252a295d8f99ac?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">于晓晗 </div><div class="comments-class">抖M</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 51.0.2704.63' rel='nofollow'>Google Chrome 51.0.2704.63</a>   <a href='http://www.microsoft.com/windows/' title='Windows 10 x64 Edition' rel='nofollow'>Windows 10 x64 Edition</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-16977"><time datetime="2016-08-21T21:15:20+00:00">2016年8月21日 下午9:15</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>(๑•̀ㅁ•́ฅ)好可怕，好像发现了什么了不得的东西！</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=16977#respond' onclick='return addComment.moveForm( "comment-16977", "16977", "respond", "84" )' aria-label='回复给于晓晗'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+                <li class="comment even thread-odd thread-alt depth-1" id="li-comment-16896">
+                <article id="comment-16896" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/9e43ba9be1e65e3c8a98c04a1b1ab058?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/9e43ba9be1e65e3c8a98c04a1b1ab058?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">alex </div><div class="comments-class">抖M</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 52.0.2743.116' rel='nofollow'>Google Chrome 52.0.2743.116</a>   <a href='http://www.microsoft.com/windows/' title='Windows 7 x64 Edition' rel='nofollow'>Windows 7 x64 Edition</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-16896"><time datetime="2016-08-21T16:57:08+00:00">2016年8月21日 下午4:57</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>hi from russia, i find your player. it is ineteresting product. i am not a developer but a little bit know how it works. can you tell me please how to make hidden playlist in your player? i want to use it to broadcast files from the web like a radio. thank you!</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=16896#respond' onclick='return addComment.moveForm( "comment-16896", "16896", "respond", "84" )' aria-label='回复给alex'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                <ol class="children">
+                <li class="comment byuser comment-author-diygod bypostauthor odd alt depth-2" id="li-comment-17919">
+                <article id="comment-17919" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">DIYgod <span class="comment-master">一只萌萌哒博主</span></div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 52.0.2743.116' rel='nofollow'>Google Chrome 52.0.2743.116</a>   <a href='http://www.apple.com/macosx/' title='Mac OS X  10.11.6' rel='nofollow'>Mac OS X  10.11.6</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-17919"><time datetime="2016-08-24T01:37:42+00:00">2016年8月24日 上午1:37</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>Hi from China, surprised for your message.<br />
+You can add the following CSS to hide playlist:</p>
+<p>.aplayer .aplayer-list {<br />
+    display: none;<br />
+}</p>
+<p>Also note that APlayer only support three format: ogg, mp3, wav.</p>
+<p>Have a nice day!</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=17919#respond' onclick='return addComment.moveForm( "comment-17919", "17919", "respond", "84" )' aria-label='回复给DIYgod'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+                <li class="comment even thread-even depth-1" id="li-comment-16801">
+                <article id="comment-16801" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/a205222eb4f0a6492072d68e88b91b4b?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/a205222eb4f0a6492072d68e88b91b4b?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='http://www.monkeyfigaro.cn' rel='external nofollow' class='url'>MonkeyFigaro</a> </div><div class="comments-class">天然呆</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 52.0.2743.116' rel='nofollow'>Google Chrome 52.0.2743.116</a>   <a href='http://www.apple.com/macosx/' title='Mac OS X  10.11.5' rel='nofollow'>Mac OS X  10.11.5</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-16801"><time datetime="2016-08-21T12:09:57+00:00">2016年8月21日 下午12:09</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>所以要怎么换头像嘛￣﹃￣</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=16801#respond' onclick='return addComment.moveForm( "comment-16801", "16801", "respond", "84" )' aria-label='回复给MonkeyFigaro'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                <ol class="children">
+                <li class="comment byuser comment-author-monkeyfigaro odd alt depth-2" id="li-comment-16810">
+                <article id="comment-16810" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/d5f9923182a3bc75b05503374cc96ceb?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/d5f9923182a3bc75b05503374cc96ceb?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">MonkeyFigaro </div><div class="comments-class">天然呆</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 52.0.2743.116' rel='nofollow'>Google Chrome 52.0.2743.116</a>   <a href='http://www.apple.com/macosx/' title='Mac OS X  10.11.5' rel='nofollow'>Mac OS X  10.11.5</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-16810"><time datetime="2016-08-21T12:44:51+00:00">2016年8月21日 下午12:44</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>哼  好麻烦(´இ皿இ｀)</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=16810#respond' onclick='return addComment.moveForm( "comment-16810", "16810", "respond", "84" )' aria-label='回复给MonkeyFigaro'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+                <li class="comment even thread-odd thread-alt depth-1" id="li-comment-16606">
+                <article id="comment-16606" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/02419465ae16cbfa56147675ace3dc76?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/02419465ae16cbfa56147675ace3dc76?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='https://lyphix.im' rel='external nofollow' class='url'>lyphix</a> </div><div class="comments-class">抖M</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 52.0.2743.82' rel='nofollow'>Google Chrome 52.0.2743.82</a>   <a href='http://www.microsoft.com/windows/' title='Windows 10 x64 Edition' rel='nofollow'>Windows 10 x64 Edition</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-16606"><time datetime="2016-08-20T23:50:22+00:00">2016年8月20日 下午11:50</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>(ฅ´ω`ฅ)这个博客好萌啊，从博主这借了很多东西，比如aplayer什么的，致敬|´・ω・)ノthanks~</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=16606#respond' onclick='return addComment.moveForm( "comment-16606", "16606", "respond", "84" )' aria-label='回复给lyphix'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+                <li class="comment odd alt thread-even depth-1" id="li-comment-15898">
+                <article id="comment-15898" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/ec07635d4469d4e6e349aa3083863255?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/ec07635d4469d4e6e349aa3083863255?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='http://tyzual.moe' rel='external nofollow' class='url'>tyzual</a> </div><div class="comments-class">天然呆</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 52.0.2743.116' rel='nofollow'>Google Chrome 52.0.2743.116</a>   <a href='http://www.microsoft.com/windows/' title='Windows 7 x64 Edition' rel='nofollow'>Windows 7 x64 Edition</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-15898"><time datetime="2016-08-19T10:25:02+00:00">2016年8月19日 上午10:25</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>博主，能跟你学做博客嘛、糙汉子一只OωO</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=15898#respond' onclick='return addComment.moveForm( "comment-15898", "15898", "respond", "84" )' aria-label='回复给tyzual'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                <ol class="children">
+                <li class="comment byuser comment-author-diygod bypostauthor even depth-2" id="li-comment-16128">
+                <article id="comment-16128" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">DIYgod <span class="comment-master">一只萌萌哒博主</span></div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 52.0.2743.116' rel='nofollow'>Google Chrome 52.0.2743.116</a>   <a href='http://www.apple.com/macosx/' title='Mac OS X  10.11.6' rel='nofollow'>Mac OS X  10.11.6</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-16128"><time datetime="2016-08-19T23:32:05+00:00">2016年8月19日 下午11:32</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>如果可爱一点的话也不是不可以！</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=16128#respond' onclick='return addComment.moveForm( "comment-16128", "16128", "respond", "84" )' aria-label='回复给DIYgod'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+                <li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-15711">
+                <article id="comment-15711" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/ac0ba0edd8e54bae0a38a6a6cfb542ee?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/ac0ba0edd8e54bae0a38a6a6cfb542ee?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">李林霏 </div><div class="comments-class">天然呆</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 42.0.2311.154' rel='nofollow'>Google Chrome 42.0.2311.154</a>   <a href='http://www.microsoft.com/windows/' title='Windows 10 x64 Edition' rel='nofollow'>Windows 10 x64 Edition</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-15711"><time datetime="2016-08-18T23:44:48+00:00">2016年8月18日 下午11:44</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>博主，能跟你学做博客嘛、萌妹子一只OωO</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=15711#respond' onclick='return addComment.moveForm( "comment-15711", "15711", "respond", "84" )' aria-label='回复给李林霏'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                <ol class="children">
+                <li class="comment byuser comment-author-diygod bypostauthor even depth-2" id="li-comment-16129">
+                <article id="comment-16129" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">DIYgod <span class="comment-master">一只萌萌哒博主</span></div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 52.0.2743.116' rel='nofollow'>Google Chrome 52.0.2743.116</a>   <a href='http://www.apple.com/macosx/' title='Mac OS X  10.11.6' rel='nofollow'>Mac OS X  10.11.6</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-16129"><time datetime="2016-08-19T23:33:08+00:00">2016年8月19日 下午11:33</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>萌妹子请联系我！</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=16129#respond' onclick='return addComment.moveForm( "comment-16129", "16129", "respond", "84" )' aria-label='回复给DIYgod'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                <ol class="children">
+                <li class="comment odd alt depth-3" id="li-comment-16294">
+                <article id="comment-16294" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/ac0ba0edd8e54bae0a38a6a6cfb542ee?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/ac0ba0edd8e54bae0a38a6a6cfb542ee?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">李林霏 </div><div class="comments-class">天然呆</div><div class="comments-ua">  <a href='http://browser.qq.com/' title='QQbrowser ' rel='nofollow'>QQbrowser </a>   <a href='http://www.android.com/' title='Android 4.4.4' rel='nofollow'>Android 4.4.4</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-16294"><time datetime="2016-08-20T07:48:03+00:00">2016年8月20日 上午7:48</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>好开心，联系方式呢(☆ω☆)</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=16294#respond' onclick='return addComment.moveForm( "comment-16294", "16294", "respond", "84" )' aria-label='回复给李林霏'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+                <li class="comment even thread-even depth-1" id="li-comment-12550">
+                <article id="comment-12550" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/01ed264bb09a5b4f07f2458d8d7a3c48?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/01ed264bb09a5b4f07f2458d8d7a3c48?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='http://www.0page.org' rel='external nofollow' class='url'>liefeng</a> </div><div class="comments-class">天然呆</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 50.0.2661.102' rel='nofollow'>Google Chrome 50.0.2661.102</a>   <a href='http://www.microsoft.com/windows/' title='Windows 10 x64 Edition' rel='nofollow'>Windows 10 x64 Edition</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-12550"><time datetime="2016-08-11T23:32:50+00:00">2016年8月11日 下午11:32</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>请问一下那个导航栏的分类的下拉显示子目录是怎么做的？我也在主题里添加了相关代码可是仍然没用，后台的菜单子目录已设置，可只能直接显示不能下拉显示</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=12550#respond' onclick='return addComment.moveForm( "comment-12550", "12550", "respond", "84" )' aria-label='回复给liefeng'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                <ol class="children">
+                <li class="comment byuser comment-author-diygod bypostauthor odd alt depth-2" id="li-comment-16130">
+                <article id="comment-16130" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">DIYgod <span class="comment-master">一只萌萌哒博主</span></div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 52.0.2743.116' rel='nofollow'>Google Chrome 52.0.2743.116</a>   <a href='http://www.apple.com/macosx/' title='Mac OS X  10.11.6' rel='nofollow'>Mac OS X  10.11.6</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-16130"><time datetime="2016-08-19T23:33:45+00:00">2016年8月19日 下午11:33</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>主题带的，不会改就换主题吧&#8230;</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=16130#respond' onclick='return addComment.moveForm( "comment-16130", "16130", "respond", "84" )' aria-label='回复给DIYgod'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+                <li class="comment even thread-odd thread-alt depth-1" id="li-comment-12240">
+                <article id="comment-12240" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/cc66640bdb9de8443b620bc55bf3626f?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/cc66640bdb9de8443b620bc55bf3626f?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name"><a href='http://i-jvxie.com' rel='external nofollow' class='url'>JVxie</a> </div><div class="comments-class">抖M</div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 52.0.2743.82' rel='nofollow'>Google Chrome 52.0.2743.82</a>   <a href='http://www.microsoft.com/windows/' title='Windows 10 x64 Edition' rel='nofollow'>Windows 10 x64 Edition</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-12240"><time datetime="2016-08-10T22:34:03+00:00">2016年8月10日 下午10:34</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>想问问你的OwO表情到底该如何使用？<br />
+我的博客是typecho 用的多说评论框！<br />
+在header.php加入你的css代码<br />
+在评论框代码下加入你的js代码<br />
+可是还是不会显示！！</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=12240#respond' onclick='return addComment.moveForm( "comment-12240", "12240", "respond", "84" )' aria-label='回复给JVxie'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                <ol class="children">
+                <li class="comment byuser comment-author-diygod bypostauthor odd alt depth-2" id="li-comment-16131">
+                <article id="comment-16131" class="comment-b">
+                    <header class="comment-meta comment-author vcard">
+                        <img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=44&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=88&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><div class="comments-authore-title"><div class="comments-name">DIYgod <span class="comment-master">一只萌萌哒博主</span></div><div class="comments-ua">  <a href='http://google.com/chrome/' title='Google Chrome 52.0.2743.116' rel='nofollow'>Google Chrome 52.0.2743.116</a>   <a href='http://www.apple.com/macosx/' title='Mac OS X  10.11.6' rel='nofollow'>Mac OS X  10.11.6</a></div></div><a href="https://www.anotherhome.net/message/comment-page-28#comment-16131"><time datetime="2016-08-19T23:34:20+00:00">2016年8月19日 下午11:34</time></a>                    </header>
+                    <!-- .comment-meta -->
+                                        <section class="comment-content comment">
+                        <p>我不用多说，多说要自己折腾&#8230;</p>
+                                                <div class="comment-reply"">
+                            <a rel='nofollow' class='comment-reply-link' href='https://www.anotherhome.net/message?replytocom=16131#respond' onclick='return addComment.moveForm( "comment-16131", "16131", "respond", "84" )' aria-label='回复给DIYgod'>回复</a>                        </div>
+                        <!-- .reply -->
+                    </section>
+                    <!-- .comment-content -->
+                </article>
+                <!-- #comment-## -->
+                </li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+                </ol><!-- .commentlist -->
+                                                                <ol class="page-navigator">
+                    <div id="comments-nav">
+                        <a class="prev page-numbers" href="https://www.anotherhome.net/message/comment-page-27#comments">上一页</a>
+<a class='page-numbers' href='https://www.anotherhome.net/message/comment-page-1#comments'>1</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='https://www.anotherhome.net/message/comment-page-26#comments'>26</a>
+<a class='page-numbers' href='https://www.anotherhome.net/message/comment-page-27#comments'>27</a>
+<span class='page-numbers current'>28</span>
+<a class='page-numbers' href='https://www.anotherhome.net/message/comment-page-29#comments'>29</a>
+<a class="next page-numbers" href="https://www.anotherhome.net/message/comment-page-29#comments">下一页</a>                    </div>
+                </ol>
+                    </div><!-- #comments .comments-area -->
+    </div></div><!-- main -->
+    <div id="secondary" class="side" role="complementary">
+        <section id="text-11" class="block widget widget_text">			<div class="textwidget"><div class="ca-container">
+    <div class="ca-head">
+        <div class="ca-head-container">
+            <img src="https://diygod.b0.upaiyun.com/snjz.jpg">
+            <h1><span>网红</span>DIYgod</h1>
+        </div>
+    </div>
+    <div class="ca-body">
+        <p>你能抓到我么？</p>
+        <div class="catch-me">
+            <a data-balloon="Rss" data-balloon-pos="up" target="_blank" href="https://www.anotherhome.net/feed"><i class="fa fa-rss"></i></a>
+            <a data-balloon="微博" data-balloon-pos="up" target="_blank" href="http://weibo.com/anotherhome"><i class="fa fa-weibo"></i></a>
+            <a data-balloon="GitHub" data-balloon-pos="up" target="_blank" href="https://github.com/DIYgod"><i class="fa fa-github"></i></a>
+            <a data-balloon="Instagram" data-balloon-pos="up" target="_blank" href="https://www.instagram.com/diygod" style="display:none;"><i class="fa fa-instagram"></i></a>
+            <a data-balloon="微信公众号" data-balloon-pos="up" target="_blank" href="https://diygod.b0.upaiyun.com/gzh.jpg"><i class="fa fa-wechat"></i></a>
+            <a data-balloon="QQ群" data-balloon-pos="up" target="_blank" href="https://dn-diygod.qbox.me/qq-g.jpg"><i class="fa fa-qq"></i></a>
+            <a data-balloon="知乎" data-balloon-pos="up" target="_blank" href="https://www.zhihu.com/people/diygod"><i  class="fa" style="font-weight: 500;">知</i></a>
+            <a data-balloon="坐标" data-balloon-pos="up" target="_blank" href="https://goo.gl/maps/6DuU9eED3C92"><i class="fa fa-map-marker" style="display:none;"></i></a>
+        </div>
+    </div>
+</div></div>
+		</section><section id="text-3" class="block widget widget_text">			<div class="textwidget"><div id="player1" class="aplayer">	 	 
+ <div style="padding: 10px; font-size: 10px; text-align: center;">(＞﹏＜) APlayer 加载中,好累的说...</div>	 	 
+</div></div>
+		</section><section id="text-4" class="block widget widget_text">			<div class="textwidget"><div class='like-vote'>
+	<p class='like-title'>Do you like me?</p>
+	<div class='like-count'>
+		<i class="fa fa-heart"></i><span></span>
+	</div>
+</div></div>
+		</section><section id="text-18" class="block widget widget_text">			<div class="textwidget"><a target="_blank" href="http://www.yq24.net/aff.php?aff=98" style="font-size: 13px; line-height: 20px;"><img src="https://diygod.b0.upaiyun.com/yq24.jpg"></a></div>
+		</section><section id="text-15" class="block widget widget_text"><p class="ui red ribbon label">这些人都排着队来跟我说话</p>			<div class="textwidget">    <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33050">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/e5fa85ffe0ba8d4f491af41a00d454de?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/e5fa85ffe0ba8d4f491af41a00d454de?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">ykk 在「留言板」中说:</p>
+                <p class="recent-text">桂纶镁呀</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2770#comment-33037">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「WordPress 反垃圾评论大作战」中说:</p>
+                <p class="recent-text">就改了下菜单栏...厉害这都能看出来(´இ皿இ｀)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33036">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">不写Python很多年...</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2790#comment-33035">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/124d03a731ac13b3ab5ffa6762bd12c7?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/124d03a731ac13b3ab5ffa6762bd12c7?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">liwanglin12 在「DPlayer 和 bilibili 更配哦」中说:</p>
+                <p class="recent-text">DaoCloud based on Docker</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33034">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">Added~~ 头像好看，谁呀(☆ω☆)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33033">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">可以等有内容了再来申请哟(ฅ´ω`ฅ)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2790#comment-33032">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「DPlayer 和 bilibili 更配哦」中说:</p>
+                <p class="recent-text">点右下角设置按钮可以关闭，我这里没问题呀(´இ皿இ｀)</p>
+            </div>
+        </a>
+    </li>
+    </div>
+		</section><section id="views-3" class="block widget widget_views"><p class="ui red ribbon label">大家都排队来看这些</p><ul>
+<li><a href="https://www.anotherhome.net/1727"  title="EasyGoAgent — 开箱即用的GoAgent">EasyGoAgent — 开箱即用的GoAgent</a> - 169,392 次围观</li><li><a href="https://www.anotherhome.net/1376"  title="huhamhire-hosts — Hosts文件自动配置工具">huhamhire-hosts — Hosts文件自动配置工具</a> - 151,098 次围观</li><li><a href="https://www.anotherhome.net/message"  title="留言板">留言板</a> - 139,857 次围观</li><li><a href="https://www.anotherhome.net/1362"  title="GoGo Tester—复活你的GoAgent">GoGo Tester—复活你的GoAgent</a> - 117,471 次围观</li><li><a href="https://www.anotherhome.net/1573"  title="GoAgent必备 Google IP">GoAgent必备 Google IP</a> - 104,538 次围观</li><li><a href="https://www.anotherhome.net/about"  title="关于">关于</a> - 42,129 次围观</li><li><a href="https://www.anotherhome.net/link"  title="链接">链接</a> - 22,389 次围观</li></ul>
+</section><section id="text-8" class="block widget widget_text">			<div class="textwidget"><div class="close-side">关闭侧边栏</div></div>
+		</section>    </div><!-- #secondary -->
+</div><!-- #main .wrapper -->
+</div>
+    <footer id="colophon" role="contentinfo">
+        <div class="footer-image"></div>
+        <div class="container">
+            <p>博客已萌萌哒运行<span id=span_dt_dt></span><span class="my-face">(●'◡'●)ﾉ♥</span></p>
+            <p>
+                托管于<a href="http://www.aliyun.com/" target="_blank"> 阿里云</a>.
+                <a href="https://www.upyun.com/" target="_blank">又拍云</a> 提供静态文件云存储服务.
+                <a href="http://www.google.com/analytics/" target="_blank">Google Analytics </a>提供网站统计服务.
+                <a href="http://www.cloudxns.net/" target="_blank">CloudXNS </a>提供 DNS 解析服务.
+            </p>
+            <p>&copy; 2016 <a href="https://www.anotherhome.net/">Anotherhome</a>.
+                由 <a href="http://wordpress.org" target="_blank">Wordpress</a> 强力驱动.
+                Theme By <a href="https://github.com/DIYgod/Amativeness" target="_blank">Amativeness</a>.
+                <a href="https://www.anotherhome.net/sitemap.xml" target="_blank">站点地图</a>.
+                鲁ICP备16000184号.
+            </p>
+            <p>Made with <i class="fa fa-heart throb" style="color: #d43f57;"></i> by DIYgod. </p>
+        </div>
+    </footer>
+    </div>
+    <script>function cloneObject(src){if(src==null||typeof src!="object"){return src}if(src instanceof Date){var clone=new Date(src.getDate());return clone}if(src instanceof Array){var clone=[];for(var i=0,len=src.length;i<len;i++){clone[i]=src[i]}return clone}if(src instanceof Object){var clone={};for(var key in src){if(src.hasOwnProperty(key)){clone[key]=cloneObject(src[key])}}return clone}}function hermitInit(){var aps=document.getElementsByClassName("aplayer");ap=[];var xhr=[];var option=[];remain_time=10;for(var i=0;i<aps.length;i++){if(aps[i].dataset.songs){option[i]=cloneObject(aps[i].dataset);option[i].element=aps[i];xhr[i]=new XMLHttpRequest();xhr[i].onreadystatechange=function(){var index=xhr.indexOf(this);var op=option[index];if(this.readyState===4){if(this.status>=200&&this.status<300||this.status===304){var response=JSON.parse(this.responseText);op.music=response.msg.songs;if(op.music[0].lrc){op.showlrc=3}else{op.showlrc=0}if(op.music.length===1){op.music=op.music[0]}if(op.autoplay){op.autoplay=(op.autoplay==="true"||op.autoplay==="1")}if(op.loop){op.loop=(op.loop==="true"||op.loop==="1")}if(op.mutex){op.mutex=(op.mutex==="true"||op.mutex==="1")}if(op.narrow){op.narrow=(op.narrow==="true"||op.narrow==="1")}ap[i]=new APlayer(op)}else{console.log("Request was unsuccessful: "+this.status)}}};var scope=option[i].songs.split("#:");apiurl="https://www.anotherhome.net/wp-admin/admin-ajax.php?action=hermit&scope="+option[i].songs.split("#:")[0]+"&id="+option[i].songs.split("#:")[1];xhr[i].open("get",apiurl,true);xhr[i].send(null)}}}function reloadHermit(){for(var i=0;i<ap.length;i++){try{ap[i].pause()}catch(e){}}hermitInit()}hermitInit();</script><script type='text/javascript' src='https://www.anotherhome.net/wp-includes/js/comment-reply.min.js?ver=05d3b79e72bbe9d939510b8a230704d6'></script>
+<script type='text/javascript' src='https://www.anotherhome.net/wp-includes/js/wp-embed.min.js?ver=05d3b79e72bbe9d939510b8a230704d6'></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/typed.js/dist/typed.min.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/jquery-lazyload/jquery.lazyload.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/notie/browser/notie.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/social-share.js/dist/js/jquery.share.min.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/main.js"></script>
+    <script>
+        NProgress.set(1.0);
+    </script>
+    </body>
+</html>

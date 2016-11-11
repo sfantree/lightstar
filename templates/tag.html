@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+
+
+<div class="container" id="content">
+<div class="article-list">
+<div class="main" id="thumbs">
+
+
+  
+
+{% block content %}
+  <article id="{{ post.id }}" class="block post">
+    {% for post in post_list %}
+      <span class="round-date red">
+				<span class="month">{{ post.date_time |date:'Y'}}</span>
+				<span class="day">{{ post.date_time |date:'d'}}</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="{% url 'detail' id=post.id %}" rel="bookmark">{{ post.title }}</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 {{ post.date_time }} • <i class="fa fa-eye"></i>440 次围观 • <i class="fa fa-comment-o"></i>活捉 22 条            </p>
+                            <div class="ui ribbon label red"><a href="{% url 'search_tag' tag=post.category %}" rel="category tag">{{ post.category }}</a></div>
+                <div class="article-content red">
+            <p></p>
+        </div>
+    </header>
+
+          {% for tag in post.tag.all %}
+            <p><p><a class="btn btn-xs btn-info" href="">{{ tag }}</a></p>
+          {% endfor %}
+        </p>
+        <br />
+    {% endfor %}
+  
+</article>
+</div>
+</div>
+</div>
+{% endblock %}

@@ -1,0 +1,247 @@
+<!--    <li --><!-- id="li-comment---><!--">-->
+<!--        <article id="comment---><!--" class="comment-b">-->
+<!--            <header class="comment-meta comment-author vcard">-->
+<!--                --><!--            </header>-->
+<!--            <!-- .comment-meta -->-->
+<!--            --><!--                <p class="comment-awaiting-moderation">--><!--</p>-->
+<!--            --><!--            <section class="comment-content comment">-->
+<!--                --><!--                --><!--                <div class="comment-reply">-->
+<!--                    --><!--                </div>-->
+<!--                <!-- .reply -->-->
+<!--            </section>-->
+<!--            <!-- .comment-content -->-->
+<!--        </article>-->
+<!--        <!-- #comment-## -->-->
+<!--    </li>-->
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>《留言板》的评论</title>
+	<atom:link href="https://www.anotherhome.net/message/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.anotherhome.net</link>
+	<description>ペロペロ</description>
+	<lastBuildDate>Mon, 17 Oct 2016 10:52:25 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>作者：ykk</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33050</link>
+		<dc:creator><![CDATA[ykk]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2016 10:52:25 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33050</guid>
+		<description><![CDATA[桂纶镁呀]]></description>
+		<content:encoded><![CDATA[<p>桂纶镁呀</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：DIYgod</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33036</link>
+		<dc:creator><![CDATA[DIYgod]]></dc:creator>
+		<pubDate>Sun, 16 Oct 2016 17:05:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33036</guid>
+		<description><![CDATA[不写Python很多年...]]></description>
+		<content:encoded><![CDATA[<p>不写Python很多年&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：DIYgod</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33034</link>
+		<dc:creator><![CDATA[DIYgod]]></dc:creator>
+		<pubDate>Sun, 16 Oct 2016 17:02:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33034</guid>
+		<description><![CDATA[Added~~ 头像好看，谁呀(☆ω☆)]]></description>
+		<content:encoded><![CDATA[<p>Added~~ 头像好看，谁呀(☆ω☆)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：DIYgod</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33033</link>
+		<dc:creator><![CDATA[DIYgod]]></dc:creator>
+		<pubDate>Sun, 16 Oct 2016 17:00:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33033</guid>
+		<description><![CDATA[可以等有内容了再来申请哟(ฅ´ω`ฅ)]]></description>
+		<content:encoded><![CDATA[<p>可以等有内容了再来申请哟(ฅ´ω`ฅ)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：吴兵</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33029</link>
+		<dc:creator><![CDATA[吴兵]]></dc:creator>
+		<pubDate>Sun, 16 Oct 2016 15:11:40 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33029</guid>
+		<description><![CDATA[您好，今天照着你的python练习册第0001学习时报错 a bytes-like object is required, not &#039;str&#039;，将f.open里的wb改为w正常运行。是代码中的错误还是Python2和Python3的差异呢？]]></description>
+		<content:encoded><![CDATA[<p>您好，今天照着你的python练习册第0001学习时报错 a bytes-like object is required, not &#8216;str&#8217;，将f.open里的wb改为w正常运行。是代码中的错误还是Python2和Python3的差异呢？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：feerung</title>
+		<link>https://www.anotherhome.net/message/comment-page-27#comment-33028</link>
+		<dc:creator><![CDATA[feerung]]></dc:creator>
+		<pubDate>Sun, 16 Oct 2016 13:35:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33028</guid>
+		<description><![CDATA[看到这条回复我笑出来了...是不是笑点太低了.]]></description>
+		<content:encoded><![CDATA[<p>看到这条回复我笑出来了&#8230;是不是笑点太低了.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：ykk</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33026</link>
+		<dc:creator><![CDATA[ykk]]></dc:creator>
+		<pubDate>Sun, 16 Oct 2016 09:40:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33026</guid>
+		<description><![CDATA[昵称：ykk
+链接：http://ykksmile.top
+头像：http://o7myibfc7.bkt.clouddn.com/avatar.jpg
+描述：性别男，爱好狗ヾ(≧∇≦*)ゝ]]></description>
+		<content:encoded><![CDATA[<p>昵称：ykk<br />
+链接：http://ykksmile.top<br />
+头像：http://o7myibfc7.bkt.clouddn.com/avatar.jpg<br />
+描述：性别男，爱好狗ヾ(≧∇≦*)ゝ</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：福利仓库</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33025</link>
+		<dc:creator><![CDATA[福利仓库]]></dc:creator>
+		<pubDate>Sun, 16 Oct 2016 08:15:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33025</guid>
+		<description><![CDATA[头像：&lt;img src=&quot;http://www.moexue.me/wp-content/uploads/2016/10/78154d2d0fb73a5f8fd812dfd8ed344c.png&quot; alt=&quot;&quot; /&gt;]]></description>
+		<content:encoded><![CDATA[<p>头像：<img src="http://www.moexue.me/wp-content/uploads/2016/10/78154d2d0fb73a5f8fd812dfd8ed344c.png" alt="" /></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：福利仓库</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33024</link>
+		<dc:creator><![CDATA[福利仓库]]></dc:creator>
+		<pubDate>Sun, 16 Oct 2016 08:12:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33024</guid>
+		<description><![CDATA[能不能添加一下友情链接
+名称：萌雪仓库
+网址：http://moexue.me]]></description>
+		<content:encoded><![CDATA[<p>能不能添加一下友情链接<br />
+名称：萌雪仓库<br />
+网址：http://moexue.me</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：DIYgod</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33019</link>
+		<dc:creator><![CDATA[DIYgod]]></dc:creator>
+		<pubDate>Fri, 14 Oct 2016 10:10:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33019</guid>
+		<description><![CDATA[已加，prpr (ฅ´ω`ฅ)]]></description>
+		<content:encoded><![CDATA[<p>已加，prpr (ฅ´ω`ฅ)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：DIYgod</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33016</link>
+		<dc:creator><![CDATA[DIYgod]]></dc:creator>
+		<pubDate>Fri, 14 Oct 2016 10:05:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33016</guid>
+		<description><![CDATA[Crayon Syntax Highlighter、Google XML Sitemaps、Hermit X、Simple History、Wordfence Security、WP-Mail-SMTP、WP-PostViews、WP-UserAgent、多合一SEO包]]></description>
+		<content:encoded><![CDATA[<p>Crayon Syntax Highlighter、Google XML Sitemaps、Hermit X、Simple History、Wordfence Security、WP-Mail-SMTP、WP-PostViews、WP-UserAgent、多合一SEO包</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：DIYgod</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33015</link>
+		<dc:creator><![CDATA[DIYgod]]></dc:creator>
+		<pubDate>Fri, 14 Oct 2016 10:03:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33015</guid>
+		<description><![CDATA[要学前端（HTML、CSS、JavaScript）和PHP]]></description>
+		<content:encoded><![CDATA[<p>要学前端（HTML、CSS、JavaScript）和PHP</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：ch4r0n</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33014</link>
+		<dc:creator><![CDATA[ch4r0n]]></dc:creator>
+		<pubDate>Fri, 14 Oct 2016 09:45:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33014</guid>
+		<description><![CDATA[昵称：ch4r0n
+头像:http://www.sweetear.cn/wp-content/uploads/2016/10/014739962.jpg
+描述:吼吼，iOS安全研究猿~٩(ˊᗜˋ*)و女毒万岁]]></description>
+		<content:encoded><![CDATA[<p>昵称：ch4r0n<br />
+头像:<a href="http://www.sweetear.cn/wp-content/uploads/2016/10/014739962.jpg" rel="nofollow">http://www.sweetear.cn/wp-content/uploads/2016/10/014739962.jpg</a><br />
+描述:吼吼，iOS安全研究猿~٩(ˊᗜˋ*)و女毒万岁</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：小灯笼</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33011</link>
+		<dc:creator><![CDATA[小灯笼]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2016 13:30:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33011</guid>
+		<description><![CDATA[变天然呆了(｡•ˇ‸ˇ•｡)]]></description>
+		<content:encoded><![CDATA[<p>变天然呆了(｡•ˇ‸ˇ•｡)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：小灯笼</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33010</link>
+		<dc:creator><![CDATA[小灯笼]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2016 13:30:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33010</guid>
+		<description><![CDATA[我才不是抖M(ノ°ο°)ノ]]></description>
+		<content:encoded><![CDATA[<p>我才不是抖M(ノ°ο°)ノ</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：小灯笼</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33009</link>
+		<dc:creator><![CDATA[小灯笼]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2016 13:28:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33009</guid>
+		<description><![CDATA[博主你这个博客好萌，都用了哪些插件呢( ๑´•ω•) &quot;(ㆆᴗㆆ)]]></description>
+		<content:encoded><![CDATA[<p>博主你这个博客好萌，都用了哪些插件呢( ๑´•ω•) &#8220;(ㆆᴗㆆ)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：chad</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33008</link>
+		<dc:creator><![CDATA[chad]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2016 09:49:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33008</guid>
+		<description><![CDATA[博主你好，很喜欢你的博客风格。我不是程序员不懂代码，刚刚接触wordpress想搭个人博客，这个主题我已经下载了。能不能通过学习html、css教程，而让我自己的WP实现你的博客上大部分的功能和效果呢？还是说一定要学习一些编程语言？]]></description>
+		<content:encoded><![CDATA[<p>博主你好，很喜欢你的博客风格。我不是程序员不懂代码，刚刚接触wordpress想搭个人博客，这个主题我已经下载了。能不能通过学习html、css教程，而让我自己的WP实现你的博客上大部分的功能和效果呢？还是说一定要学习一些编程语言？</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：DIYgod</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33007</link>
+		<dc:creator><![CDATA[DIYgod]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2016 06:28:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33007</guid>
+		<description><![CDATA[吼啊，留下昵称、头像、描述]]></description>
+		<content:encoded><![CDATA[<p>吼啊，留下昵称、头像、描述</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：ch4r0n</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33005</link>
+		<dc:creator><![CDATA[ch4r0n]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2016 15:15:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33005</guid>
+		<description><![CDATA[很喜欢你的博客，能不能交换个友链呀~]]></description>
+		<content:encoded><![CDATA[<p>很喜欢你的博客，能不能交换个友链呀~</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>作者：slowsheepsheep</title>
+		<link>https://www.anotherhome.net/message/comment-page-29#comment-33003</link>
+		<dc:creator><![CDATA[slowsheepsheep]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2016 09:48:02 +0000</pubDate>
+		<guid isPermaLink="false">http://www.diygod.tk/?page_id=84#comment-33003</guid>
+		<description><![CDATA[哈哈哈哈哈，95年的小弟弟&#124;´・ω・)ノ]]></description>
+		<content:encoded><![CDATA[<p>哈哈哈哈哈，95年的小弟弟|´・ω・)ノ</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

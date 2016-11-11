@@ -1,0 +1,636 @@
+<!--    <li --><!-- id="li-comment---><!--">-->
+<!--        <article id="comment---><!--" class="comment-b">-->
+<!--            <header class="comment-meta comment-author vcard">-->
+<!--                --><!--            </header>-->
+<!--            <!-- .comment-meta -->-->
+<!--            --><!--                <p class="comment-awaiting-moderation">--><!--</p>-->
+<!--            --><!--            <section class="comment-content comment">-->
+<!--                --><!--                --><!--                <div class="comment-reply">-->
+<!--                    --><!--                </div>-->
+<!--                <!-- .reply -->-->
+<!--            </section>-->
+<!--            <!-- .comment-content -->-->
+<!--        </article>-->
+<!--        <!-- #comment-## -->-->
+<!--    </li>-->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="theme-color" content="#595C5E">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes"">
+    <title>分享境 | Anotherhome - Part 3</title>
+    <link rel="canonical" href="https://www.anotherhome.net/">
+    <link rel="pingback" href="https://www.anotherhome.net/xmlrpc.php"/>
+    <link rel="apple-touch-icon" href="https://diygod.b0.upaiyun.com/head4.jpg">
+    <link rel="shortcut icon" href="https://www.anotherhome.net/wp-content/themes/Amativeness/favicon.ico">
+    <link rel="search" type="application/opensearchdescription+xml" href="https://www.anotherhome.net/wp-content/themes/Amativeness/search.xml" title="Anotherhome">
+    <link rel="stylesheet" href="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/nprogress/nprogress.min.css">
+    <link rel="stylesheet" href="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/social-share.js/dist/css/share.min.css">
+    <link rel="stylesheet" href="https://staticfile.qnssl.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script src='https://diygod.b0.upaiyun.com/jquery.min.js'></script>
+<!--    <script type="text/javascript" src="--><!--/ajax-comment/app.js"></script>-->
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/nprogress/nprogress.min.js"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-48084758-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    
+<!-- All in One SEO Pack 2.3.10.2 by Michael Torbert of Semper Fi Web Design[232,269] -->
+<meta name="keywords" itemprop="keywords" content="分享境" />
+<meta name="robots" content="noindex,follow" />
+<link rel='prev' href='https://www.anotherhome.net/category/share/page/2' />
+<link rel='next' href='https://www.anotherhome.net/category/share/page/4' />
+
+<link rel="canonical" href="https://www.anotherhome.net/category/share/page/3" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; Feed" href="https://www.anotherhome.net/feed" />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; 评论Feed" href="https://www.anotherhome.net/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; 分享境分类目录Feed" href="https://www.anotherhome.net/category/share/feed" />
+<link rel='stylesheet' id='crayon-css'  href='https://www.anotherhome.net/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='crayon-theme-classic-css'  href='https://www.anotherhome.net/wp-content/plugins/crayon-syntax-highlighter/themes/classic/classic.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='crayon-font-monaco-css'  href='https://www.anotherhome.net/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='amativeness-style-css'  href='https://www.anotherhome.net/wp-content/themes/Amativeness/style.css?ver=05d3b79e72bbe9d939510b8a230704d6' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='amativeness-ie-css'  href='https://www.anotherhome.net/wp-content/themes/Amativeness/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://www.anotherhome.net/wp-content/plugins/Hermit-X-master/assets/js/2.5.4/APlayer.min.js?ver=2.5.4'></script>
+<link rel='https://api.w.org/' href='https://www.anotherhome.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.anotherhome.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.anotherhome.net/wp-includes/wlwmanifest.xml" /> 
+
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.anotherhome.net/?wordfence_logHuman=1&hid=87925B6C5138304162913A7594EBF372');
+</script></head>
+<body class="archive paged category category-share category-3 paged-3 category-paged-3 single-author">
+    <script>
+        NProgress.configure({
+            showSpinner: false,
+            easing: 'ease-out',
+            speed: 1000
+        });
+        NProgress.set(0.7);
+    </script>
+    <canvas id="evanyou"></canvas>
+    <div id="back-to-top" class="red" data-scroll="body">
+    </div>
+    <div class="navbar">
+                <div class="container">
+            <nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+                <div class="menu-%e8%8f%9c%e5%8d%951-container"><ul id="menu-%e8%8f%9c%e5%8d%951" class="nav-menu"><li id="menu-item-2270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2270"><a href="https://www.anotherhome.net/"><i class="fa fa-home"></i>首页</a></li>
+<li id="menu-item-2271" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-2271"><a target="_blank"><i class="fa fa-paperclip"></i>分类</a>
+<ul class="sub-menu">
+	<li id="menu-item-2267" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2267"><a target="_blank" href="https://www.anotherhome.net/category/create">创作集</a></li>
+	<li id="menu-item-2266" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-2266"><a target="_blank" href="https://www.anotherhome.net/category/share">分享境</a></li>
+	<li id="menu-item-2268" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2268"><a target="_blank" href="https://www.anotherhome.net/category/say">闲言语</a></li>
+	<li id="menu-item-2269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2269"><a target="_blank" href="https://www.anotherhome.net/category/event">事件簿</a></li>
+</ul>
+</li>
+<li id="menu-item-2512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2512"><a><i class="fa fa-flask"></i>实验室</a>
+<ul class="sub-menu">
+	<li id="menu-item-2606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2606"><a target="_blank" href="http://diygod.me/">DIYgod</a></li>
+	<li id="menu-item-2515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2515"><a target="_blank" href="http://aplayer.js.org/">APlayer</a></li>
+	<li id="menu-item-2769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2769"><a href="http://dplayer.js.org/">DPlayer</a></li>
+	<li id="menu-item-2607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2607"><a target="_blank" href="http://diygod.github.io/OwO/demo/">OωO</a></li>
+	<li id="menu-item-2516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a target="_blank" href="https://www.anotherhome.net/file/Ticktack/index.html?background=fff&#038;color=f00&#038;birthday=19950609">Ticktack</a></li>
+	<li id="menu-item-2517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2517"><a target="_blank" href="https://www.anotherhome.net/file/jCarrousel/">jCarrousel</a></li>
+	<li id="menu-item-2514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2514"><a target="_blank" href="https://www.anotherhome.net/api/zhihu/">知乎日报RSS</a></li>
+</ul>
+</li>
+<li id="menu-item-2263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2263"><a target="_blank" href="https://www.anotherhome.net/donate"><i class="fa fa-usd"></i>捐赠</a></li>
+<li id="menu-item-2362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2362"><a target="_blank" href="https://www.anotherhome.net/link"><i class="fa fa-mars"></i>链接</a></li>
+<li id="menu-item-2264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2264"><a target="_blank" href="https://www.anotherhome.net/message"><i class="fa fa-pencil"></i>留言板</a></li>
+<li id="menu-item-2262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2262"><a target="_blank" href="https://www.anotherhome.net/about"><i class="fa fa-rocket"></i>关于</a></li>
+</ul></div>            </nav>
+                                    <div class="nav-right">
+                <form class="search-form" method="post" action="https://www.anotherhome.net">
+                    <input type="text" name="s" class="search-input" placeholder="站内搜索">
+                    <button type="submit" class="search-submit sousuo">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <header class="header-description">
+        <div id="site-header">
+            <h1><a href="https://www.anotherhome.net/"
+                   title="Anotherhome"
+                   rel="home">Anotherhome</a></h1>
+            <p class="typed"><a href="https://www.anotherhome.net/" title="Anotherhome" rel="home"></a></p>
+        </div>
+    </header>
+    <div id="information" class="info block">
+        <a href="https://www.anotherhome.net/"><img src="https://www.anotherhome.net/wp-content/uploads/2016/09/head.jpg" class="avatar"
+                                                             data-pinit="registered"
+                                                             width="356"
+                                                             height="356"
+                                                             alt=""/></a>
+
+        <h2 class="description"><a href="https://www.anotherhome.net/"
+                                   title="Anotherhome" rel="home"><span
+                    style="color: #3369e8;">Write</span> <span style="color: #d50f25;">the</span> <span
+                    style="color: #eeb211;">Code.</span> <span style="color: #3369e8;">Change</span> <span
+                    style="color: #009925;">the</span> <span style="color: #d50f25;">World.</span></a></h2>
+    </div>
+    <div class="xm">
+        <img src="https://diygod.b0.upaiyun.com/xm.png">
+    </div>
+    <div class="container" id="content">
+        <div class="article-list">
+<div class="main">
+        <article class="block post">
+        <div class="ui ribbon label red">分类目录</div>
+    </article>
+    <article id="post-1551" class="block post">
+	<span class="round-date red">
+				<span class="month">9月</span>
+				<span class="day">23</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1551" rel="bookmark">QQ空间自动评论PHP源码</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年9月23日 • <i class="fa fa-eye"></i>3,865 次围观 • <i class="fa fa-comment-o"></i>活捉 34 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p><iframe width="110" height="20" src="http://github.anotherhome.net/github-btn.html?user=DIYgod&amp;repo=QzoneAutoReview&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe><iframe width="95" height="20" src="http://github.anotherhome.net/github-btn.html?user=DIYgod&amp;repo=QzoneAutoReview&amp;type=fork&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe></p>
+<p>版权声明：源码来自 <a href="http://www.giuem.com/" target="_blank">Giuem’s Blog</a></p>
+<p>搭建方法参考<a href="http://www.anotherhome.net/1286" target="_blank">《SAE搭建QQ空间自动点赞》</a>。</p>
+<p>如果你已经有了<a href="http://www.anotherhome.net/1286" target="_blank">QQ空间自动点赞</a>，直接使用那个的sid就行。</p>
+<p>使用了simsimi的接口。</p>
+<p>PHP源码如下： <a href="https://www.anotherhome.net/1551#more-1551" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1529" class="block post">
+	<span class="round-date red">
+				<span class="month">9月</span>
+				<span class="day">07</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1529" rel="bookmark">PHP短信云轰炸</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年9月7日 • <i class="fa fa-eye"></i>8,173 次围观 • <i class="fa fa-comment-o"></i>活捉 49 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p><iframe width="110" height="20" src="http://github.anotherhome.net/github-btn.html?user=S0cial&amp;repo=Cloud-Sms&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe><iframe width="95" height="20" src="http://github.anotherhome.net/github-btn.html?user=S0cial&amp;repo=Cloud-Sms&amp;type=fork&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe></p>
+<p>2014.10.29更新：<a href="http://www.inurl.org/cloud-sms/">http://www.inurl.org/cloud-sms/</a><br />
+<img class="alignnone" src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/QQ%E6%88%AA%E5%9B%BE20140907232502%20(1).png" alt="" width="419" height="180" /></p>
+<p><strong>版权声明</strong>：作者 <a href="http://www.inurl.org/">Inurl</a></p>
+<p><strong>演示地址</strong></p>
+<p><a href="http://sms.anotherhome.net" target="_blank">http://sms.anotherhome.net</a>（导航栏—&gt;项目—&gt;短信云轰炸）<br />
+<span style="color: #ff0000;">演示之用，想轰炸请自行搭建，不要用于非法</span></p>
+<p><strong>使用方法</strong></p>
+<p>注册、登陆、提交手机号、（管理）、自行监控 http://www.example.com/home/index/cron</p>
+<p><strong>搭建</strong></p>
+<p>修改 Application\Common\Conf\config.php<br />
+把里面的数据库信息修改为自己的数据库<br />
+上传根目录的Cloud-Sms.sql到数据库<br />
+如果不需要隐藏URL中index.php，请修改 Application\Common\Conf\config.php<br />
+删除</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+
+		<div id="crayon-5804e57e575b9934939620" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+		
+			<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+'URL_MODEL' =&gt; '2'</textarea></div>
+			<div class="crayon-main" style="">
+				<table class="crayon-table">
+					<tr class="crayon-row">
+				<td class="crayon-nums " data-settings="show">
+					<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5804e57e575b9934939620-1">1</div></div>
+				</td>
+						<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5804e57e575b9934939620-1"><span class="crayon-s">'URL_MODEL'</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">'2'</span></div></div></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p>需要隐藏的根据环境自己设置需要开启的服务<br />
+http://document.thinkphp.cn/manual_3_2.html#url_rewrite<br />
+需要添加接口的可以在 Application\Home\Controller\IndexController.class.php 第159行添加给力的接口<br />
+部署到服务器之后，监控http://www.example.com/home/index/cron <a href="https://www.anotherhome.net/1529#more-1529" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1520" class="block post">
+	<span class="round-date red">
+				<span class="month">9月</span>
+				<span class="day">06</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1520" rel="bookmark">H5Slides—自由的HTML5幻灯片</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年9月6日 • <i class="fa fa-eye"></i>4,018 次围观 • <i class="fa fa-comment-o"></i>活捉 5 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p><iframe width="110" height="20" src="http://github.anotherhome.net/github-btn.html?user=Jinjiang&amp;repo=h5slides&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe><iframe width="95" height="20" src="http://github.anotherhome.net/github-btn.html?user=Jinjiang&amp;repo=h5slides&amp;type=fork&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe></p>
+<p>H5Slides希望通过HTML5的技术，成为用户编辑、播放、控制幻灯片这一系列行为的全套方案的提供者。幻灯演示将会变得更自如，更轻便，更开放，更易于分享。</p>
+<p><strong>演示地址</strong></p>
+<p><a href="http://ppt.anotherhome.net" target="_blank">http://ppt.anotherhome.net</a> 导航栏—&gt;项目—&gt;H5Slides</p>
+<p><strong>特点</strong></p>
+<p>它是HTML5的！<br />
+我们不需要臃肿的Powerpoint也可以自由的制作和演示幻灯片<br />
+我们可以自由的在各种设备上进行幻灯演示<br />
+我们可以自由扩展幻灯片的制作工具和播放环境<br />
+它可以很自由很方便的传播</p>
+<p>它不是……</p>
+<p>它不是个重量级选手<br />
+它不是个全能型选手<br />
+它不是PPT，而是H5Slides！<br />
+运行方式</p>
+<p><strong>运行环境</strong></p>
+<p>H5Slides目前仅支持webkit内核浏览器，PC、Mac端，测试的包括最新版的Safari/Chrome/Maxthon，iOS端仅支持iOS6以上版本(因为可以导入相册图片或相机拍照)。</p>
+<p><strong>运行步骤</strong></p>
+<p>用浏览器打开源代码中的index.html即可运行；<br />
+在新打开的界面中，我们可以自由编辑幻灯片的内容和样式；<br />
+点击右上角的“Preview”(预览)按钮，可以进入播放器模式，播放我们之前编辑好的幻灯片；<br />
+如果想重新编写一个全新的幻灯片，可以点击右上角的“Reset”(重做)按钮。 <a href="https://www.anotherhome.net/1520#more-1520" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1518" class="block post">
+	<span class="round-date red">
+				<span class="month">9月</span>
+				<span class="day">06</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1518" rel="bookmark">Qchan—轻量级PHP图床程序</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年9月6日 • <i class="fa fa-eye"></i>3,163 次围观 • <i class="fa fa-comment-o"></i>活捉 34 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p><iframe width="110" height="20" src="http://github.anotherhome.net/github-btn.html?user=qakcn&amp;repo=qchan&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe><iframe width="95" height="20" src="http://github.anotherhome.net/github-btn.html?user=qakcn&amp;repo=qchan&amp;type=fork&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe></p>
+<p><strong>演示地址</strong></p>
+<p><a href="http://image.anotherhome.net/" target="_blank">http://image.anotherhome.net</a>  导航栏—&gt;项目—&gt;图床 也可以；纯粹为了演示，千万不要把这个当免费图床用<img class="alignnone" src="https://diygod.b0.upaiyun.com/1.png" data-original="http://tb2.bdstatic.com/tb/editor/images/face/i_f25.png" alt="" width="30" height="30" />，不定期删除图片！</p>
+<p><strong>需求</strong></p>
+<p>PHP &gt; 5.3.0<br />
+文件系统函数启用。<br />
+GD扩展启用。<br />
+JSON扩展启用。</p>
+<p><strong>安装</strong></p>
+<p>复制文件到你的网站目录。<br />
+修改config.php中的配置。<br />
+开始用吧！</p>
+<p><strong>管理</strong></p>
+<p>访问你的网站下的manage路径（如：你的网站是 http://www.example.com ，你就要访问 http://www.example.com/manage/ ）。<br />
+就像在上传页面那样选择文件。<br />
+一按“删除”，灰飞烟灭。 <a href="https://www.anotherhome.net/1518#more-1518" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1421" class="block post">
+	<span class="round-date red">
+				<span class="month">8月</span>
+				<span class="day">23</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1421" rel="bookmark">搭建贴吧聊天机器人（贴吧自动回复）</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年8月23日 • <i class="fa fa-eye"></i>13,403 次围观 • <i class="fa fa-comment-o"></i>活捉 91 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p><iframe width="110" height="20" src="http://github.anotherhome.net/github-btn.html?user=giuem&amp;repo=TieBaRobot&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe><iframe width="95" height="20" src="http://github.anotherhome.net/github-btn.html?user=giuem&amp;repo=TieBaRobot&amp;type=fork&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe></p>
+<p>版权声明：<a href="http://www.giuem.com/archives/269.html" target="_blank">Giuem&#8217;s Blog</a> 版权所有</p>
+<p>2014.10.4更新<br />
+<a href="http://www.giuem.com/archives/346.html" target="_blank">http://www.giuem.com/archives/346.html</a><br />
+<a href="https://github.com/giuem/TieBaRobot" target="_blank">https://github.com/giuem/TieBaRobot</a></p>
+<p>用来实现自动智能回复百度贴吧的“回复我的”和“@提到我的”，有调教（调教方法： [问：问题 答：回答] @谷歌大法 ）和自定义机器人接口的功能。想看效果可以调戏我的小号<a href="http://tieba.baidu.com/home/main?un=%B9%C8%B8%E8%B4%F3%B7%A8&amp;fr=pb" target="_blank">@谷歌大法</a></p>
+<p><strong>简易教程（搭载前请点击本站右侧栏的广告支持一下吧(〜￣▽￣)〜）：</strong></p>
+<p>懒得写了。。具体看作者的教程吧（<a href="http://www.giuem.com/archives/269.html" target="_blank">贴吧聊天机器人源码！欢迎使用</a>、<a href="http://www.giuem.com/archives/94.html" target="_blank">利用新浪云（sae）搭建各种云</a>）_(´ཀ`」 ∠)_</p>
+<p>1.填写config.php中的信息（bduss、id、数据库），sae用户不需要填写数据库信息。</p>
+<p>获取BDUSS的方法（如果想用小号实现可以用备胎浏览器获取BDUSS，这样就不影响正常ID的使用）： <a href="https://www.anotherhome.net/1421#more-1421" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1417" class="block post">
+	<span class="round-date red">
+				<span class="month">8月</span>
+				<span class="day">22</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1417" rel="bookmark">纪念Google君</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年8月22日 • <i class="fa fa-eye"></i>2,231 次围观 • <i class="fa fa-comment-o"></i>活捉 30 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>版权声明：非原创，作者已无从考证</p>
+<p>一</p>
+<p>公元二零零二年八月三十一日，就是中国千万网民为当天被封的Google君开追悼会的那一天，我独在网络上徘徊，遇见网友，前来问我道，“先生可曾为Google写了一点什么没有？”我说“没有”。她就正告我，“先生还是写一点罢；先生很爱用Google搜索引擎的。”</p>
+<p>这是我知道的，凡我用到的搜索网站，大概是因为不方便之故罢，使用一向就甚为寥落，然而在这样的生活艰难中，天天使用的搜索引擎就有她。我也早觉得有写一点东西的必要了，这虽然于网站毫不相干，但在网民，却大抵只能如此而已。倘使我能够相信真有所谓“在天之灵”，那自然可以得到更大的安慰，——但是，现在，却只能如此而已。</p>
+<p>可是我实在无话可说。我只觉得所住的并非人间。无数个网站的死联接，充斥着我的硬盘，使我艰于呼吸视听，那里还能有什么言语？长歌当哭，是必须在痛定之后的。而此后几个所谓学者文人的阴险的论调，尤使我觉得悲哀。我已经出离愤怒了。我将深味这非人间的浓黑的悲凉；以我的最大哀痛显示于非人间，使它们快意于我的苦痛，就将这作为网民的菲薄的祭品，奉献于被封网站的灵前。 <a href="https://www.anotherhome.net/1417#more-1417" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1412" class="block post">
+	<span class="round-date red">
+				<span class="month">8月</span>
+				<span class="day">20</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1412" rel="bookmark">页面点击出现随机数字特效</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年8月20日 • <i class="fa fa-eye"></i>3,329 次围观 • <i class="fa fa-comment-o"></i>活捉 28 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>在 <a href="http://pfcz.org/" target="_blank">破釜沉舟</a> 看到的一个很有趣的页面特效，作者暂时无法考证|ω・）</p>
+<p>只是好玩，没有实际功能。</p>
+<p>本段代码已加入 <a href="http://icodeu.sinaapp.com/" target="_blank">I code U</a> 豪华午餐( ゜- ゜)つロ 乾杯~</p>
+<p>效果如本站，代码如下： <a href="https://www.anotherhome.net/1412#more-1412" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1393" class="block post">
+	<span class="round-date red">
+				<span class="month">8月</span>
+				<span class="day">17</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1393" rel="bookmark">Lantern—An app to end censorship</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年8月17日 • <i class="fa fa-eye"></i>3,589 次围观 • <i class="fa fa-comment-o"></i>活捉 31 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>本文旨在分享 <a href="https://getlantern.org" target="_blank">Lantern</a> 的精神而非推荐此软件，因为我是GAE脑残粉，GAE大法好(〜￣▽￣)〜</p>
+<p><img class="alignnone" src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/lantern.jpg" alt="" width="748" height="330" /></p>
+<p>Censorship is wrong, but we can stop it. Lantern is the app you install<br />
+on your computer that lets the whole world escape censorship.</p>
+<p><strong>YouTube上震撼人心的宣传片（优酷搬运失败，审核不通过）：</strong> <a href="https://www.anotherhome.net/1393#more-1393" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1382" class="block post">
+	<span class="round-date red">
+				<span class="month">8月</span>
+				<span class="day">15</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1382" rel="bookmark">博客启用Fontello图标字体</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年8月15日 • <i class="fa fa-eye"></i>4,363 次围观 • <i class="fa fa-comment-o"></i>活捉 17 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p><i class="icon-emo-grin"></i>我能用上这个Fontello图标字体要感谢 <a href="http://wanan.me/" target="_blank">鱼</a> 的推荐及耐心帮助。</p>
+<p>图标字体，即将常用的一些网页设计图标如社交网站的logo转换成字体，就像其它网站字体一样，使用CSS@font-face在web浏览器里展示。使用图标字体的好处不言而喻，类矢量图像的效果，可以任意的放大缩小，特别是ipad和mac等Retina屏幕，使用常规的图标效果不好。</p>
+<p>对于常用的图标字体，网上已经有很多免费开源的，但怎么使用还是需要花点时间去学习，不过<a href="http://fontello.com/" target="_blank">Fontello</a>网站提供了最简单的方法。该网站收集了目前几乎所有的开源免费的图标字体，进入该网站后，简单的点击选择你需要使用的那些图标，然后点击右上角Download webfont，便可以打包下载所有类型（包括eot, svg, ttf和woff）的图标字体和网页加载需要的CSS。然后将解压得到的font和css两个文件夹上传到你的Wordpress当前主题模板的目录文件夹里，并在主题模板的&lt;head&gt;&#8230;&lt;/head&gt;之间加入如下代码（第二行适用于支持IE7）：</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+
+		<div id="crayon-5804e57e68ae3586357617" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+		
+			<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+&lt;!-- [if IE 7]&gt;	&lt;link rel="stylesheet" href="&lt;?php bloginfo('template_url'); ?&gt;/css/fontello-ie7.css" type="text/css" /&gt;&lt;![endif]--&gt;</textarea></div>
+			<div class="crayon-main" style="">
+				<table class="crayon-table">
+					<tr class="crayon-row">
+				<td class="crayon-nums " data-settings="show">
+					<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5804e57e68ae3586357617-1">1</div></div>
+				</td>
+						<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5804e57e68ae3586357617-1"><span class="crayon-o">&lt;</span><span class="crayon-o">!</span><span class="crayon-o">--</span><span class="crayon-h"> </span><span class="crayon-sy">[</span><span class="crayon-st">if</span><span class="crayon-h"> </span><span class="crayon-cn">IE</span><span class="crayon-h"> </span><span class="crayon-cn">7</span><span class="crayon-sy">]</span><span class="crayon-o">&gt;</span><span class="crayon-h">	</span><span class="crayon-o">&lt;</span><span class="crayon-e">link </span><span class="crayon-i">rel</span><span class="crayon-o">=</span><span class="crayon-s">"stylesheet"</span><span class="crayon-h"> </span><span class="crayon-i">href</span><span class="crayon-o">=</span><span class="crayon-s">"<span class="crayon-ta">&lt;?php</span><span class="crayon-h"> </span><span class="crayon-e">bloginfo</span><span class="crayon-sy">(</span><span class="crayon-s">'template_url'</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-ta">?&gt;</span>/css/fontello-ie7.css"</span><span class="crayon-h"> </span><span class="crayon-i">type</span><span class="crayon-o">=</span><span class="crayon-s">"text/css"</span><span class="crayon-h"> </span><span class="crayon-o">/</span><span class="crayon-o">&gt;</span><span class="crayon-o">&lt;</span><span class="crayon-o">!</span><span class="crayon-sy">[</span><span class="crayon-st">endif</span><span class="crayon-sy">]</span><span class="crayon-o">--</span><span class="crayon-o">&gt;</span></div></div></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+<!-- [Format Time: 0.0010 seconds] -->
+<p>最后在你需要使用图标的地方插入类似&lt;i class=&#8221;icon-xxx&#8221;&gt;&lt;/i&gt;的代码即可。其中icon-xxx为你下载的那个图标字体所包括的图标的具体名称。</p>
+<p><a href="http://www.anotherhome.net/wp-content/themes/Amativeness/fontellodemo.html" target="_blank">这里</a>罗列了本站使用的所有图标（经测试多说评论显示不出来） <a href="https://www.anotherhome.net/1382#more-1382" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1376" class="block post">
+	<span class="round-date red">
+				<span class="month">8月</span>
+				<span class="day">13</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1376" rel="bookmark">huhamhire-hosts — Hosts文件自动配置工具</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年8月13日 • <i class="fa fa-eye"></i>151,098 次围观 • <i class="fa fa-comment-o"></i>活捉 362 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p><span style="font-size: 18pt;"><strong>推荐配合EasyGoAgent使用:</strong></span></p>
+<p><a href="http://www.anotherhome.net/1727" target="_blank" rel="bookmark">EasyGoAgent — 开箱即用的GoAgent</a></p>
+<p><strong>Update 2015.5.15</strong></p>
+<p>数据文件V1.5.7已更新, 数据包下载：<a href="http://pan.baidu.com/s/1mgrExrM" target="_blank">http://pan.baidu.com/s/1mgrExrM</a> (感谢网友zzd911)</p>
+<p><strong>Update 2015.4.1</strong></p>
+<p>数据文件V1.5.6已更新, 数据包下载：<a href="http://pan.baidu.com/s/1qWqOtUO" target="_blank">http://pan.baidu.com/s/1qWqOtUO</a></p>
+<p><strong>Update 2015.2.4</strong></p>
+<p>数据文件V1.5.5已更新, 数据包下载：<a href="http://pan.baidu.com/s/1hqoviLI" target="_blank">http://pan.baidu.com/s/1hqoviLI</a></p>
+<p><strong>Update 2015.1.12</strong></p>
+<p>数据文件V1.5.4下载：<a href="http://pan.baidu.com/s/1jGBWMWm" target="_blank">http://pan.baidu.com/s/1jGBWMWm</a></p>
+<p><strong>版权声明</strong></p>
+<p>本文所有内容不适用于本站通用许可协议，禁止以任何形式转载</p>
+<p><img class="alignnone" src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/QQ%E6%88%AA%E5%9B%BE20140813165854.png" alt="" width="640" height="420" /></p>
+<p>这是一个强大、傻瓜式的Hosts文件自动配置工具，可以实现一键修改Hosts简易爬墙。</p>
+<p><strong>1.简介</strong></p>
+<p>由于众所周知的原因，部分国外网站在中国大陆想要访问时会出现无法正常访问的情况。如果您觉得各类爬墙工具的配置都太过复杂，或者是不愿意花钱来获取相关工具，那修改hosts文件是您的不二选择。<br />
+由于很多的网站只是因为解析不到正确的IP地址而出现被屏蔽的状况，使用hosts文件可以在设备终端提供这些网站的实际地址列表。虽然hosts文件功能十分有限，但是此方法可以满足对爬墙要求不高的朋友。值得说明的是，与使用代理等方式访问速度普遍较慢的情况不同，使用hosts文件不存在建立虚拟线路的效率损耗问题，因而可以有较高的访问效率，甚至还能对目标服务器的选择进行优化。</p>
+<p><strong>2.具体功能</strong></p>
+<p>优化访问Google服务<br />
+可访问 Google+<br />
+可访问 Facebook<br />
+可访问 twitter<br />
+可访问 YouTube (视频播放仅IPv6支持)<br />
+优化访问 Wikipedia<br />
+优化访问 IMDB<br />
+屏蔽 Adobe 激活服务器（支持CC）<br />
+屏蔽 Parallels Desktop 7 激活服务器<br />
+屏蔽 Altium Designer 10 激活服务器<br />
+加速 Google Drive 服务访问<br />
+加速 Flickr 与 Dropbox 服务访问<br />
+提供 Steam 服务器解析 (适用于非电信网络)<br />
+提供恶意网站和病毒网站屏蔽的最新列表<br />
+屏蔽部分广告<strong>（如果没有特殊需要，希望您能忽略此功能，关闭对本站的广告屏蔽）</strong> <a href="https://www.anotherhome.net/1376#more-1376" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post -->            <ol class="page-navigator"><a class="prev page-numbers" href="https://www.anotherhome.net/category/share/page/2">下一页</a>
+<a class='page-numbers' href='https://www.anotherhome.net/category/share/page/1'>1</a>
+<a class='page-numbers' href='https://www.anotherhome.net/category/share/page/2'>2</a>
+<span class='page-numbers current'>3</span>
+<a class='page-numbers' href='https://www.anotherhome.net/category/share/page/4'>4</a>
+<a class='page-numbers' href='https://www.anotherhome.net/category/share/page/5'>5</a>
+<a class="next page-numbers" href="https://www.anotherhome.net/category/share/page/4">上一页</a></ol>
+        </div><!-- #content -->
+    <div id="secondary" class="side" role="complementary">
+        <section id="text-11" class="block widget widget_text">			<div class="textwidget"><div class="ca-container">
+    <div class="ca-head">
+        <div class="ca-head-container">
+            <img src="https://diygod.b0.upaiyun.com/snjz.jpg">
+            <h1><span>网红</span>DIYgod</h1>
+        </div>
+    </div>
+    <div class="ca-body">
+        <p>你能抓到我么？</p>
+        <div class="catch-me">
+            <a data-balloon="Rss" data-balloon-pos="up" target="_blank" href="https://www.anotherhome.net/feed"><i class="fa fa-rss"></i></a>
+            <a data-balloon="微博" data-balloon-pos="up" target="_blank" href="http://weibo.com/anotherhome"><i class="fa fa-weibo"></i></a>
+            <a data-balloon="GitHub" data-balloon-pos="up" target="_blank" href="https://github.com/DIYgod"><i class="fa fa-github"></i></a>
+            <a data-balloon="Instagram" data-balloon-pos="up" target="_blank" href="https://www.instagram.com/diygod" style="display:none;"><i class="fa fa-instagram"></i></a>
+            <a data-balloon="微信公众号" data-balloon-pos="up" target="_blank" href="https://diygod.b0.upaiyun.com/gzh.jpg"><i class="fa fa-wechat"></i></a>
+            <a data-balloon="QQ群" data-balloon-pos="up" target="_blank" href="https://dn-diygod.qbox.me/qq-g.jpg"><i class="fa fa-qq"></i></a>
+            <a data-balloon="知乎" data-balloon-pos="up" target="_blank" href="https://www.zhihu.com/people/diygod"><i  class="fa" style="font-weight: 500;">知</i></a>
+            <a data-balloon="坐标" data-balloon-pos="up" target="_blank" href="https://goo.gl/maps/6DuU9eED3C92"><i class="fa fa-map-marker" style="display:none;"></i></a>
+        </div>
+    </div>
+</div></div>
+		</section><section id="text-3" class="block widget widget_text">			<div class="textwidget"><div id="player1" class="aplayer">	 	 
+ <div style="padding: 10px; font-size: 10px; text-align: center;">(＞﹏＜) APlayer 加载中,好累的说...</div>	 	 
+</div></div>
+		</section><section id="text-4" class="block widget widget_text">			<div class="textwidget"><div class='like-vote'>
+	<p class='like-title'>Do you like me?</p>
+	<div class='like-count'>
+		<i class="fa fa-heart"></i><span></span>
+	</div>
+</div></div>
+		</section><section id="text-18" class="block widget widget_text">			<div class="textwidget"><a target="_blank" href="http://www.yq24.net/aff.php?aff=98" style="font-size: 13px; line-height: 20px;"><img src="https://diygod.b0.upaiyun.com/yq24.jpg"></a></div>
+		</section><section id="text-15" class="block widget widget_text"><p class="ui red ribbon label">这些人都排着队来跟我说话</p>			<div class="textwidget">    <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33050">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/e5fa85ffe0ba8d4f491af41a00d454de?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/e5fa85ffe0ba8d4f491af41a00d454de?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">ykk 在「留言板」中说:</p>
+                <p class="recent-text">桂纶镁呀</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2770#comment-33037">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「WordPress 反垃圾评论大作战」中说:</p>
+                <p class="recent-text">就改了下菜单栏...厉害这都能看出来(´இ皿இ｀)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33036">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">不写Python很多年...</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2790#comment-33035">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/124d03a731ac13b3ab5ffa6762bd12c7?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/124d03a731ac13b3ab5ffa6762bd12c7?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">liwanglin12 在「DPlayer 和 bilibili 更配哦」中说:</p>
+                <p class="recent-text">DaoCloud based on Docker</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33034">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">Added~~ 头像好看，谁呀(☆ω☆)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33033">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">可以等有内容了再来申请哟(ฅ´ω`ฅ)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2790#comment-33032">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「DPlayer 和 bilibili 更配哦」中说:</p>
+                <p class="recent-text">点右下角设置按钮可以关闭，我这里没问题呀(´இ皿இ｀)</p>
+            </div>
+        </a>
+    </li>
+    </div>
+		</section><section id="views-3" class="block widget widget_views"><p class="ui red ribbon label">大家都排队来看这些</p><ul>
+<li><a href="https://www.anotherhome.net/1727"  title="EasyGoAgent — 开箱即用的GoAgent">EasyGoAgent — 开箱即用的GoAgent</a> - 169,392 次围观</li><li><a href="https://www.anotherhome.net/1376"  title="huhamhire-hosts — Hosts文件自动配置工具">huhamhire-hosts — Hosts文件自动配置工具</a> - 151,098 次围观</li><li><a href="https://www.anotherhome.net/message"  title="留言板">留言板</a> - 139,820 次围观</li><li><a href="https://www.anotherhome.net/1362"  title="GoGo Tester—复活你的GoAgent">GoGo Tester—复活你的GoAgent</a> - 117,471 次围观</li><li><a href="https://www.anotherhome.net/1573"  title="GoAgent必备 Google IP">GoAgent必备 Google IP</a> - 104,538 次围观</li><li><a href="https://www.anotherhome.net/about"  title="关于">关于</a> - 42,129 次围观</li><li><a href="https://www.anotherhome.net/link"  title="链接">链接</a> - 22,381 次围观</li></ul>
+</section><section id="text-8" class="block widget widget_text">			<div class="textwidget"><div class="close-side">关闭侧边栏</div></div>
+		</section>    </div><!-- #secondary -->
+</div><!-- #main .wrapper -->
+</div>
+    <footer id="colophon" role="contentinfo">
+        <div class="footer-image"></div>
+        <div class="container">
+            <p>博客已萌萌哒运行<span id=span_dt_dt></span><span class="my-face">(●'◡'●)ﾉ♥</span></p>
+            <p>
+                托管于<a href="http://www.aliyun.com/" target="_blank"> 阿里云</a>.
+                <a href="https://www.upyun.com/" target="_blank">又拍云</a> 提供静态文件云存储服务.
+                <a href="http://www.google.com/analytics/" target="_blank">Google Analytics </a>提供网站统计服务.
+                <a href="http://www.cloudxns.net/" target="_blank">CloudXNS </a>提供 DNS 解析服务.
+            </p>
+            <p>&copy; 2016 <a href="https://www.anotherhome.net/">Anotherhome</a>.
+                由 <a href="http://wordpress.org" target="_blank">Wordpress</a> 强力驱动.
+                Theme By <a href="https://github.com/DIYgod/Amativeness" target="_blank">Amativeness</a>.
+                <a href="https://www.anotherhome.net/sitemap.xml" target="_blank">站点地图</a>.
+                鲁ICP备16000184号.
+            </p>
+            <p>Made with <i class="fa fa-heart throb" style="color: #d43f57;"></i> by DIYgod. </p>
+        </div>
+    </footer>
+    </div>
+    <script>function cloneObject(src){if(src==null||typeof src!="object"){return src}if(src instanceof Date){var clone=new Date(src.getDate());return clone}if(src instanceof Array){var clone=[];for(var i=0,len=src.length;i<len;i++){clone[i]=src[i]}return clone}if(src instanceof Object){var clone={};for(var key in src){if(src.hasOwnProperty(key)){clone[key]=cloneObject(src[key])}}return clone}}function hermitInit(){var aps=document.getElementsByClassName("aplayer");ap=[];var xhr=[];var option=[];remain_time=10;for(var i=0;i<aps.length;i++){if(aps[i].dataset.songs){option[i]=cloneObject(aps[i].dataset);option[i].element=aps[i];xhr[i]=new XMLHttpRequest();xhr[i].onreadystatechange=function(){var index=xhr.indexOf(this);var op=option[index];if(this.readyState===4){if(this.status>=200&&this.status<300||this.status===304){var response=JSON.parse(this.responseText);op.music=response.msg.songs;if(op.music[0].lrc){op.showlrc=3}else{op.showlrc=0}if(op.music.length===1){op.music=op.music[0]}if(op.autoplay){op.autoplay=(op.autoplay==="true"||op.autoplay==="1")}if(op.loop){op.loop=(op.loop==="true"||op.loop==="1")}if(op.mutex){op.mutex=(op.mutex==="true"||op.mutex==="1")}if(op.narrow){op.narrow=(op.narrow==="true"||op.narrow==="1")}ap[i]=new APlayer(op)}else{console.log("Request was unsuccessful: "+this.status)}}};var scope=option[i].songs.split("#:");apiurl="https://www.anotherhome.net/wp-admin/admin-ajax.php?action=hermit&scope="+option[i].songs.split("#:")[0]+"&id="+option[i].songs.split("#:")[1];xhr[i].open("get",apiurl,true);xhr[i].send(null)}}}function reloadHermit(){for(var i=0;i<ap.length;i++){try{ap[i].pause()}catch(e){}}hermitInit()}hermitInit();</script><script type='text/javascript' src='https://www.anotherhome.net/wp-includes/js/wp-embed.min.js?ver=05d3b79e72bbe9d939510b8a230704d6'></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/typed.js/dist/typed.min.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/jquery-lazyload/jquery.lazyload.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/notie/browser/notie.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/social-share.js/dist/js/jquery.share.min.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/main.js"></script>
+    <script>
+        NProgress.set(1.0);
+    </script>
+    </body>
+</html>

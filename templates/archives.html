@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container" id="content">
+<div class="article-list">
+<div class="main" id="thumbs">
+
+{% if error %}
+        
+<p class="title">
+                <a href="#" rel="bookmark">没有相关文章题目</a>
+            </p>
+    {% else %}
+
+{% for post in post_list %}
+
+<article id="{{ post.id }}" class="block post">
+<span class="round-date red">
+				<span class="month">{{ post.date_time |date:'Y'}}</span>
+				<span class="day">{{ post.date_time |date:'d'}}</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="{% url 'detail' id=post.id %}" rel="bookmark">{{ post.title }}</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 {{ post.date_time }} • <i class="fa fa-eye"></i>440 次围观 • <i class="fa fa-comment-o"></i>活捉 22 条            </p>
+                            <div class="ui ribbon label red"><a href="{% url 'search_tag' tag=post.category %}" rel="category tag">{{ post.category }}</a></div>
+                <div class="article-content red">
+            <p></p>
+        </div>
+    </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            {{ post.content|custom_markdown|truncatewords_html:100 }}
+        </div><!-- .article-content -->
+        <div class="article-content red">
+        <p class="more"><a href="#" title="{{ post.title }}" target="_blank">阅读全文
+                &gt;&gt;</a></p>
+    </div>
+</article>
+
+{% endfor %}
+{% endif %}
+
+</div>
+</div>
+</div>
+{% endblock %}

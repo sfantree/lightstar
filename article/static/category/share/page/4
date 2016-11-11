@@ -1,0 +1,733 @@
+<!--    <li --><!-- id="li-comment---><!--">-->
+<!--        <article id="comment---><!--" class="comment-b">-->
+<!--            <header class="comment-meta comment-author vcard">-->
+<!--                --><!--            </header>-->
+<!--            <!-- .comment-meta -->-->
+<!--            --><!--                <p class="comment-awaiting-moderation">--><!--</p>-->
+<!--            --><!--            <section class="comment-content comment">-->
+<!--                --><!--                --><!--                <div class="comment-reply">-->
+<!--                    --><!--                </div>-->
+<!--                <!-- .reply -->-->
+<!--            </section>-->
+<!--            <!-- .comment-content -->-->
+<!--        </article>-->
+<!--        <!-- #comment-## -->-->
+<!--    </li>-->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="theme-color" content="#595C5E">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes"">
+    <title>分享境 | Anotherhome - Part 4</title>
+    <link rel="canonical" href="https://www.anotherhome.net/">
+    <link rel="pingback" href="https://www.anotherhome.net/xmlrpc.php"/>
+    <link rel="apple-touch-icon" href="https://diygod.b0.upaiyun.com/head4.jpg">
+    <link rel="shortcut icon" href="https://www.anotherhome.net/wp-content/themes/Amativeness/favicon.ico">
+    <link rel="search" type="application/opensearchdescription+xml" href="https://www.anotherhome.net/wp-content/themes/Amativeness/search.xml" title="Anotherhome">
+    <link rel="stylesheet" href="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/nprogress/nprogress.min.css">
+    <link rel="stylesheet" href="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/social-share.js/dist/css/share.min.css">
+    <link rel="stylesheet" href="https://staticfile.qnssl.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script src='https://diygod.b0.upaiyun.com/jquery.min.js'></script>
+<!--    <script type="text/javascript" src="--><!--/ajax-comment/app.js"></script>-->
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/nprogress/nprogress.min.js"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-48084758-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    
+<!-- All in One SEO Pack 2.3.10.2 by Michael Torbert of Semper Fi Web Design[232,269] -->
+<meta name="keywords" itemprop="keywords" content="分享境,qq空间,sea,qq" />
+<meta name="robots" content="noindex,follow" />
+<link rel='prev' href='https://www.anotherhome.net/category/share/page/3' />
+<link rel='next' href='https://www.anotherhome.net/category/share/page/5' />
+
+<link rel="canonical" href="https://www.anotherhome.net/category/share/page/4" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; Feed" href="https://www.anotherhome.net/feed" />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; 评论Feed" href="https://www.anotherhome.net/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; 分享境分类目录Feed" href="https://www.anotherhome.net/category/share/feed" />
+<link rel='stylesheet' id='crayon-css'  href='https://www.anotherhome.net/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='crayon-theme-classic-css'  href='https://www.anotherhome.net/wp-content/plugins/crayon-syntax-highlighter/themes/classic/classic.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='crayon-font-monaco-css'  href='https://www.anotherhome.net/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='amativeness-style-css'  href='https://www.anotherhome.net/wp-content/themes/Amativeness/style.css?ver=05d3b79e72bbe9d939510b8a230704d6' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='amativeness-ie-css'  href='https://www.anotherhome.net/wp-content/themes/Amativeness/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://www.anotherhome.net/wp-content/plugins/Hermit-X-master/assets/js/2.5.4/APlayer.min.js?ver=2.5.4'></script>
+<link rel='https://api.w.org/' href='https://www.anotherhome.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.anotherhome.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.anotherhome.net/wp-includes/wlwmanifest.xml" /> 
+
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.anotherhome.net/?wordfence_logHuman=1&hid=3321BD60DFBC09B9D860CB4CE7097CA3');
+</script></head>
+<body class="archive paged category category-share category-3 paged-4 category-paged-4 single-author">
+    <script>
+        NProgress.configure({
+            showSpinner: false,
+            easing: 'ease-out',
+            speed: 1000
+        });
+        NProgress.set(0.7);
+    </script>
+    <canvas id="evanyou"></canvas>
+    <div id="back-to-top" class="red" data-scroll="body">
+    </div>
+    <div class="navbar">
+                <div class="container">
+            <nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+                <div class="menu-%e8%8f%9c%e5%8d%951-container"><ul id="menu-%e8%8f%9c%e5%8d%951" class="nav-menu"><li id="menu-item-2270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2270"><a href="https://www.anotherhome.net/"><i class="fa fa-home"></i>首页</a></li>
+<li id="menu-item-2271" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-2271"><a target="_blank"><i class="fa fa-paperclip"></i>分类</a>
+<ul class="sub-menu">
+	<li id="menu-item-2267" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2267"><a target="_blank" href="https://www.anotherhome.net/category/create">创作集</a></li>
+	<li id="menu-item-2266" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-2266"><a target="_blank" href="https://www.anotherhome.net/category/share">分享境</a></li>
+	<li id="menu-item-2268" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2268"><a target="_blank" href="https://www.anotherhome.net/category/say">闲言语</a></li>
+	<li id="menu-item-2269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2269"><a target="_blank" href="https://www.anotherhome.net/category/event">事件簿</a></li>
+</ul>
+</li>
+<li id="menu-item-2512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2512"><a><i class="fa fa-flask"></i>实验室</a>
+<ul class="sub-menu">
+	<li id="menu-item-2606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2606"><a target="_blank" href="http://diygod.me/">DIYgod</a></li>
+	<li id="menu-item-2515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2515"><a target="_blank" href="http://aplayer.js.org/">APlayer</a></li>
+	<li id="menu-item-2769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2769"><a href="http://dplayer.js.org/">DPlayer</a></li>
+	<li id="menu-item-2607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2607"><a target="_blank" href="http://diygod.github.io/OwO/demo/">OωO</a></li>
+	<li id="menu-item-2516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a target="_blank" href="https://www.anotherhome.net/file/Ticktack/index.html?background=fff&#038;color=f00&#038;birthday=19950609">Ticktack</a></li>
+	<li id="menu-item-2517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2517"><a target="_blank" href="https://www.anotherhome.net/file/jCarrousel/">jCarrousel</a></li>
+	<li id="menu-item-2514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2514"><a target="_blank" href="https://www.anotherhome.net/api/zhihu/">知乎日报RSS</a></li>
+</ul>
+</li>
+<li id="menu-item-2263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2263"><a target="_blank" href="https://www.anotherhome.net/donate"><i class="fa fa-usd"></i>捐赠</a></li>
+<li id="menu-item-2362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2362"><a target="_blank" href="https://www.anotherhome.net/link"><i class="fa fa-mars"></i>链接</a></li>
+<li id="menu-item-2264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2264"><a target="_blank" href="https://www.anotherhome.net/message"><i class="fa fa-pencil"></i>留言板</a></li>
+<li id="menu-item-2262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2262"><a target="_blank" href="https://www.anotherhome.net/about"><i class="fa fa-rocket"></i>关于</a></li>
+</ul></div>            </nav>
+                                    <div class="nav-right">
+                <form class="search-form" method="post" action="https://www.anotherhome.net">
+                    <input type="text" name="s" class="search-input" placeholder="站内搜索">
+                    <button type="submit" class="search-submit sousuo">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <header class="header-description">
+        <div id="site-header">
+            <h1><a href="https://www.anotherhome.net/"
+                   title="Anotherhome"
+                   rel="home">Anotherhome</a></h1>
+            <p class="typed"><a href="https://www.anotherhome.net/" title="Anotherhome" rel="home"></a></p>
+        </div>
+    </header>
+    <div id="information" class="info block">
+        <a href="https://www.anotherhome.net/"><img src="https://www.anotherhome.net/wp-content/uploads/2016/09/head.jpg" class="avatar"
+                                                             data-pinit="registered"
+                                                             width="356"
+                                                             height="356"
+                                                             alt=""/></a>
+
+        <h2 class="description"><a href="https://www.anotherhome.net/"
+                                   title="Anotherhome" rel="home"><span
+                    style="color: #3369e8;">Write</span> <span style="color: #d50f25;">the</span> <span
+                    style="color: #eeb211;">Code.</span> <span style="color: #3369e8;">Change</span> <span
+                    style="color: #009925;">the</span> <span style="color: #d50f25;">World.</span></a></h2>
+    </div>
+    <div class="xm">
+        <img src="https://diygod.b0.upaiyun.com/xm.png">
+    </div>
+    <div class="container" id="content">
+        <div class="article-list">
+<div class="main">
+        <article class="block post">
+        <div class="ui ribbon label red">分类目录</div>
+    </article>
+    <article id="post-1371" class="block post">
+	<span class="round-date red">
+				<span class="month">8月</span>
+				<span class="day">12</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1371" rel="bookmark">Let me google that for you</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年8月12日 • <i class="fa fa-eye"></i>5,841 次围观 • <i class="fa fa-comment-o"></i>活捉 29 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>大家都遇到过这种事，明明很容易就能Google出来的问题，总有人出来问，这就是传说中的伸手党</p>
+<p>以后再遇到这种事，就可以用下面这个网站不客气一下啦ψ(｀∇´)ψ</p>
+<p>因为这招实在是华丽又犀利，大家谨慎使用吧，被人追着砍我不负责呦</p>
+<p><img class="alignnone" src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/LMGIFY.gif" alt="" width="766" height="411" /></p>
+<p>Let me google that for you :  <a href="https://www.anotherhome.net/1371#more-1371" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1362" class="block post">
+	<span class="round-date red">
+				<span class="month">8月</span>
+				<span class="day">10</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1362" rel="bookmark">GoGo Tester—复活你的GoAgent</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年8月10日 • <i class="fa fa-eye"></i>117,471 次围观 • <i class="fa fa-comment-o"></i>活捉 243 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p><span style="font-size: 18pt;"><strong>推荐直接使用EasyGoAgent:</strong></span></p>
+<p><a href="http://www.anotherhome.net/1727" target="_blank" rel="bookmark">EasyGoAgent — 开箱即用的GoAgent</a></p>
+<p>&nbsp;</p>
+<p><span style="color: #ff0000;">Warning!!</span><br />
+<span style="color: #ff0000;"> 不要用自带的自动导入功能,它可能会使你的GoAgent无法工作!!</span></p>
+<p><strong>版权声明</strong></p>
+<p>本文所有内容不适用于本站通用许可协议，禁止以任何形式转载</p>
+<p>GAE大法好ψ(｀∇´)ψ</p>
+<p>在这片神奇的土地上，<!-- google_ad_section_start -->翻墙<!-- google_ad_section_end -->应该是每个网友必需掌握的技能，而 GAE 有着其他工具不可替代的的特点：免费、稳定、大流量。</p>
+<p>前段时间Google大量IP被封，Goagent受到严重干扰，如果出现大量的黄色错误，请搭配 GoGo Tester IP检测工具使用，将检测出的可用的Google IP复制替换至Goagent文件夹的Proxy.ini中。</p>
+<p>GoGo Tester程序<strong>内置100+万IP</strong>，肯定能满足您的需求。</p>
+<p><strong>1.动画教程（看不懂的是傻瓜）：</strong> <a href="https://www.anotherhome.net/1362#more-1362" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1286" class="block post">
+	<span class="round-date red">
+				<span class="month">7月</span>
+				<span class="day">29</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1286" rel="bookmark">SAE搭建QQ空间自动点赞</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年7月29日 • <i class="fa fa-eye"></i>7,801 次围观 • <i class="fa fa-comment-o"></i>活捉 38 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p><iframe width="110" height="20" src="http://github.anotherhome.net/github-btn.html?user=DIYgod&amp;repo=QzoneAutoLike&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe><iframe width="95" height="20" src="http://github.anotherhome.net/github-btn.html?user=DIYgod&amp;repo=QzoneAutoLike&amp;type=fork&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe></p>
+<p>版权声明：源码来自<a href="http://www.giuem.com/" target="_blank">Giuem&#8217;s Blog</a></p>
+<p>SAE配置方法参考<a href="http://www.giuem.com/archives/94.html" target="_blank">《利用新浪云（sae）搭建各种云》</a></p>
+<p>注意：要在代码中输入你的QQ号和SID。</p>
+<p>1.获取SID的方法是登录 <a href="pt.3g.qq.com" target="_blank">pt.3g.qq.com</a> 然后在地址栏上面复制出sid，出现地址如http://q.3g.qq.com/g/s?aid=nqqchatMain&amp;sid=AbvePR5t-gldDURQ6fUXYP_T&amp;myqq=123456，其中“AbvePR5t-gldDURQ6fUXYP_T”即为SID码。</p>
+<p>2.将SID添加到挂Q网后，直接关闭3GQQ那个网页，请勿离线或退出。</p>
+<p>3.SID码有效期为1个月。</p>
+<p>4.获取SID码之前要取消设备锁，其他影响登陆的防盗措施未测试，不排除会影响点赞的可能。</p>
+<p>5.目前sinaapp.com域名发生故障（运维忘记续费了2333333333333），可以暂时使用vipsinaapp.com访问应用。</p>
+<p>PHP源码如下： <a href="https://www.anotherhome.net/1286#more-1286" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1281" class="block post">
+	<span class="round-date red">
+				<span class="month">7月</span>
+				<span class="day">28</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1281" rel="bookmark">Wear sunscreen（涂防晒霜）</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年7月28日 • <i class="fa fa-eye"></i>1,893 次围观 • <i class="fa fa-comment-o"></i>活捉 7 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>Copyright © 2014 Chicago Tribune Company, LLC</p>
+<p>普利策奖获得者，记者Mary Schmich所作《涂防晒霜》（Wear sunscreen）<br />
+对我的生活观的养成起了很大的帮助，教会了我享受生活、珍惜身边人、照顾好自己等优秀的生活态度。</p>
+<p><span class="byline" style="font-weight: bold;">Mary Schmich</span></p>
+<p class="date" style="font-style: italic;"><span class="dateString">June 1, 1997</span></p>
+<p>If I could offer you only one tip for the future, sunscreen would be it. The long-term benefits of sunscreen have been proved by scientists, whereas the rest of my advice has no basis more reliable than my own meandering experience. I will dispense this advice now.<br />
+我能给你们最好的一个建议就是这个——涂防晒霜。<br />
+使用防晒霜的好处是有科学证明的，其它的建议则来自于我自身的经验。<br />
+虽然我的这些建议不像防晒霜一样靠谱，我还是要告诉你们。</p>
+<p>Enjoy the power and beauty of your youth. Oh, never mind. You will not understand the power and beauty of your youth until they&#8217;ve faded. But trust me, in 20 years, you&#8217;ll look back at photos of yourself and recall in a way you can&#8217;t grasp now how much possibility lay before you and how fabulous you really looked. You are not as fat as you imagine.<br />
+享受青春的力与美。<br />
+哎，算了，在青春逝去之前你是不会了解青春的力与美的。<br />
+但是相信我，20年后，你会看着你年轻时的照片，<br />
+惊讶于年轻带给你的无数种可能，<br />
+也会惊艳于你俊美的长相。<br />
+你没有你想象的那么胖！</p>
+<p>Don&#8217;t worry about the future. Or worry, but know that worrying is as effective as trying to solve an algebra equation by chewing bubble gum. The real troubles in your life are apt to be things that never crossed your worried mind, the kind that blindside you at 4 p.m. on some idle Tuesday.<br />
+不要担心你的未来。<br />
+也可以担心，但是要知道担心未来没有用。<br />
+生活中真正麻烦的是那些你没有办法预见的事情。 <a href="https://www.anotherhome.net/1281#more-1281" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1193" class="block post">
+	<span class="round-date red">
+				<span class="month">7月</span>
+				<span class="day">17</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1193" rel="bookmark">《后会无期》主题歌：平凡之路MV（朴树演唱）</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年7月17日 • <i class="fa fa-eye"></i>804 次围观 • <i class="fa fa-comment-o"></i>活捉 5 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>我曾经跨过山和大海，也穿过人山人海，我曾经拥有着的一切，转眼都飘散如烟，我曾经失落失望失掉所有方向，直到看见平凡才是唯一的答案。</p>
+<p><embed width="480" height="400" type="application/x-shockwave-flash" src="http://player.youku.com/player.php/sid/XNzQxMjU2ODI0/v.swf" allowfullscreen="allowfullscreen" quality="high" align="middle" allowscriptaccess="always"></embed></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1166" class="block post">
+	<span class="round-date red">
+				<span class="month">7月</span>
+				<span class="day">09</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1166" rel="bookmark">wordpress友情链接分栏显示</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年7月9日 • <i class="fa fa-eye"></i>985 次围观 • <i class="fa fa-comment-o"></i>活捉 5 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>随着友情链接的不断增加，友情链接栏越来越长，越来越不舒服，于是决定分栏显示。</p>
+<p>在style.css新增样式：</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+
+		<div id="crayon-5804e57f65761305135246" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+		
+			<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+.blogroll{
+width:210px;
+display:block;
+/*记得清除浮动*/
+overflow:auto;
+/*兼容IE6*/
+zoom:1;
+}
+.blogroll li{
+float:left;
+width:100px;
+display:block;
+}</textarea></div>
+			<div class="crayon-main" style="">
+				<table class="crayon-table">
+					<tr class="crayon-row">
+				<td class="crayon-nums " data-settings="show">
+					<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5804e57f65761305135246-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f65761305135246-2">2</div><div class="crayon-num" data-line="crayon-5804e57f65761305135246-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f65761305135246-4">4</div><div class="crayon-num" data-line="crayon-5804e57f65761305135246-5">5</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f65761305135246-6">6</div><div class="crayon-num" data-line="crayon-5804e57f65761305135246-7">7</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f65761305135246-8">8</div><div class="crayon-num" data-line="crayon-5804e57f65761305135246-9">9</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f65761305135246-10">10</div><div class="crayon-num" data-line="crayon-5804e57f65761305135246-11">11</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f65761305135246-12">12</div><div class="crayon-num" data-line="crayon-5804e57f65761305135246-13">13</div></div>
+				</td>
+						<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5804e57f65761305135246-1"><span class="crayon-sy">.</span><span class="crayon-v">blogroll</span><span class="crayon-sy">{</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f65761305135246-2"><span class="crayon-v">width</span><span class="crayon-o">:</span><span class="crayon-cn">210px</span><span class="crayon-sy">;</span></div><div class="crayon-line" id="crayon-5804e57f65761305135246-3"><span class="crayon-v">display</span><span class="crayon-o">:</span><span class="crayon-v">block</span><span class="crayon-sy">;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f65761305135246-4"><span class="crayon-c">/*记得清除浮动*/</span></div><div class="crayon-line" id="crayon-5804e57f65761305135246-5"><span class="crayon-v">overflow</span><span class="crayon-o">:</span><span class="crayon-v">auto</span><span class="crayon-sy">;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f65761305135246-6"><span class="crayon-c">/*兼容IE6*/</span></div><div class="crayon-line" id="crayon-5804e57f65761305135246-7"><span class="crayon-v">zoom</span><span class="crayon-o">:</span><span class="crayon-cn">1</span><span class="crayon-sy">;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f65761305135246-8"><span class="crayon-sy">}</span></div><div class="crayon-line" id="crayon-5804e57f65761305135246-9"><span class="crayon-sy">.</span><span class="crayon-e">blogroll </span><span class="crayon-e">li</span><span class="crayon-sy">{</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f65761305135246-10"><span class="crayon-t">float</span><span class="crayon-o">:</span><span class="crayon-v">left</span><span class="crayon-sy">;</span></div><div class="crayon-line" id="crayon-5804e57f65761305135246-11"><span class="crayon-v">width</span><span class="crayon-o">:</span><span class="crayon-cn">100px</span><span class="crayon-sy">;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f65761305135246-12"><span class="crayon-v">display</span><span class="crayon-o">:</span><span class="crayon-v">block</span><span class="crayon-sy">;</span></div><div class="crayon-line" id="crayon-5804e57f65761305135246-13"><span class="crayon-sy">}</span></div></div></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+<!-- [Format Time: 0.0005 seconds] -->
+<p>如果想分成N列,就把li标签的宽度改成其父级标签的宽度除以N,即如果你的友情链接栏宽度是200,你如果想改成两栏显示,那么li的宽度就是100,但建议还是把这个值稍微改小一点如95,因为在不同浏览器下如果用了mergin的话,会不些小小的误差.如果不知道友情链接栏宽度也可以直接改成50%或稍小一点。</p>
+<p>如果想改字号还可以加上：</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+
+		<div id="crayon-5804e57f6576e906399890" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+		
+			<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+font-size: 7pt;</textarea></div>
+			<div class="crayon-main" style="">
+				<table class="crayon-table">
+					<tr class="crayon-row">
+				<td class="crayon-nums " data-settings="show">
+					<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5804e57f6576e906399890-1">1</div></div>
+				</td>
+						<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5804e57f6576e906399890-1"><span class="crayon-v">font</span><span class="crayon-o">-</span><span class="crayon-v">size</span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-cn">7pt</span><span class="crayon-sy">;</span></div></div></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+<!-- [Format Time: 0.0002 seconds] -->
+<p><a href="https://www.anotherhome.net/1166#more-1166" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1069" class="block post">
+	<span class="round-date red">
+				<span class="month">7月</span>
+				<span class="day">04</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1069" rel="bookmark">为博客启用Clicki第三方统计系统</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年7月4日 • <i class="fa fa-eye"></i>971 次围观 • <i class="fa fa-comment-o"></i>活捉 10 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>首先感谢<a href="http://www.qqntr.com/" target="_blank">Flippy</a>同学的邀请码，要知道这个邀请码找得我好辛苦&#8230;.</p>
+<p style="text-align: center;">“很多人问我为啥要做统计这个不赚钱的产品。<br />
+我也做过赚钱的项目，但还是觉得做统计更有意思。<br />
+人不能光为了赚钱吃饭活着，人得实现点价值。<br />
+趁自己还年轻，有想法，有精力，有能力，多实现点价值，回报一定不会少的。<br />
+您的支持，是我们前进的动力！”</p>
+<p>简单地说，Clicki是一款网站流量统计系统。但它有很多独特的功能：嵌入式的来源统计、嵌入式的点击统计、所有统计精确到页面、记录完整的访问行为。应该说它是一款用户行为统计系统，立体化的统计系统。</p>
+<p>Clicki是为Blogger和个人网站量身定做的，可以实时动态地体现访问数据。Clicki可以在用户网站上 实时 显示最新的多个来访者信息，包括访问者信息（地理信息、操作系统、浏览器、来访时间）、访问来源信息（具体来源IP地址，搜索引擎可以精确到关键词）以及到达的页面，这也是我最喜欢的功能，效果见<strong>本站右侧栏</strong>。</p>
+<p>遗憾的是，目前Clicki还处于alpha开发阶段，注册需要邀请码，而Clicki的邀请码很难申请<del>（反正我申请之后杳无音信，可能是嫌弃我的博客太屎了）</del>，但是现在！你可以在下面留言或者直接<a href="http://www.anotherhome.net/about" target="_blank">联系我</a>向我索要，我会用clicki积分兑换邀请码给你<del>（其实邀请后是有积分奖励的啦）</del>。 <a href="https://www.anotherhome.net/1069#more-1069" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1053" class="block post">
+	<span class="round-date red">
+				<span class="month">7月</span>
+				<span class="day">01</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1053" rel="bookmark">正计时倒计时代码</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年7月1日 • <i class="fa fa-eye"></i>1,497 次围观 • <i class="fa fa-comment-o"></i>活捉 7 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>想在博客最下面加一行博客运行时间自己又不会写，在网上找了好久都没找到合适的，突然想起来原来收集过一个倒计时的代码，改一下就成了正计时，我真机智~(≧▽≦)/~</p>
+<p>效果如本站最下面，代码如下：</p>
+<p><strong>正计时：</strong></p>
+<p></p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+
+		<div id="crayon-5804e57f669e7576275715" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+		
+			<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+&lt;SPAN id=span_dt_dt&gt;&lt;/SPAN&gt;
+&lt;SCRIPT language=javascript&gt;
+function show_date_time(){
+window.setTimeout("show_date_time()", 1000);
+BirthDay=new Date("2/9/2014 11:30:00");//这个日期是可以修改的
+today=new Date();
+timeold=(today.getTime()-BirthDay.getTime());//其实仅仅改了这里
+sectimeold=timeold/1000
+secondsold=Math.floor(sectimeold);
+msPerDay=24*60*60*1000
+e_daysold=timeold/msPerDay
+daysold=Math.floor(e_daysold);
+e_hrsold=(e_daysold-daysold)*24;
+hrsold=Math.floor(e_hrsold);
+e_minsold=(e_hrsold-hrsold)*60;
+minsold=Math.floor((e_hrsold-hrsold)*60);
+seconds=Math.floor((e_minsold-minsold)*60);
+span_dt_dt.innerHTML="博客已运行"+daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒";
+}
+show_date_time();
+&lt;/SCRIPT&gt;</textarea></div>
+			<div class="crayon-main" style="">
+				<table class="crayon-table">
+					<tr class="crayon-row">
+				<td class="crayon-nums " data-settings="show">
+					<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5804e57f669e7576275715-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f669e7576275715-2">2</div><div class="crayon-num" data-line="crayon-5804e57f669e7576275715-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f669e7576275715-4">4</div><div class="crayon-num" data-line="crayon-5804e57f669e7576275715-5">5</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f669e7576275715-6">6</div><div class="crayon-num" data-line="crayon-5804e57f669e7576275715-7">7</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f669e7576275715-8">8</div><div class="crayon-num" data-line="crayon-5804e57f669e7576275715-9">9</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f669e7576275715-10">10</div><div class="crayon-num" data-line="crayon-5804e57f669e7576275715-11">11</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f669e7576275715-12">12</div><div class="crayon-num" data-line="crayon-5804e57f669e7576275715-13">13</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f669e7576275715-14">14</div><div class="crayon-num" data-line="crayon-5804e57f669e7576275715-15">15</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f669e7576275715-16">16</div><div class="crayon-num" data-line="crayon-5804e57f669e7576275715-17">17</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f669e7576275715-18">18</div><div class="crayon-num" data-line="crayon-5804e57f669e7576275715-19">19</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f669e7576275715-20">20</div><div class="crayon-num" data-line="crayon-5804e57f669e7576275715-21">21</div></div>
+				</td>
+						<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5804e57f669e7576275715-1"><span class="crayon-o">&lt;</span><span class="crayon-e">SPAN </span><span class="crayon-i">id</span><span class="crayon-o">=</span><span class="crayon-e">span_dt_dt</span><span class="crayon-o">&gt;</span><span class="crayon-o">&lt;</span><span class="crayon-o">/</span><span class="crayon-e">SPAN</span><span class="crayon-o">&gt;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f669e7576275715-2"><span class="crayon-ta">&lt;SCRIPT </span><span class="crayon-v">language</span><span class="crayon-o">=</span><span class="crayon-v">javascript</span><span class="crayon-o">&gt;</span></div><div class="crayon-line" id="crayon-5804e57f669e7576275715-3"><span class="crayon-t">function</span><span class="crayon-h"> </span><span class="crayon-e">show_date_time</span><span class="crayon-sy">(</span><span class="crayon-sy">)</span><span class="crayon-sy">{</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f669e7576275715-4"><span class="crayon-v">window</span><span class="crayon-sy">.</span><span class="crayon-e">setTimeout</span><span class="crayon-sy">(</span><span class="crayon-s">"show_date_time()"</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-cn">1000</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span></div><div class="crayon-line" id="crayon-5804e57f669e7576275715-5"><span class="crayon-v">BirthDay</span><span class="crayon-o">=</span><span class="crayon-r">new</span><span class="crayon-h"> </span><span class="crayon-r">Date</span><span class="crayon-sy">(</span><span class="crayon-s">"2/9/2014 11:30:00"</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-c">//这个日期是可以修改的</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f669e7576275715-6"><span class="crayon-v">today</span><span class="crayon-o">=</span><span class="crayon-r">new</span><span class="crayon-h"> </span><span class="crayon-r">Date</span><span class="crayon-sy">(</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span></div><div class="crayon-line" id="crayon-5804e57f669e7576275715-7"><span class="crayon-v">timeold</span><span class="crayon-o">=</span><span class="crayon-sy">(</span><span class="crayon-v">today</span><span class="crayon-sy">.</span><span class="crayon-e">getTime</span><span class="crayon-sy">(</span><span class="crayon-sy">)</span><span class="crayon-o">-</span><span class="crayon-v">BirthDay</span><span class="crayon-sy">.</span><span class="crayon-e">getTime</span><span class="crayon-sy">(</span><span class="crayon-sy">)</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-c">//其实仅仅改了这里</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f669e7576275715-8"><span class="crayon-v">sectimeold</span><span class="crayon-o">=</span><span class="crayon-v">timeold</span><span class="crayon-c ">/1000</span></div><div class="crayon-line" id="crayon-5804e57f669e7576275715-9"><span class="crayon-c ">secondsold=Math.floor(sectimeold);</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f669e7576275715-10"><span class="crayon-c ">msPerDay=24*60*60*1000</span></div><div class="crayon-line" id="crayon-5804e57f669e7576275715-11"><span class="crayon-c ">e_daysold=timeold/m</span>sPerDay</div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f669e7576275715-12"><span class="crayon-v">daysold</span><span class="crayon-o">=</span><span class="crayon-v">Math</span><span class="crayon-sy">.</span><span class="crayon-e">floor</span><span class="crayon-sy">(</span><span class="crayon-v">e_daysold</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span></div><div class="crayon-line" id="crayon-5804e57f669e7576275715-13"><span class="crayon-v">e_hrsold</span><span class="crayon-o">=</span><span class="crayon-sy">(</span><span class="crayon-v">e_daysold</span><span class="crayon-o">-</span><span class="crayon-v">daysold</span><span class="crayon-sy">)</span><span class="crayon-o">*</span><span class="crayon-cn">24</span><span class="crayon-sy">;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f669e7576275715-14"><span class="crayon-v">hrsold</span><span class="crayon-o">=</span><span class="crayon-v">Math</span><span class="crayon-sy">.</span><span class="crayon-e">floor</span><span class="crayon-sy">(</span><span class="crayon-v">e_hrsold</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span></div><div class="crayon-line" id="crayon-5804e57f669e7576275715-15"><span class="crayon-v">e_minsold</span><span class="crayon-o">=</span><span class="crayon-sy">(</span><span class="crayon-v">e_hrsold</span><span class="crayon-o">-</span><span class="crayon-v">hrsold</span><span class="crayon-sy">)</span><span class="crayon-o">*</span><span class="crayon-cn">60</span><span class="crayon-sy">;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f669e7576275715-16"><span class="crayon-v">minsold</span><span class="crayon-o">=</span><span class="crayon-v">Math</span><span class="crayon-sy">.</span><span class="crayon-e">floor</span><span class="crayon-sy">(</span><span class="crayon-sy">(</span><span class="crayon-v">e_hrsold</span><span class="crayon-o">-</span><span class="crayon-v">hrsold</span><span class="crayon-sy">)</span><span class="crayon-o">*</span><span class="crayon-cn">60</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span></div><div class="crayon-line" id="crayon-5804e57f669e7576275715-17"><span class="crayon-v">seconds</span><span class="crayon-o">=</span><span class="crayon-v">Math</span><span class="crayon-sy">.</span><span class="crayon-e">floor</span><span class="crayon-sy">(</span><span class="crayon-sy">(</span><span class="crayon-v">e_minsold</span><span class="crayon-o">-</span><span class="crayon-v">minsold</span><span class="crayon-sy">)</span><span class="crayon-o">*</span><span class="crayon-cn">60</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f669e7576275715-18"><span class="crayon-v">span_dt_dt</span><span class="crayon-sy">.</span><span class="crayon-e ">innerHTML</span><span class="crayon-o">=</span><span class="crayon-s">"博客已运行"</span><span class="crayon-o">+</span><span class="crayon-v">daysold</span><span class="crayon-o">+</span><span class="crayon-s">"天"</span><span class="crayon-o">+</span><span class="crayon-v">hrsold</span><span class="crayon-o">+</span><span class="crayon-s">"小时"</span><span class="crayon-o">+</span><span class="crayon-v">minsold</span><span class="crayon-o">+</span><span class="crayon-s">"分"</span><span class="crayon-o">+</span><span class="crayon-v">seconds</span><span class="crayon-o">+</span><span class="crayon-s">"秒"</span><span class="crayon-sy">;</span></div><div class="crayon-line" id="crayon-5804e57f669e7576275715-19"><span class="crayon-sy">}</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f669e7576275715-20"><span class="crayon-e">show_date_time</span><span class="crayon-sy">(</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span></div><div class="crayon-line" id="crayon-5804e57f669e7576275715-21"><span class="crayon-ta">&lt;/SCRIPT&gt;</span></div></div></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+<!-- [Format Time: 0.0056 seconds] -->
+<p></p>
+<p><strong>倒计时：</strong><br />
+ <a href="https://www.anotherhome.net/1053#more-1053" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-944" class="block post">
+	<span class="round-date red">
+				<span class="month">6月</span>
+				<span class="day">20</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/944" rel="bookmark">代码实现WordPress随机文章小工具</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年6月20日 • <i class="fa fa-eye"></i>824 次围观 • <i class="fa fa-comment-o"></i>没有评论,快来呀!            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>随机文章不仅可以增强用户粘度，还能增加文章内链，对SEO有好处。</p>
+<p>插件实现也很简单，但是插件会拖慢网站速度，这种小功能不至于装一个插件了。</p>
+<p>效果如本站。</p>
+<p>将以下代码添加到主题的function.php最后的?&gt;之前：</p><!-- Crayon Syntax Highlighter v_2.7.2_beta -->
+
+		<div id="crayon-5804e57f6700c069469369" class="crayon-syntax crayon-theme-classic crayon-font-monaco crayon-os-pc print-yes notranslate" data-settings=" minimize scroll-mouseover" style=" margin-top: 12px; margin-bottom: 12px; font-size: 12px !important; line-height: 15px !important;">
+		
+			<div class="crayon-plain-wrap"><textarea wrap="soft" class="crayon-plain print-no" data-settings="dblclick" readonly style="-moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4; font-size: 12px !important; line-height: 15px !important;">
+//随机文章小工具   
+class RandomPostWidget extends WP_Widget   
+{   
+    function RandomPostWidget()   
+    {   
+        parent::WP_Widget('bd_random_post_widget', '随机文章', array('description' =&gt;  '我的随机文章小工具') );   
+    }   
+    
+    function widget($args, $instance)   
+    {   
+        extract( $args );   
+    
+        $title = apply_filters('widget_title',empty($instance['title']) ? '随机文章' :    
+$instance['title'], $instance, $this-&gt;id_base);   
+        if ( empty( $instance['number'] ) || ! $number = absint( $instance['number'] ) )   
+        {   
+            $number = 10;   
+        }   
+    
+        $r = new WP_Query(array('posts_per_page' =&gt; $number, 'no_found_rows' =&gt; true,    
+'post_status' =&gt; 'publish', 'ignore_sticky_posts' =&gt; true, 'orderby' =&gt;'rand'));   
+        if ($r-&gt;have_posts())   
+        {   
+            echo "\n";   
+            echo $before_widget;   
+            if ( $title ) echo $before_title . $title . $after_title;   
+            ?&gt;   
+&lt;ul class="line"&gt;   
+&lt;?php  while ($r-&gt;have_posts()) : $r-&gt;the_post(); ?&gt;   
+&lt;li&gt;&lt;a href="&lt;?php the_permalink() ?&gt;" title="&lt;?php echo esc_attr(get_the_title() ? get_the_title() : get_the_ID()); ?&gt;"&gt;&lt;?php if ( get_the_title() ) the_title(); else the_ID(); ?&gt;&lt;/a&gt;&lt;/li&gt;   
+&lt;?php endwhile; ?&gt;   
+&lt;/ul&gt;&lt;?php   
+            echo $after_widget;   
+            wp_reset_postdata();   
+        }   
+    }   
+    
+    function update($new_instance, $old_instance)   
+    {   
+        $instance = $old_instance;   
+        $instance['title'] = strip_tags($new_instance['title']);   
+        $instance['number'] = (int) $new_instance['number'];   
+        return $instance;   
+    }   
+    
+    function form($instance)   
+    {   
+        $title = isset($instance['title']) ? esc_attr($instance['title']) : '';   
+        $number = isset($instance['number']) ? absint($instance['number']) : 10;?&gt;   
+        &lt;p&gt;&lt;label for="&lt;?php echo $this-&gt;get_field_id('title'); ?&gt;"&gt;&lt;?php _e('Title:'); ?&gt;&lt;/label&gt;   
+        &lt;input id="&lt;?php echo $this-&gt;get_field_id('title'); ?&gt;" name="&lt;?php echo $this-&gt;get_field_name('title'); ?&gt;" type="text" value="&lt;?php echo $title; ?&gt;" /&gt;&lt;/p&gt;   
+    
+        &lt;p&gt;&lt;label for="&lt;?php echo $this-&gt;get_field_id('number'); ?&gt;"&gt;&lt;?php _e('Number of posts to    
+show:'); ?&gt;&lt;/label&gt;   
+        &lt;input id="&lt;?php echo $this-&gt;get_field_id('number'); ?&gt;" name="&lt;?php echo $this-&gt;get_field_name('number'); ?&gt;" type="text" value="&lt;?php echo $number; ?&gt;" size="3" /&gt;&lt;/p&gt;   
+&lt;?php   
+    }   
+    
+}   
+add_action('widgets_init', create_function('', 'return register_widget("RandomPostWidget");'));</textarea></div>
+			<div class="crayon-main" style="">
+				<table class="crayon-table">
+					<tr class="crayon-row">
+				<td class="crayon-nums " data-settings="show">
+					<div class="crayon-nums-content" style="font-size: 12px !important; line-height: 15px !important;"><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-1">1</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-2">2</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-3">3</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-4">4</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-5">5</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-6">6</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-7">7</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-8">8</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-9">9</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-10">10</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-11">11</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-12">12</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-13">13</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-14">14</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-15">15</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-16">16</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-17">17</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-18">18</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-19">19</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-20">20</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-21">21</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-22">22</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-23">23</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-24">24</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-25">25</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-26">26</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-27">27</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-28">28</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-29">29</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-30">30</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-31">31</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-32">32</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-33">33</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-34">34</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-35">35</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-36">36</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-37">37</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-38">38</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-39">39</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-40">40</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-41">41</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-42">42</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-43">43</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-44">44</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-45">45</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-46">46</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-47">47</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-48">48</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-49">49</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-50">50</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-51">51</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-52">52</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-53">53</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-54">54</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-55">55</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-56">56</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-57">57</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-58">58</div><div class="crayon-num" data-line="crayon-5804e57f6700c069469369-59">59</div><div class="crayon-num crayon-striped-num" data-line="crayon-5804e57f6700c069469369-60">60</div></div>
+				</td>
+						<td class="crayon-code"><div class="crayon-pre" style="font-size: 12px !important; line-height: 15px !important; -moz-tab-size:4; -o-tab-size:4; -webkit-tab-size:4; tab-size:4;"><div class="crayon-line" id="crayon-5804e57f6700c069469369-1"><span class="crayon-c">//随机文章小工具&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-2"><span class="crayon-t">class</span><span class="crayon-h"> </span><span class="crayon-e">RandomPostWidget</span><span class="crayon-h"> </span><span class="crayon-r">extends</span><span class="crayon-h"> </span><span class="crayon-e">WP_Widget</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-3"><span class="crayon-sy">{</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-4"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-t">function</span><span class="crayon-h"> </span><span class="crayon-e">RandomPostWidget</span><span class="crayon-sy">(</span><span class="crayon-sy">)</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-5"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-sy">{</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-6"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-r">parent</span><span class="crayon-o">::</span><span class="crayon-e">WP_Widget</span><span class="crayon-sy">(</span><span class="crayon-s">'bd_random_post_widget'</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-s">'随机文章'</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-t">array</span><span class="crayon-sy">(</span><span class="crayon-s">'description'</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h">&nbsp;&nbsp;</span><span class="crayon-s">'我的随机文章小工具'</span><span class="crayon-sy">)</span><span class="crayon-h"> </span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-7"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-sy">}</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-8"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-9"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-t">function</span><span class="crayon-h"> </span><span class="crayon-e">widget</span><span class="crayon-sy">(</span><span class="crayon-sy">$</span><span class="crayon-v">args</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-sy">$</span><span class="crayon-v">instance</span><span class="crayon-sy">)</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-10"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-sy">{</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-11"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-e">extract</span><span class="crayon-sy">(</span><span class="crayon-h"> </span><span class="crayon-sy">$</span><span class="crayon-i">args</span><span class="crayon-h"> </span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-12"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-13"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-sy">$</span><span class="crayon-v">title</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-e">apply_filters</span><span class="crayon-sy">(</span><span class="crayon-s">'widget_title'</span><span class="crayon-sy">,</span><span class="crayon-e">empty</span><span class="crayon-sy">(</span><span class="crayon-sy">$</span><span class="crayon-v">instance</span><span class="crayon-sy">[</span><span class="crayon-s">'title'</span><span class="crayon-sy">]</span><span class="crayon-sy">)</span><span class="crayon-h"> </span><span class="crayon-sy">?</span><span class="crayon-h"> </span><span class="crayon-s">'随机文章'</span><span class="crayon-h"> </span><span class="crayon-o">:</span><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-14"><span class="crayon-sy">$</span><span class="crayon-v">instance</span><span class="crayon-sy">[</span><span class="crayon-s">'title'</span><span class="crayon-sy">]</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-sy">$</span><span class="crayon-v">instance</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-sy">$</span><span class="crayon-r">this</span><span class="crayon-o">-&gt;</span><span class="crayon-v">id_base</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-15"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-st">if</span><span class="crayon-h"> </span><span class="crayon-sy">(</span><span class="crayon-h"> </span><span class="crayon-e">empty</span><span class="crayon-sy">(</span><span class="crayon-h"> </span><span class="crayon-sy">$</span><span class="crayon-v">instance</span><span class="crayon-sy">[</span><span class="crayon-s">'number'</span><span class="crayon-sy">]</span><span class="crayon-h"> </span><span class="crayon-sy">)</span><span class="crayon-h"> </span><span class="crayon-o">||</span><span class="crayon-h"> </span><span class="crayon-o">!</span><span class="crayon-h"> </span><span class="crayon-sy">$</span><span class="crayon-v">number</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-e">absint</span><span class="crayon-sy">(</span><span class="crayon-h"> </span><span class="crayon-sy">$</span><span class="crayon-v">instance</span><span class="crayon-sy">[</span><span class="crayon-s">'number'</span><span class="crayon-sy">]</span><span class="crayon-h"> </span><span class="crayon-sy">)</span><span class="crayon-h"> </span><span class="crayon-sy">)</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-16"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-sy">{</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-17"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-sy">$</span><span class="crayon-v">number</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-cn">10</span><span class="crayon-sy">;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-18"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-sy">}</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-19"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-20"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-sy">$</span><span class="crayon-v">r</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-r">new</span><span class="crayon-h"> </span><span class="crayon-e">WP_Query</span><span class="crayon-sy">(</span><span class="crayon-t">array</span><span class="crayon-sy">(</span><span class="crayon-s">'posts_per_page'</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-sy">$</span><span class="crayon-v">number</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-s">'no_found_rows'</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-t">true</span><span class="crayon-sy">,</span><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-21"><span class="crayon-s">'post_status'</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-s">'publish'</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-s">'ignore_sticky_posts'</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-h"> </span><span class="crayon-t">true</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-s">'orderby'</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-o">&gt;</span><span class="crayon-s">'rand'</span><span class="crayon-sy">)</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-22"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-st">if</span><span class="crayon-h"> </span><span class="crayon-sy">(</span><span class="crayon-sy">$</span><span class="crayon-v">r</span><span class="crayon-o">-&gt;</span><span class="crayon-e">have_posts</span><span class="crayon-sy">(</span><span class="crayon-sy">)</span><span class="crayon-sy">)</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-23"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-sy">{</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-24"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-i">echo</span><span class="crayon-h"> </span><span class="crayon-s">"\n"</span><span class="crayon-sy">;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-25"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-i">echo</span><span class="crayon-h"> </span><span class="crayon-sy">$</span><span class="crayon-v">before_widget</span><span class="crayon-sy">;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-26"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-st">if</span><span class="crayon-h"> </span><span class="crayon-sy">(</span><span class="crayon-h"> </span><span class="crayon-sy">$</span><span class="crayon-i">title</span><span class="crayon-h"> </span><span class="crayon-sy">)</span><span class="crayon-h"> </span><span class="crayon-i">echo</span><span class="crayon-h"> </span><span class="crayon-sy">$</span><span class="crayon-v">before</span><span class="crayon-sy">_</span>title<span class="crayon-h"> </span><span class="crayon-sy">.</span><span class="crayon-h"> </span><span class="crayon-sy">$</span><span class="crayon-i">title</span><span class="crayon-h"> </span><span class="crayon-sy">.</span><span class="crayon-h"> </span><span class="crayon-sy">$</span><span class="crayon-v">after_title</span><span class="crayon-sy">;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-27"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-sy">?</span><span class="crayon-o">&gt;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-28"><span class="crayon-o">&lt;</span><span class="crayon-e">ul </span><span class="crayon-t">class</span><span class="crayon-o">=</span><span class="crayon-s">"line"</span><span class="crayon-o">&gt;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-29"><span class="crayon-ta">&lt;?php</span><span class="crayon-h">&nbsp;&nbsp;</span><span class="crayon-st">while</span><span class="crayon-h"> </span><span class="crayon-sy">(</span><span class="crayon-v">$r</span><span class="crayon-o">-&gt;</span><span class="crayon-e">have_posts</span><span class="crayon-sy">(</span><span class="crayon-sy">)</span><span class="crayon-sy">)</span><span class="crayon-h"> </span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-v">$r</span><span class="crayon-o">-&gt;</span><span class="crayon-e">the_post</span><span class="crayon-sy">(</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-ta">?&gt;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-30"><span class="crayon-o">&lt;</span><span class="crayon-v">li</span><span class="crayon-o">&gt;</span><span class="crayon-o">&lt;</span><span class="crayon-i">a</span><span class="crayon-h"> </span><span class="crayon-v">href</span><span class="crayon-o">=</span><span class="crayon-s">"<span class="crayon-ta">&lt;?php</span><span class="crayon-h"> </span><span class="crayon-e">the_permalink</span><span class="crayon-sy">(</span><span class="crayon-sy">)</span><span class="crayon-h"> </span><span class="crayon-ta">?&gt;</span>"</span><span class="crayon-h"> </span><span class="crayon-v">title</span><span class="crayon-o">=</span><span class="crayon-s">"<span class="crayon-ta">&lt;?php</span><span class="crayon-h"> </span><span class="crayon-k ">echo</span><span class="crayon-h"> </span><span class="crayon-e">esc_attr</span><span class="crayon-sy">(</span><span class="crayon-e">get_the_title</span><span class="crayon-sy">(</span><span class="crayon-sy">)</span><span class="crayon-h"> </span><span class="crayon-sy">?</span><span class="crayon-h"> </span><span class="crayon-e">get_the_title</span><span class="crayon-sy">(</span><span class="crayon-sy">)</span><span class="crayon-h"> </span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-e">get_the_ID</span><span class="crayon-sy">(</span><span class="crayon-sy">)</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-ta">?&gt;</span>"</span><span class="crayon-o">&gt;</span><span class="crayon-ta">&lt;?php</span><span class="crayon-h"> </span><span class="crayon-st">if</span><span class="crayon-h"> </span><span class="crayon-sy">(</span><span class="crayon-h"> </span><span class="crayon-e">get_the_title</span><span class="crayon-sy">(</span><span class="crayon-sy">)</span><span class="crayon-h"> </span><span class="crayon-sy">)</span><span class="crayon-h"> </span><span class="crayon-e">the_title</span><span class="crayon-sy">(</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-st">else</span><span class="crayon-h"> </span><span class="crayon-e">the_ID</span><span class="crayon-sy">(</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-ta">?&gt;</span><span class="crayon-o">&lt;</span><span class="crayon-o">/</span><span class="crayon-e">a</span><span class="crayon-o">&gt;</span><span class="crayon-o">&lt;</span><span class="crayon-o">/</span><span class="crayon-e">li</span><span class="crayon-o">&gt;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-31"><span class="crayon-ta">&lt;?php</span><span class="crayon-h"> </span><span class="crayon-st">endwhile</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-ta">?&gt;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-32"><span class="crayon-o">&lt;</span><span class="crayon-o">/</span><span class="crayon-e">ul</span><span class="crayon-o">&gt;</span><span class="crayon-ta">&lt;?php</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-33"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-k ">echo</span><span class="crayon-h"> </span><span class="crayon-v">$after_widget</span><span class="crayon-sy">;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-34"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-e">wp_reset_postdata</span><span class="crayon-sy">(</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-35"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-sy">}</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-36"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-sy">}</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-37"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-38"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-t">function</span><span class="crayon-h"> </span><span class="crayon-e">update</span><span class="crayon-sy">(</span><span class="crayon-v">$new_instance</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-v">$old_instance</span><span class="crayon-sy">)</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-39"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-sy">{</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-40"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-v">$instance</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-v">$old_instance</span><span class="crayon-sy">;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-41"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-v">$instance</span><span class="crayon-sy">[</span><span class="crayon-s">'title'</span><span class="crayon-sy">]</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-e">strip_tags</span><span class="crayon-sy">(</span><span class="crayon-v">$new_instance</span><span class="crayon-sy">[</span><span class="crayon-s">'title'</span><span class="crayon-sy">]</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-42"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-v">$instance</span><span class="crayon-sy">[</span><span class="crayon-s">'number'</span><span class="crayon-sy">]</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-sy">(</span><span class="crayon-t">int</span><span class="crayon-sy">)</span><span class="crayon-h"> </span><span class="crayon-v">$new_instance</span><span class="crayon-sy">[</span><span class="crayon-s">'number'</span><span class="crayon-sy">]</span><span class="crayon-sy">;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-43"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-k ">return</span><span class="crayon-h"> </span><span class="crayon-v">$instance</span><span class="crayon-sy">;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-44"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-sy">}</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-45"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-46"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-t">function</span><span class="crayon-h"> </span><span class="crayon-e">form</span><span class="crayon-sy">(</span><span class="crayon-v">$instance</span><span class="crayon-sy">)</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-47"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-sy">{</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-48"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-v">$title</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-k ">isset</span><span class="crayon-sy">(</span><span class="crayon-v">$instance</span><span class="crayon-sy">[</span><span class="crayon-s">'title'</span><span class="crayon-sy">]</span><span class="crayon-sy">)</span><span class="crayon-h"> </span><span class="crayon-sy">?</span><span class="crayon-h"> </span><span class="crayon-e">esc_attr</span><span class="crayon-sy">(</span><span class="crayon-v">$instance</span><span class="crayon-sy">[</span><span class="crayon-s">'title'</span><span class="crayon-sy">]</span><span class="crayon-sy">)</span><span class="crayon-h"> </span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-s">''</span><span class="crayon-sy">;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-49"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-v">$number</span><span class="crayon-h"> </span><span class="crayon-o">=</span><span class="crayon-h"> </span><span class="crayon-k ">isset</span><span class="crayon-sy">(</span><span class="crayon-v">$instance</span><span class="crayon-sy">[</span><span class="crayon-s">'number'</span><span class="crayon-sy">]</span><span class="crayon-sy">)</span><span class="crayon-h"> </span><span class="crayon-sy">?</span><span class="crayon-h"> </span><span class="crayon-e">absint</span><span class="crayon-sy">(</span><span class="crayon-v">$instance</span><span class="crayon-sy">[</span><span class="crayon-s">'number'</span><span class="crayon-sy">]</span><span class="crayon-sy">)</span><span class="crayon-h"> </span><span class="crayon-o">:</span><span class="crayon-h"> </span><span class="crayon-cn">10</span><span class="crayon-sy">;</span><span class="crayon-ta">?&gt;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-50"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-o">&lt;</span><span class="crayon-v">p</span><span class="crayon-o">&gt;</span><span class="crayon-o">&lt;</span><span class="crayon-e">label </span><span class="crayon-st">for</span><span class="crayon-o">=</span><span class="crayon-s">"<span class="crayon-ta">&lt;?php</span><span class="crayon-h"> </span><span class="crayon-k ">echo</span><span class="crayon-h"> </span><span class="crayon-v">$this</span><span class="crayon-o">-&gt;</span><span class="crayon-e">get_field_id</span><span class="crayon-sy">(</span><span class="crayon-s">'title'</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-ta">?&gt;</span>"</span><span class="crayon-o">&gt;</span><span class="crayon-ta">&lt;?php</span><span class="crayon-h"> </span><span class="crayon-e">_e</span><span class="crayon-sy">(</span><span class="crayon-s">'Title:'</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-ta">?&gt;</span><span class="crayon-o">&lt;</span><span class="crayon-o">/</span><span class="crayon-v">label</span><span class="crayon-o">&gt;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-51"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-o">&lt;</span><span class="crayon-e">input </span><span class="crayon-v">id</span><span class="crayon-o">=</span><span class="crayon-s">"<span class="crayon-ta">&lt;?php</span><span class="crayon-h"> </span><span class="crayon-k ">echo</span><span class="crayon-h"> </span><span class="crayon-v">$this</span><span class="crayon-o">-&gt;</span><span class="crayon-e">get_field_id</span><span class="crayon-sy">(</span><span class="crayon-s">'title'</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-ta">?&gt;</span>"</span><span class="crayon-h"> </span><span class="crayon-v">name</span><span class="crayon-o">=</span><span class="crayon-s">"<span class="crayon-ta">&lt;?php</span><span class="crayon-h"> </span><span class="crayon-k ">echo</span><span class="crayon-h"> </span><span class="crayon-v">$this</span><span class="crayon-o">-&gt;</span><span class="crayon-e">get_field_name</span><span class="crayon-sy">(</span><span class="crayon-s">'title'</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-ta">?&gt;</span>"</span><span class="crayon-h"> </span><span class="crayon-v">type</span><span class="crayon-o">=</span><span class="crayon-s">"text"</span><span class="crayon-h"> </span><span class="crayon-v">value</span><span class="crayon-o">=</span><span class="crayon-s">"<span class="crayon-ta">&lt;?php</span><span class="crayon-h"> </span><span class="crayon-k ">echo</span><span class="crayon-h"> </span><span class="crayon-v">$title</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-ta">?&gt;</span>"</span><span class="crayon-h"> </span><span class="crayon-o">/</span><span class="crayon-o">&gt;</span><span class="crayon-o">&lt;</span><span class="crayon-o">/</span><span class="crayon-v">p</span><span class="crayon-o">&gt;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-52"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-53"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-o">&lt;</span><span class="crayon-v">p</span><span class="crayon-o">&gt;</span><span class="crayon-o">&lt;</span><span class="crayon-e">label </span><span class="crayon-st">for</span><span class="crayon-o">=</span><span class="crayon-s">"<span class="crayon-ta">&lt;?php</span><span class="crayon-h"> </span><span class="crayon-k ">echo</span><span class="crayon-h"> </span><span class="crayon-v">$this</span><span class="crayon-o">-&gt;</span><span class="crayon-e">get_field_id</span><span class="crayon-sy">(</span><span class="crayon-s">'number'</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-ta">?&gt;</span>"</span><span class="crayon-o">&gt;</span><span class="crayon-ta">&lt;?php</span><span class="crayon-h"> </span><span class="crayon-e">_e</span><span class="crayon-sy">(</span><span class="crayon-s">'Number of posts to&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-54"><span class="crayon-s">show:'</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-ta">?&gt;</span><span class="crayon-o">&lt;</span><span class="crayon-o">/</span><span class="crayon-v">label</span><span class="crayon-o">&gt;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-55"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-o">&lt;</span><span class="crayon-e">input </span><span class="crayon-v">id</span><span class="crayon-o">=</span><span class="crayon-s">"<span class="crayon-ta">&lt;?php</span><span class="crayon-h"> </span><span class="crayon-k ">echo</span><span class="crayon-h"> </span><span class="crayon-v">$this</span><span class="crayon-o">-&gt;</span><span class="crayon-e">get_field_id</span><span class="crayon-sy">(</span><span class="crayon-s">'number'</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-ta">?&gt;</span>"</span><span class="crayon-h"> </span><span class="crayon-v">name</span><span class="crayon-o">=</span><span class="crayon-s">"<span class="crayon-ta">&lt;?php</span><span class="crayon-h"> </span><span class="crayon-k ">echo</span><span class="crayon-h"> </span><span class="crayon-v">$this</span><span class="crayon-o">-&gt;</span><span class="crayon-e">get_field_name</span><span class="crayon-sy">(</span><span class="crayon-s">'number'</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-ta">?&gt;</span>"</span><span class="crayon-h"> </span><span class="crayon-v">type</span><span class="crayon-o">=</span><span class="crayon-s">"text"</span><span class="crayon-h"> </span><span class="crayon-v">value</span><span class="crayon-o">=</span><span class="crayon-s">"<span class="crayon-ta">&lt;?php</span><span class="crayon-h"> </span><span class="crayon-k ">echo</span><span class="crayon-h"> </span><span class="crayon-v">$number</span><span class="crayon-sy">;</span><span class="crayon-h"> </span><span class="crayon-ta">?&gt;</span>"</span><span class="crayon-h"> </span><span class="crayon-v">size</span><span class="crayon-o">=</span><span class="crayon-s">"3"</span><span class="crayon-h"> </span><span class="crayon-o">/</span><span class="crayon-o">&gt;</span><span class="crayon-o">&lt;</span><span class="crayon-o">/</span><span class="crayon-v">p</span><span class="crayon-o">&gt;</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-56"><span class="crayon-o">&lt;</span><span class="crayon-sy">?</span><span class="crayon-i">php</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-57"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="crayon-sy">}</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-58"><span class="crayon-h">&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div class="crayon-line" id="crayon-5804e57f6700c069469369-59"><span class="crayon-sy">}</span><span class="crayon-h">&nbsp;&nbsp; </span></div><div class="crayon-line crayon-striped-line" id="crayon-5804e57f6700c069469369-60"><span class="crayon-e">add_action</span><span class="crayon-sy">(</span><span class="crayon-s">'widgets_init'</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-e">create_function</span><span class="crayon-sy">(</span><span class="crayon-s">''</span><span class="crayon-sy">,</span><span class="crayon-h"> </span><span class="crayon-s">'return register_widget("RandomPostWidget");'</span><span class="crayon-sy">)</span><span class="crayon-sy">)</span><span class="crayon-sy">;</span></div></div></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+<!-- [Format Time: 0.0204 seconds] -->
+<p>以下是代码注释：<br />
+ <a href="https://www.anotherhome.net/944#more-944" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-938" class="block post">
+	<span class="round-date red">
+				<span class="month">6月</span>
+				<span class="day">19</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/938" rel="bookmark">多说自定义CSS，让你的多说评论动感起来</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年6月19日 • <i class="fa fa-eye"></i>796 次围观 • <i class="fa fa-comment-o"></i>活捉 2 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/share" rel="category tag">分享境</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>代码在下面，将代码粘贴到多说评论-个性化设置-自定义CSS 里，刷新即可看到效果。</p>
+<p>ps：代码都是共通的，不局限于多说，应用在别的效果上也是可以的。</p>
+<p>代码来自<a href="http://www.vsay.cn/">V说</a>。</p>
+<p style="text-align: center;">效果一：</p>
+<p style="text-align: center;"><img class="alignnone" src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/1.gif" alt="" width="260" height="107" /></p>
+<p style="text-align: center;">效果二：</p>
+<p style="text-align: center;"><img class="alignnone" src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/2.gif" alt="" width="260" height="107" /></p>
+<p style="text-align: center;">效果三：</p>
+<p style="text-align: center;"><img class="alignnone" src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/3.gif" alt="" width="260" height="107" /></p>
+<p style="text-align: center;">效果四：</p>
+<p style="text-align: center;"><img class="alignnone" src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/4.gif" alt="" width="260" height="107" /></p>
+<p style="text-align: center;">效果五：</p>
+<p style="text-align: center;"><img class="alignnone" src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/5.gif" alt="" width="260" height="107" /></p>
+<p style="text-align: center;">效果六：</p>
+<p style="text-align: center;"><img class="alignnone" src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/6.gif" alt="" width="260" height="107" /></p>
+<p style="text-align: center;">效果七：</p>
+<p style="text-align: center;"><img class="alignnone" src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/7.gif" alt="" width="260" height="107" /></p>
+<p style="text-align: center;">效果八：</p>
+<p style="text-align: center;"><img class="alignnone" src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/8.gif" alt="" width="260" height="107" /></p>
+<p style="text-align: center;">效果九：</p>
+<p><img class="alignnone aligncenter" src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/9.gif" alt="" width="263" height="105" /> <a href="https://www.anotherhome.net/938#more-938" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post -->            <ol class="page-navigator"><a class="prev page-numbers" href="https://www.anotherhome.net/category/share/page/3">下一页</a>
+<a class='page-numbers' href='https://www.anotherhome.net/category/share/page/1'>1</a>
+<a class='page-numbers' href='https://www.anotherhome.net/category/share/page/2'>2</a>
+<a class='page-numbers' href='https://www.anotherhome.net/category/share/page/3'>3</a>
+<span class='page-numbers current'>4</span>
+<a class='page-numbers' href='https://www.anotherhome.net/category/share/page/5'>5</a>
+<a class="next page-numbers" href="https://www.anotherhome.net/category/share/page/5">上一页</a></ol>
+        </div><!-- #content -->
+    <div id="secondary" class="side" role="complementary">
+        <section id="text-11" class="block widget widget_text">			<div class="textwidget"><div class="ca-container">
+    <div class="ca-head">
+        <div class="ca-head-container">
+            <img src="https://diygod.b0.upaiyun.com/snjz.jpg">
+            <h1><span>网红</span>DIYgod</h1>
+        </div>
+    </div>
+    <div class="ca-body">
+        <p>你能抓到我么？</p>
+        <div class="catch-me">
+            <a data-balloon="Rss" data-balloon-pos="up" target="_blank" href="https://www.anotherhome.net/feed"><i class="fa fa-rss"></i></a>
+            <a data-balloon="微博" data-balloon-pos="up" target="_blank" href="http://weibo.com/anotherhome"><i class="fa fa-weibo"></i></a>
+            <a data-balloon="GitHub" data-balloon-pos="up" target="_blank" href="https://github.com/DIYgod"><i class="fa fa-github"></i></a>
+            <a data-balloon="Instagram" data-balloon-pos="up" target="_blank" href="https://www.instagram.com/diygod" style="display:none;"><i class="fa fa-instagram"></i></a>
+            <a data-balloon="微信公众号" data-balloon-pos="up" target="_blank" href="https://diygod.b0.upaiyun.com/gzh.jpg"><i class="fa fa-wechat"></i></a>
+            <a data-balloon="QQ群" data-balloon-pos="up" target="_blank" href="https://dn-diygod.qbox.me/qq-g.jpg"><i class="fa fa-qq"></i></a>
+            <a data-balloon="知乎" data-balloon-pos="up" target="_blank" href="https://www.zhihu.com/people/diygod"><i  class="fa" style="font-weight: 500;">知</i></a>
+            <a data-balloon="坐标" data-balloon-pos="up" target="_blank" href="https://goo.gl/maps/6DuU9eED3C92"><i class="fa fa-map-marker" style="display:none;"></i></a>
+        </div>
+    </div>
+</div></div>
+		</section><section id="text-3" class="block widget widget_text">			<div class="textwidget"><div id="player1" class="aplayer">	 	 
+ <div style="padding: 10px; font-size: 10px; text-align: center;">(＞﹏＜) APlayer 加载中,好累的说...</div>	 	 
+</div></div>
+		</section><section id="text-4" class="block widget widget_text">			<div class="textwidget"><div class='like-vote'>
+	<p class='like-title'>Do you like me?</p>
+	<div class='like-count'>
+		<i class="fa fa-heart"></i><span></span>
+	</div>
+</div></div>
+		</section><section id="text-18" class="block widget widget_text">			<div class="textwidget"><a target="_blank" href="http://www.yq24.net/aff.php?aff=98" style="font-size: 13px; line-height: 20px;"><img src="https://diygod.b0.upaiyun.com/yq24.jpg"></a></div>
+		</section><section id="text-15" class="block widget widget_text"><p class="ui red ribbon label">这些人都排着队来跟我说话</p>			<div class="textwidget">    <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33050">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/e5fa85ffe0ba8d4f491af41a00d454de?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/e5fa85ffe0ba8d4f491af41a00d454de?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">ykk 在「留言板」中说:</p>
+                <p class="recent-text">桂纶镁呀</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2770#comment-33037">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「WordPress 反垃圾评论大作战」中说:</p>
+                <p class="recent-text">就改了下菜单栏...厉害这都能看出来(´இ皿இ｀)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33036">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">不写Python很多年...</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2790#comment-33035">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/124d03a731ac13b3ab5ffa6762bd12c7?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/124d03a731ac13b3ab5ffa6762bd12c7?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">liwanglin12 在「DPlayer 和 bilibili 更配哦」中说:</p>
+                <p class="recent-text">DaoCloud based on Docker</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33034">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">Added~~ 头像好看，谁呀(☆ω☆)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33033">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">可以等有内容了再来申请哟(ฅ´ω`ฅ)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2790#comment-33032">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「DPlayer 和 bilibili 更配哦」中说:</p>
+                <p class="recent-text">点右下角设置按钮可以关闭，我这里没问题呀(´இ皿இ｀)</p>
+            </div>
+        </a>
+    </li>
+    </div>
+		</section><section id="views-3" class="block widget widget_views"><p class="ui red ribbon label">大家都排队来看这些</p><ul>
+<li><a href="https://www.anotherhome.net/1727"  title="EasyGoAgent — 开箱即用的GoAgent">EasyGoAgent — 开箱即用的GoAgent</a> - 169,392 次围观</li><li><a href="https://www.anotherhome.net/1376"  title="huhamhire-hosts — Hosts文件自动配置工具">huhamhire-hosts — Hosts文件自动配置工具</a> - 151,098 次围观</li><li><a href="https://www.anotherhome.net/message"  title="留言板">留言板</a> - 139,820 次围观</li><li><a href="https://www.anotherhome.net/1362"  title="GoGo Tester—复活你的GoAgent">GoGo Tester—复活你的GoAgent</a> - 117,471 次围观</li><li><a href="https://www.anotherhome.net/1573"  title="GoAgent必备 Google IP">GoAgent必备 Google IP</a> - 104,538 次围观</li><li><a href="https://www.anotherhome.net/about"  title="关于">关于</a> - 42,129 次围观</li><li><a href="https://www.anotherhome.net/link"  title="链接">链接</a> - 22,381 次围观</li></ul>
+</section><section id="text-8" class="block widget widget_text">			<div class="textwidget"><div class="close-side">关闭侧边栏</div></div>
+		</section>    </div><!-- #secondary -->
+</div><!-- #main .wrapper -->
+</div>
+    <footer id="colophon" role="contentinfo">
+        <div class="footer-image"></div>
+        <div class="container">
+            <p>博客已萌萌哒运行<span id=span_dt_dt></span><span class="my-face">(●'◡'●)ﾉ♥</span></p>
+            <p>
+                托管于<a href="http://www.aliyun.com/" target="_blank"> 阿里云</a>.
+                <a href="https://www.upyun.com/" target="_blank">又拍云</a> 提供静态文件云存储服务.
+                <a href="http://www.google.com/analytics/" target="_blank">Google Analytics </a>提供网站统计服务.
+                <a href="http://www.cloudxns.net/" target="_blank">CloudXNS </a>提供 DNS 解析服务.
+            </p>
+            <p>&copy; 2016 <a href="https://www.anotherhome.net/">Anotherhome</a>.
+                由 <a href="http://wordpress.org" target="_blank">Wordpress</a> 强力驱动.
+                Theme By <a href="https://github.com/DIYgod/Amativeness" target="_blank">Amativeness</a>.
+                <a href="https://www.anotherhome.net/sitemap.xml" target="_blank">站点地图</a>.
+                鲁ICP备16000184号.
+            </p>
+            <p>Made with <i class="fa fa-heart throb" style="color: #d43f57;"></i> by DIYgod. </p>
+        </div>
+    </footer>
+    </div>
+    <script>function cloneObject(src){if(src==null||typeof src!="object"){return src}if(src instanceof Date){var clone=new Date(src.getDate());return clone}if(src instanceof Array){var clone=[];for(var i=0,len=src.length;i<len;i++){clone[i]=src[i]}return clone}if(src instanceof Object){var clone={};for(var key in src){if(src.hasOwnProperty(key)){clone[key]=cloneObject(src[key])}}return clone}}function hermitInit(){var aps=document.getElementsByClassName("aplayer");ap=[];var xhr=[];var option=[];remain_time=10;for(var i=0;i<aps.length;i++){if(aps[i].dataset.songs){option[i]=cloneObject(aps[i].dataset);option[i].element=aps[i];xhr[i]=new XMLHttpRequest();xhr[i].onreadystatechange=function(){var index=xhr.indexOf(this);var op=option[index];if(this.readyState===4){if(this.status>=200&&this.status<300||this.status===304){var response=JSON.parse(this.responseText);op.music=response.msg.songs;if(op.music[0].lrc){op.showlrc=3}else{op.showlrc=0}if(op.music.length===1){op.music=op.music[0]}if(op.autoplay){op.autoplay=(op.autoplay==="true"||op.autoplay==="1")}if(op.loop){op.loop=(op.loop==="true"||op.loop==="1")}if(op.mutex){op.mutex=(op.mutex==="true"||op.mutex==="1")}if(op.narrow){op.narrow=(op.narrow==="true"||op.narrow==="1")}ap[i]=new APlayer(op)}else{console.log("Request was unsuccessful: "+this.status)}}};var scope=option[i].songs.split("#:");apiurl="https://www.anotherhome.net/wp-admin/admin-ajax.php?action=hermit&scope="+option[i].songs.split("#:")[0]+"&id="+option[i].songs.split("#:")[1];xhr[i].open("get",apiurl,true);xhr[i].send(null)}}}function reloadHermit(){for(var i=0;i<ap.length;i++){try{ap[i].pause()}catch(e){}}hermitInit()}hermitInit();</script><script type='text/javascript' src='https://www.anotherhome.net/wp-includes/js/wp-embed.min.js?ver=05d3b79e72bbe9d939510b8a230704d6'></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/typed.js/dist/typed.min.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/jquery-lazyload/jquery.lazyload.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/notie/browser/notie.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/social-share.js/dist/js/jquery.share.min.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/main.js"></script>
+    <script>
+        NProgress.set(1.0);
+    </script>
+    </body>
+</html>

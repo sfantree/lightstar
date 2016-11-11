@@ -1,0 +1,553 @@
+<!--    <li --><!-- id="li-comment---><!--">-->
+<!--        <article id="comment---><!--" class="comment-b">-->
+<!--            <header class="comment-meta comment-author vcard">-->
+<!--                --><!--            </header>-->
+<!--            <!-- .comment-meta -->-->
+<!--            --><!--                <p class="comment-awaiting-moderation">--><!--</p>-->
+<!--            --><!--            <section class="comment-content comment">-->
+<!--                --><!--                --><!--                <div class="comment-reply">-->
+<!--                    --><!--                </div>-->
+<!--                <!-- .reply -->-->
+<!--            </section>-->
+<!--            <!-- .comment-content -->-->
+<!--        </article>-->
+<!--        <!-- #comment-## -->-->
+<!--    </li>-->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="theme-color" content="#595C5E">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes"">
+    <title>创作集 | Anotherhome - Part 3</title>
+    <link rel="canonical" href="https://www.anotherhome.net/">
+    <link rel="pingback" href="https://www.anotherhome.net/xmlrpc.php"/>
+    <link rel="apple-touch-icon" href="https://diygod.b0.upaiyun.com/head4.jpg">
+    <link rel="shortcut icon" href="https://www.anotherhome.net/wp-content/themes/Amativeness/favicon.ico">
+    <link rel="search" type="application/opensearchdescription+xml" href="https://www.anotherhome.net/wp-content/themes/Amativeness/search.xml" title="Anotherhome">
+    <link rel="stylesheet" href="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/nprogress/nprogress.min.css">
+    <link rel="stylesheet" href="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/social-share.js/dist/css/share.min.css">
+    <link rel="stylesheet" href="https://staticfile.qnssl.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script src='https://diygod.b0.upaiyun.com/jquery.min.js'></script>
+<!--    <script type="text/javascript" src="--><!--/ajax-comment/app.js"></script>-->
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/nprogress/nprogress.min.js"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-48084758-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    
+<!-- All in One SEO Pack 2.3.10.2 by Michael Torbert of Semper Fi Web Design[232,269] -->
+<meta name="keywords" itemprop="keywords" content="创作集" />
+<meta name="robots" content="noindex,follow" />
+<link rel='prev' href='https://www.anotherhome.net/category/create/page/2' />
+<link rel='next' href='https://www.anotherhome.net/category/create/page/4' />
+
+<link rel="canonical" href="https://www.anotherhome.net/category/create/page/3" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; Feed" href="https://www.anotherhome.net/feed" />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; 评论Feed" href="https://www.anotherhome.net/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Anotherhome &raquo; 创作集分类目录Feed" href="https://www.anotherhome.net/category/create/feed" />
+<link rel='stylesheet' id='crayon-css'  href='https://www.anotherhome.net/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='crayon-theme-classic-css'  href='https://www.anotherhome.net/wp-content/plugins/crayon-syntax-highlighter/themes/classic/classic.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='crayon-font-monaco-css'  href='https://www.anotherhome.net/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='amativeness-style-css'  href='https://www.anotherhome.net/wp-content/themes/Amativeness/style.css?ver=05d3b79e72bbe9d939510b8a230704d6' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='amativeness-ie-css'  href='https://www.anotherhome.net/wp-content/themes/Amativeness/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://www.anotherhome.net/wp-content/plugins/Hermit-X-master/assets/js/2.5.4/APlayer.min.js?ver=2.5.4'></script>
+<link rel='https://api.w.org/' href='https://www.anotherhome.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.anotherhome.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.anotherhome.net/wp-includes/wlwmanifest.xml" /> 
+
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.anotherhome.net/?wordfence_logHuman=1&hid=63C7B821C5B2A5521B82AAD5E3DEDD71');
+</script></head>
+<body class="archive paged category category-create category-4 paged-3 category-paged-3 single-author">
+    <script>
+        NProgress.configure({
+            showSpinner: false,
+            easing: 'ease-out',
+            speed: 1000
+        });
+        NProgress.set(0.7);
+    </script>
+    <canvas id="evanyou"></canvas>
+    <div id="back-to-top" class="red" data-scroll="body">
+    </div>
+    <div class="navbar">
+                <div class="container">
+            <nav id="primary-navigation" class="site-navigation primary-navigation" role="navigation">
+                <div class="menu-%e8%8f%9c%e5%8d%951-container"><ul id="menu-%e8%8f%9c%e5%8d%951" class="nav-menu"><li id="menu-item-2270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2270"><a href="https://www.anotherhome.net/"><i class="fa fa-home"></i>首页</a></li>
+<li id="menu-item-2271" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-2271"><a target="_blank"><i class="fa fa-paperclip"></i>分类</a>
+<ul class="sub-menu">
+	<li id="menu-item-2267" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-2267"><a target="_blank" href="https://www.anotherhome.net/category/create">创作集</a></li>
+	<li id="menu-item-2266" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2266"><a target="_blank" href="https://www.anotherhome.net/category/share">分享境</a></li>
+	<li id="menu-item-2268" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2268"><a target="_blank" href="https://www.anotherhome.net/category/say">闲言语</a></li>
+	<li id="menu-item-2269" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2269"><a target="_blank" href="https://www.anotherhome.net/category/event">事件簿</a></li>
+</ul>
+</li>
+<li id="menu-item-2512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2512"><a><i class="fa fa-flask"></i>实验室</a>
+<ul class="sub-menu">
+	<li id="menu-item-2606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2606"><a target="_blank" href="http://diygod.me/">DIYgod</a></li>
+	<li id="menu-item-2515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2515"><a target="_blank" href="http://aplayer.js.org/">APlayer</a></li>
+	<li id="menu-item-2769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2769"><a href="http://dplayer.js.org/">DPlayer</a></li>
+	<li id="menu-item-2607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2607"><a target="_blank" href="http://diygod.github.io/OwO/demo/">OωO</a></li>
+	<li id="menu-item-2516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2516"><a target="_blank" href="https://www.anotherhome.net/file/Ticktack/index.html?background=fff&#038;color=f00&#038;birthday=19950609">Ticktack</a></li>
+	<li id="menu-item-2517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2517"><a target="_blank" href="https://www.anotherhome.net/file/jCarrousel/">jCarrousel</a></li>
+	<li id="menu-item-2514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2514"><a target="_blank" href="https://www.anotherhome.net/api/zhihu/">知乎日报RSS</a></li>
+</ul>
+</li>
+<li id="menu-item-2263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2263"><a target="_blank" href="https://www.anotherhome.net/donate"><i class="fa fa-usd"></i>捐赠</a></li>
+<li id="menu-item-2362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2362"><a target="_blank" href="https://www.anotherhome.net/link"><i class="fa fa-mars"></i>链接</a></li>
+<li id="menu-item-2264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2264"><a target="_blank" href="https://www.anotherhome.net/message"><i class="fa fa-pencil"></i>留言板</a></li>
+<li id="menu-item-2262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2262"><a target="_blank" href="https://www.anotherhome.net/about"><i class="fa fa-rocket"></i>关于</a></li>
+</ul></div>            </nav>
+                                    <div class="nav-right">
+                <form class="search-form" method="post" action="https://www.anotherhome.net">
+                    <input type="text" name="s" class="search-input" placeholder="站内搜索">
+                    <button type="submit" class="search-submit sousuo">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <header class="header-description">
+        <div id="site-header">
+            <h1><a href="https://www.anotherhome.net/"
+                   title="Anotherhome"
+                   rel="home">Anotherhome</a></h1>
+            <p class="typed"><a href="https://www.anotherhome.net/" title="Anotherhome" rel="home"></a></p>
+        </div>
+    </header>
+    <div id="information" class="info block">
+        <a href="https://www.anotherhome.net/"><img src="https://www.anotherhome.net/wp-content/uploads/2016/09/head.jpg" class="avatar"
+                                                             data-pinit="registered"
+                                                             width="356"
+                                                             height="356"
+                                                             alt=""/></a>
+
+        <h2 class="description"><a href="https://www.anotherhome.net/"
+                                   title="Anotherhome" rel="home"><span
+                    style="color: #3369e8;">Write</span> <span style="color: #d50f25;">the</span> <span
+                    style="color: #eeb211;">Code.</span> <span style="color: #3369e8;">Change</span> <span
+                    style="color: #009925;">the</span> <span style="color: #d50f25;">World.</span></a></h2>
+    </div>
+    <div class="xm">
+        <img src="https://diygod.b0.upaiyun.com/xm.png">
+    </div>
+    <div class="container" id="content">
+        <div class="article-list">
+<div class="main">
+        <article class="block post">
+        <div class="ui ribbon label red">分类目录</div>
+    </article>
+    <article id="post-1635" class="block post">
+	<span class="round-date red">
+				<span class="month">11月</span>
+				<span class="day">09</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1635" rel="bookmark">if-else语句词法语法语义分析的LR(1)和LexYacc两种实现</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年11月9日 • <i class="fa fa-eye"></i>1,279 次围观 • <i class="fa fa-comment-o"></i>活捉 14 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/create" rel="category tag">创作集</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p><iframe width="110" height="20" src="http://github.anotherhome.net/github-btn.html?user=DIYgod&amp;repo=Compiler&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe><iframe width="95" height="20" src="http://github.anotherhome.net/github-btn.html?user=DIYgod&amp;repo=Compiler&amp;type=fork&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0"></iframe></p>
+<p><img class="alignnone" src="https://diygod.b0.upaiyun.com/1.png" data-original="https://diygod.b0.upaiyun.com/SemanticAnalysis.png" alt="" width="723" height="428" /></p>
+<p><strong>Update 2014.11.29</strong></p>
+<p>最终版，暂时就写到这个地步了。。不玩了<br />
+实现对带 &#8220;or&#8221; &#8220;and&#8221; 的布尔表达式的语义分析</p>
+<p><strong>Update 2014.11.29</strong></p>
+<p>将LexYacc实现移植到Linux；实现多条赋值语句的语义分析</p>
+<p><strong>Update 2014.11.28</strong></p>
+<p>对LexYacc实现增加语义分析（V0.3）</p>
+<p><strong>Update 2014.11.24</strong></p>
+<p>对LR(1)实现 语法分析模块略改动，实现自定义文法</p>
+<p>原题目：《赋值语句语法分析的LR(1)和Yacc两种实现》</p>
+<p><strong>项目地址：</strong></p>
+<p><a href="https://github.com/DIYgod/Parsing" target="_blank">https://github.com/DIYgod/Parsing</a></p>
+<p><strong>说明：</strong></p>
+<p>LR(1)分析法暂未实现语义分析</p>
+<p>其他见项目地址</p>
+<p>另外分享一些Lex Yacc的参考资料：<a href="http://www.cppblog.com/woaidongmao/archive/2008/09/20/62322.aspx" target="_blank">草木瓜&#8212;-Lex和Yacc教程 </a>、<a href="http://wenku.baidu.com/view/40be334069eae009581becbf.html" target="_blank">Win7下lex 与 yacc的安装配置</a>、<a href="http://blog.csdn.net/huyansoft/article/details/8860224" target="_blank">一个Lex/Yacc完整的示例(可使用C++)</a>、<a href="http://www.cnblogs.com/longyi1234/archive/2010/03/19/1689769.html" target="_blank">基于Lex 和 Yacc 的 C 语言编译器</a>、<a href="http://www.quut.com/c/ANSI-C-grammar-y-1998.html" target="_blank">ANSI C grammar (Yacc)</a>、<a href="http://www.quut.com/c/ANSI-C-grammar-l-1998.html" target="_blank">ANSI C grammar (Lex)</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1573" class="block post">
+	<span class="round-date red">
+				<span class="month">10月</span>
+				<span class="day">01</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1573" rel="bookmark">GoAgent必备 Google IP</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年10月1日 • <i class="fa fa-eye"></i>104,538 次围观 • <i class="fa fa-comment-o"></i>活捉 197 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/create" rel="category tag">创作集</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p><span style="color: #ff0000; font-size: 24pt;">项目中止, 请移步: </span></p>
+<p><span style="color: #ff0000; font-size: 24pt;"><a href="http://www.anotherhome.net/1727" target="_blank" rel="bookmark">EasyGoAgent — 开箱即用的GoAgent</a></span></p>
+<p>&nbsp;</p>
+<p>由于众所周知的原因，Google被封，GoAgent一度残废，但是怎能让他们阴谋得逞，为了节约费力找IP的时间、降低使用门槛，诞生了本计划。</p>
+<p>使用前请仔细阅读以下内容</p>
+<p><strong>版权声明</strong></p>
+<p>本文及本文涉及的 Google IP、Appid 等所有内容不适用于本站通用许可协议，<span style="color: #ff0000;">禁止以任何形式转载</span><br />
+IP来源：<a href="http://www.anotherhome.net/1362" target="_blank">GoGo Tester</a></p>
+<p><strong>使用说明</strong></p>
+<p>1.修改IP可以有效解决GoAgent速度慢、出现红字黄字的问题<br />
+2.IP不宜过多，建议5个以内<br />
+3.低调使用</p>
+<p> <a href="https://www.anotherhome.net/1573#more-1573" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1553" class="block post">
+	<span class="round-date red">
+				<span class="month">9月</span>
+				<span class="day">23</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1553" rel="bookmark">各种线性表基本运算的C++实现</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年9月23日 • <i class="fa fa-eye"></i>2,100 次围观 • <i class="fa fa-comment-o"></i>活捉 16 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/create" rel="category tag">创作集</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>代码参考《数据结构教程》一书。</p>
+<p>本文涉及的线性表包括顺序表、单链表和双链表。</p>
+<p><strong>基本运算包括：</strong></p>
+<p>1.初始化线性表InitList(&amp;L)：构造一个空的线性表L。</p>
+<p>2.销毁线性表DestroyList(&amp;L)：释放线性表L占用的内存空间。</p>
+<p>3.判线性表是否为空表ListEmpty(L)：若L为空表，则返回真，否则返回假。</p>
+<p>4.求线性表的长度ListLength(L)：返回L中元素个数。</p>
+<p>5.输出线性表DispList(L):当线性表L不为空时，顺序显示L中各节点的值域。</p>
+<p>6.求线性表L中指定位置的某个数据元素GetElem(L,i,&amp;e)：用e返回L中第 i（1≤i≤ListLength(L)）个元素的值。</p>
+<p>7.定位查找LocateElem(L,e)：返回L中第一个值域与e相等的逻辑位序。若这样的元素不存在，则返回值为0。</p>
+<p>8.插入数据元素ListInsert(&amp;L,i,e)：在L的第i（1≤i≤ListLength(L)+1）个元素之前插入新的元素e，L的长度增1。</p>
+<p>9.删除数据元素ListDelete(&amp;L,i,&amp;e)：删除L的第i（1≤i≤ListLength(L)）个元素，并用e返回其值，L的长度减1。 <a href="https://www.anotherhome.net/1553#more-1553" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1366" class="block post">
+	<span class="round-date red">
+				<span class="month">8月</span>
+				<span class="day">11</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1366" rel="bookmark">思维导图之 Thinking in Java（八）</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年8月11日 • <i class="fa fa-eye"></i>3,288 次围观 • <i class="fa fa-comment-o"></i>活捉 16 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/create" rel="category tag">创作集</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>内容来自《Thinking in Java》一书，少部分改写，<a href="http://www.mindviewinc.com/" target="_blank">MindView LLC</a>版权所有。</p>
+<p><strong>第八章 多态 Polymorphidm</strong></p>
+<p style="text-align: left;"><span style="font-size: 8pt;">“我曾两次被问到过，‘如果你给机器输入了错误的数字，能不能还得出正确的答案？’。对于产生了那么一个问题的此类令人困惑的想法，我不能马上理解清楚。”</span><br />
+<span style="font-size: 8pt;"> On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?’ I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”</span></p>
+<p style="text-align: right;"><span style="font-size: 8pt;">Charles Babbage(1791-1871)</span></p>
+<p style="text-align: right;"> <a href="https://www.anotherhome.net/1366#more-1366" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1265" class="block post">
+	<span class="round-date red">
+				<span class="month">7月</span>
+				<span class="day">26</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1265" rel="bookmark">思维导图之 Thinking in Java（七）</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年7月26日 • <i class="fa fa-eye"></i>1,041 次围观 • <i class="fa fa-comment-o"></i>活捉 8 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/create" rel="category tag">创作集</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>内容来自《Thinking in Java》一书，少部分改写，<a href="http://www.mindviewinc.com/" target="_blank">MindView LLC</a>版权所有。</p>
+<p><strong>第七章 复用类 Reusing Classes</strong></p>
+<p><span style="font-size: 8pt;">复用代码是Java众多引人注目的功能之一。但要想成为极具革命性的语言，仅仅能够复制代码并对之加以改变是不够的，它还必须能够做更多的事情。</span><br />
+<span style="font-size: 8pt;"> One of the most compelling features about Java is code reuse. But to be revolutionary you’ve got to be able to do a lot more than copy code and change it.</span></p>
+<p><span style="font-size: 8pt;">当你设计一个系统时，应该认识到程序开发是一种增量过程，犹如人类的学习一样，这一点很重要，程序开发依赖于实验，你可以尽己所能去分析，但当你开始执行一个项目时，你仍然无法知道所有的答案。如果将项目视作是一种有机的、进化着的生命体而去培养，而不是打算像盖摩天大楼一样快速见效，就会获得更多的成功和更迅速的回馈。</span><br />
+<span style="font-size: 8pt;"> you’ll have much more success-and more immediate feedback-if you start out to &#8220;grow&#8221; your project as an organic, evolutionary creature, rather than constructing it all at once like a glass-box skyscraper.</span> <a href="https://www.anotherhome.net/1265#more-1265" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1227" class="block post">
+	<span class="round-date red">
+				<span class="month">7月</span>
+				<span class="day">21</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1227" rel="bookmark">思维导图之 Thinking in Java（六）</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年7月21日 • <i class="fa fa-eye"></i>947 次围观 • <i class="fa fa-comment-o"></i>活捉 1 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/create" rel="category tag">创作集</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>内容来自《Thinking in Java》一书，少部分改写，<a href="http://www.mindviewinc.com/" target="_blank">MindView LLC</a>版权所有。</p>
+<p><strong>第六章 访问权限控制 Access Control</strong></p>
+<address>访问控制（或隐藏具体实现）与“最初的实现并不恰当”有关。</address>
+<address>Access Control (or implementation hiding) is about &#8220;not getting it right the first time.&#8221;</address>
+<p> <a href="https://www.anotherhome.net/1227#more-1227" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1199" class="block post">
+	<span class="round-date red">
+				<span class="month">7月</span>
+				<span class="day">20</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1199" rel="bookmark">思维导图之 Thinking in Java（五）</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年7月20日 • <i class="fa fa-eye"></i>1,111 次围观 • <i class="fa fa-comment-o"></i>没有评论,快来呀!            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/create" rel="category tag">创作集</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>内容来自《Thinking in Java》一书，少部分改写，<a href="http://www.mindviewinc.com/" target="_blank">MindView LLC</a>版权所有。</p>
+<p><strong>第五章 初始化与清理 Initialization&amp;Cleanup</strong></p>
+<address>随着计算机革命的发展，“不安全”的编程方式已逐渐成为编程代价高昂的主因之一。</address>
+<address>As the computer revolution progresses, &#8220;unsafe&#8221; programming has become one of the major culprits that makes programming expensive.</address>
+<p> <a href="https://www.anotherhome.net/1199#more-1199" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1191" class="block post">
+	<span class="round-date red">
+				<span class="month">7月</span>
+				<span class="day">17</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1191" rel="bookmark">思维导图之 Thinking in Java（四）</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年7月17日 • <i class="fa fa-eye"></i>750 次围观 • <i class="fa fa-comment-o"></i>没有评论,快来呀!            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/create" rel="category tag">创作集</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>内容来自《Thinking in Java》一书，少部分改写，<a href="http://www.mindviewinc.com/" target="_blank">MindView LLC</a>版权所有。</p>
+<p><strong>第四章 控制执行流程</strong></p>
+<address>就想有知觉的生物一样，程序必须在执行过程中控制它的世界，并做出选择，。在Java中，你要使用执行控制语句来做出选择。 <a href="https://www.anotherhome.net/1191#more-1191" class="more-link">继续阅读</a></address>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1183" class="block post">
+	<span class="round-date red">
+				<span class="month">7月</span>
+				<span class="day">16</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1183" rel="bookmark">思维导图之 Thinking in Java（三）</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年7月16日 • <i class="fa fa-eye"></i>983 次围观 • <i class="fa fa-comment-o"></i>没有评论,快来呀!            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/create" rel="category tag">创作集</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>内容来自《Thinking in Java》一书，少部分改写，<a href="http://www.mindviewinc.com/" target="_blank">MindView LLC</a>版权所有。</p>
+<p><strong>第三章 操作符</strong></p>
+<address>在最底层，Java中的数据是通过操作符来操作的。</address>
+<p> <a href="https://www.anotherhome.net/1183#more-1183" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post --><article id="post-1170" class="block post">
+	<span class="round-date red">
+				<span class="month">7月</span>
+				<span class="day">10</span>
+	</span>
+        <header class="entry-header">
+                    <p class="title">
+                <a href="https://www.anotherhome.net/1170" rel="bookmark">思维导图之 Thinking in Java（二）</a>
+            </p>
+            <p class="article-meta"><i class="fa fa-heart-o"></i>发表于 2014年7月10日 • <i class="fa fa-eye"></i>923 次围观 • <i class="fa fa-comment-o"></i>活捉 6 条            </p>
+                            <div class="ui ribbon label red"><a href="https://www.anotherhome.net/category/create" rel="category tag">创作集</a></div>
+            </header>
+    <!-- .entry-header -->
+            <div class="article-content red">
+            <p>思维导图内容来自《Thinking in Java》一书，少部分改写，<a href="http://www.mindviewinc.com/" target="_blank">MindView LLC</a>版权所有。</p>
+<p><strong>第二章 一切都是对象</strong></p>
+<address style="text-align: left;">“如果我们说另一种不同的语言，那么我们就会发觉一个有些不同的世界”。</address>
+<address style="text-align: right;">—Ludwig Wittgenstein(1889-1951)</address>
+<p> <a href="https://www.anotherhome.net/1170#more-1170" class="more-link">继续阅读</a></p>
+                    </div><!-- .article-content -->
+    </article><!-- #post -->            <ol class="page-navigator"><a class="prev page-numbers" href="https://www.anotherhome.net/category/create/page/2">下一页</a>
+<a class='page-numbers' href='https://www.anotherhome.net/category/create/page/1'>1</a>
+<a class='page-numbers' href='https://www.anotherhome.net/category/create/page/2'>2</a>
+<span class='page-numbers current'>3</span>
+<a class='page-numbers' href='https://www.anotherhome.net/category/create/page/4'>4</a>
+<a class="next page-numbers" href="https://www.anotherhome.net/category/create/page/4">上一页</a></ol>
+        </div><!-- #content -->
+    <div id="secondary" class="side" role="complementary">
+        <section id="text-11" class="block widget widget_text">			<div class="textwidget"><div class="ca-container">
+    <div class="ca-head">
+        <div class="ca-head-container">
+            <img src="https://diygod.b0.upaiyun.com/snjz.jpg">
+            <h1><span>网红</span>DIYgod</h1>
+        </div>
+    </div>
+    <div class="ca-body">
+        <p>你能抓到我么？</p>
+        <div class="catch-me">
+            <a data-balloon="Rss" data-balloon-pos="up" target="_blank" href="https://www.anotherhome.net/feed"><i class="fa fa-rss"></i></a>
+            <a data-balloon="微博" data-balloon-pos="up" target="_blank" href="http://weibo.com/anotherhome"><i class="fa fa-weibo"></i></a>
+            <a data-balloon="GitHub" data-balloon-pos="up" target="_blank" href="https://github.com/DIYgod"><i class="fa fa-github"></i></a>
+            <a data-balloon="Instagram" data-balloon-pos="up" target="_blank" href="https://www.instagram.com/diygod" style="display:none;"><i class="fa fa-instagram"></i></a>
+            <a data-balloon="微信公众号" data-balloon-pos="up" target="_blank" href="https://diygod.b0.upaiyun.com/gzh.jpg"><i class="fa fa-wechat"></i></a>
+            <a data-balloon="QQ群" data-balloon-pos="up" target="_blank" href="https://dn-diygod.qbox.me/qq-g.jpg"><i class="fa fa-qq"></i></a>
+            <a data-balloon="知乎" data-balloon-pos="up" target="_blank" href="https://www.zhihu.com/people/diygod"><i  class="fa" style="font-weight: 500;">知</i></a>
+            <a data-balloon="坐标" data-balloon-pos="up" target="_blank" href="https://goo.gl/maps/6DuU9eED3C92"><i class="fa fa-map-marker" style="display:none;"></i></a>
+        </div>
+    </div>
+</div></div>
+		</section><section id="text-3" class="block widget widget_text">			<div class="textwidget"><div id="player1" class="aplayer">	 	 
+ <div style="padding: 10px; font-size: 10px; text-align: center;">(＞﹏＜) APlayer 加载中,好累的说...</div>	 	 
+</div></div>
+		</section><section id="text-4" class="block widget widget_text">			<div class="textwidget"><div class='like-vote'>
+	<p class='like-title'>Do you like me?</p>
+	<div class='like-count'>
+		<i class="fa fa-heart"></i><span></span>
+	</div>
+</div></div>
+		</section><section id="text-18" class="block widget widget_text">			<div class="textwidget"><a target="_blank" href="http://www.yq24.net/aff.php?aff=98" style="font-size: 13px; line-height: 20px;"><img src="https://diygod.b0.upaiyun.com/yq24.jpg"></a></div>
+		</section><section id="text-15" class="block widget widget_text"><p class="ui red ribbon label">这些人都排着队来跟我说话</p>			<div class="textwidget">    <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33050">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/e5fa85ffe0ba8d4f491af41a00d454de?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/e5fa85ffe0ba8d4f491af41a00d454de?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">ykk 在「留言板」中说:</p>
+                <p class="recent-text">桂纶镁呀</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2770#comment-33037">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「WordPress 反垃圾评论大作战」中说:</p>
+                <p class="recent-text">就改了下菜单栏...厉害这都能看出来(´இ皿இ｀)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33036">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">不写Python很多年...</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2790#comment-33035">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/124d03a731ac13b3ab5ffa6762bd12c7?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/124d03a731ac13b3ab5ffa6762bd12c7?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">liwanglin12 在「DPlayer 和 bilibili 更配哦」中说:</p>
+                <p class="recent-text">DaoCloud based on Docker</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33034">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">Added~~ 头像好看，谁呀(☆ω☆)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/message#comment-33033">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「留言板」中说:</p>
+                <p class="recent-text">可以等有内容了再来申请哟(ฅ´ω`ฅ)</p>
+            </div>
+        </a>
+    </li>
+        <li class="recent-comments">
+        <a target="_blank" href="https://www.anotherhome.net/2790#comment-33032">
+            <div class="recent-avatar"><img alt='' src='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=32&#038;r=g' srcset='https://gravatar2333.b0.upaiyun.com/avatar/2ebd00ce86e3661b62c96a0768d4a731?s=64&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' /></div>
+            <div class="recent-body">
+                <p class="recent-author">DIYgod 在「DPlayer 和 bilibili 更配哦」中说:</p>
+                <p class="recent-text">点右下角设置按钮可以关闭，我这里没问题呀(´இ皿இ｀)</p>
+            </div>
+        </a>
+    </li>
+    </div>
+		</section><section id="views-3" class="block widget widget_views"><p class="ui red ribbon label">大家都排队来看这些</p><ul>
+<li><a href="https://www.anotherhome.net/1727"  title="EasyGoAgent — 开箱即用的GoAgent">EasyGoAgent — 开箱即用的GoAgent</a> - 169,392 次围观</li><li><a href="https://www.anotherhome.net/1376"  title="huhamhire-hosts — Hosts文件自动配置工具">huhamhire-hosts — Hosts文件自动配置工具</a> - 151,098 次围观</li><li><a href="https://www.anotherhome.net/message"  title="留言板">留言板</a> - 139,820 次围观</li><li><a href="https://www.anotherhome.net/1362"  title="GoGo Tester—复活你的GoAgent">GoGo Tester—复活你的GoAgent</a> - 117,471 次围观</li><li><a href="https://www.anotherhome.net/1573"  title="GoAgent必备 Google IP">GoAgent必备 Google IP</a> - 104,538 次围观</li><li><a href="https://www.anotherhome.net/about"  title="关于">关于</a> - 42,129 次围观</li><li><a href="https://www.anotherhome.net/link"  title="链接">链接</a> - 22,381 次围观</li></ul>
+</section><section id="text-8" class="block widget widget_text">			<div class="textwidget"><div class="close-side">关闭侧边栏</div></div>
+		</section>    </div><!-- #secondary -->
+</div><!-- #main .wrapper -->
+</div>
+    <footer id="colophon" role="contentinfo">
+        <div class="footer-image"></div>
+        <div class="container">
+            <p>博客已萌萌哒运行<span id=span_dt_dt></span><span class="my-face">(●'◡'●)ﾉ♥</span></p>
+            <p>
+                托管于<a href="http://www.aliyun.com/" target="_blank"> 阿里云</a>.
+                <a href="https://www.upyun.com/" target="_blank">又拍云</a> 提供静态文件云存储服务.
+                <a href="http://www.google.com/analytics/" target="_blank">Google Analytics </a>提供网站统计服务.
+                <a href="http://www.cloudxns.net/" target="_blank">CloudXNS </a>提供 DNS 解析服务.
+            </p>
+            <p>&copy; 2016 <a href="https://www.anotherhome.net/">Anotherhome</a>.
+                由 <a href="http://wordpress.org" target="_blank">Wordpress</a> 强力驱动.
+                Theme By <a href="https://github.com/DIYgod/Amativeness" target="_blank">Amativeness</a>.
+                <a href="https://www.anotherhome.net/sitemap.xml" target="_blank">站点地图</a>.
+                鲁ICP备16000184号.
+            </p>
+            <p>Made with <i class="fa fa-heart throb" style="color: #d43f57;"></i> by DIYgod. </p>
+        </div>
+    </footer>
+    </div>
+    <script>function cloneObject(src){if(src==null||typeof src!="object"){return src}if(src instanceof Date){var clone=new Date(src.getDate());return clone}if(src instanceof Array){var clone=[];for(var i=0,len=src.length;i<len;i++){clone[i]=src[i]}return clone}if(src instanceof Object){var clone={};for(var key in src){if(src.hasOwnProperty(key)){clone[key]=cloneObject(src[key])}}return clone}}function hermitInit(){var aps=document.getElementsByClassName("aplayer");ap=[];var xhr=[];var option=[];remain_time=10;for(var i=0;i<aps.length;i++){if(aps[i].dataset.songs){option[i]=cloneObject(aps[i].dataset);option[i].element=aps[i];xhr[i]=new XMLHttpRequest();xhr[i].onreadystatechange=function(){var index=xhr.indexOf(this);var op=option[index];if(this.readyState===4){if(this.status>=200&&this.status<300||this.status===304){var response=JSON.parse(this.responseText);op.music=response.msg.songs;if(op.music[0].lrc){op.showlrc=3}else{op.showlrc=0}if(op.music.length===1){op.music=op.music[0]}if(op.autoplay){op.autoplay=(op.autoplay==="true"||op.autoplay==="1")}if(op.loop){op.loop=(op.loop==="true"||op.loop==="1")}if(op.mutex){op.mutex=(op.mutex==="true"||op.mutex==="1")}if(op.narrow){op.narrow=(op.narrow==="true"||op.narrow==="1")}ap[i]=new APlayer(op)}else{console.log("Request was unsuccessful: "+this.status)}}};var scope=option[i].songs.split("#:");apiurl="https://www.anotherhome.net/wp-admin/admin-ajax.php?action=hermit&scope="+option[i].songs.split("#:")[0]+"&id="+option[i].songs.split("#:")[1];xhr[i].open("get",apiurl,true);xhr[i].send(null)}}}function reloadHermit(){for(var i=0;i<ap.length;i++){try{ap[i].pause()}catch(e){}}hermitInit()}hermitInit();</script><script type='text/javascript' src='https://www.anotherhome.net/wp-includes/js/wp-embed.min.js?ver=05d3b79e72bbe9d939510b8a230704d6'></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/typed.js/dist/typed.min.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/jquery-lazyload/jquery.lazyload.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/notie/browser/notie.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/lib/social-share.js/dist/js/jquery.share.min.js"></script>
+    <script src="https://www.anotherhome.net/wp-content/themes/Amativeness/main.js"></script>
+    <script>
+        NProgress.set(1.0);
+    </script>
+    </body>
+</html>
